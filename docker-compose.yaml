@@ -1,0 +1,28 @@
+
+version: "3"
+services:
+    notebook:
+        image: jupyter/datascience-notebook
+        volumes:
+            - C:/Repositories/datasette-rh-test/notebook:/home/jovyan/work
+        ports:
+            - 8888:8888
+
+    datasette:
+        image: datasette
+        volumes:
+            - C:/Repositories/datasette-rh-test/notebook/database:/work
+        ports:
+            - 8009:8009
+            - 8001:8001
+            
+    nginx:
+        image: nginx
+        restart: always
+        depends_on:
+            - datasette
+        volumes:
+            - ./nginx/nginx.conf:/etc/nginx/nginx.conf
+        ports:
+            - 80:80
+            - 443:443
