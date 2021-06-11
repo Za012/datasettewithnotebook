@@ -7,4 +7,4 @@ docker build . -t datasette -f .\Dockerfile.yaml
 docker compose up
 
 4. to access datasette website: localhost:8009
-5. to query datasette from jupyter do datasette:8009
+5. to query datasette from jupyter do http://datasette:8009
