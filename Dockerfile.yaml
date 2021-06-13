@@ -1,5 +1,0 @@
-FROM datasetteproject/datasette
-
-EXPOSE 8001
-
-ENTRYPOINT datasette /work/pudl.sqlite --setting base_url /my-datasette/ -p 8001 -h 0.0.0.0
