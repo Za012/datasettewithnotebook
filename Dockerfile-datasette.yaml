@@ -8,8 +8,8 @@ RUN datasette install sqlite-utils
 RUN datasette install datasette-vega datasette-cluster-map datasette-dashboards datasette-export-notebook
 RUN datasette install datasette-column-inspect
 
-EXPOSE 8001
+# EXPOSE 8001 8002
 
 # The filesystem as seen by datasette is ./notebook/database mounted as /work
 
-ENTRYPOINT datasette '/work/corp data.db' --setting base_url /my-datasette/ -p 8001 -h 0.0.0.0
+ENTRYPOINT [ "datasette" ]
