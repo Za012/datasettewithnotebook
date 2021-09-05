@@ -13,7 +13,7 @@ services:
             - ./notebook/database:/work
         ports:
             - 8001:8001
-        command: serve "/work/corp data.db" --setting base_url /my-datasette/ -p 8001 -h 0.0.0.0
+        command: serve "/work/corp data.db" --cors --setting base_url /my-datasette/ -p 8001 -h 0.0.0.0
 
     pudl:
         image: datasette
@@ -23,5 +23,5 @@ services:
             - ./notebook/database:/work
         ports:
             - 8002:8002
-        command: serve /work/pudl.sqlite --setting base_url /pudl-datasette/ -p 8002 -h 0.0.0.0
+        command: serve /work/pudl.sqlite --cors --setting base_url /pudl-datasette/ -p 8002 -h 0.0.0.0 --metadata /work/pudl-metadata.json
 

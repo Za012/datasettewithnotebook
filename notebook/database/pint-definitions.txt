@@ -1,0 +1,14 @@
+USD = [currency]
+EUR = NaN USD
+GBP = NaN USD
+JPY = NaN USD
+NZD = NaN USD
+
+@context currencies_20210827
+    EUR = 1.1794 USD
+    GBP = 1.3769 USD
+    JPY = 109.84 USD
+    NZD = 0.7012 USD
+@end
+
+MMBTU = 1000000 * BTU = _ = mmbtu
