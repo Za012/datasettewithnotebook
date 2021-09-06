@@ -7,7 +7,10 @@
     "source_url": "https://github.com/catalyst-cooperative/pudl",
     "custom_units": [
         "USD = []",
-        "MMBTU = 1e6 * BTU"
+        "MMBTU = 1e6 * BTU",
+        "fraction = [] = frac",
+        "percent = 1e-2 frac = pct",
+        "ppm = 1e-6 fraction"
     ],
     "databases": {
         "pudl": {
@@ -22,6 +25,10 @@
                     "size": 10
                 },
                 "boiler_fuel_eia923": {
+                    "units": {
+                        "sulfur_content_pct": "pct",
+                        "ash_content_pct": "pct"
+                    },
                     "size": 10
                 },
                 "boiler_generator_assn_eia860": {
