@@ -7,7 +7,12 @@
     "source_url": "https://github.com/catalyst-cooperative/pudl",
     "custom_units": [
         "USD = []",
-        "MMBTU = 1e6 * BTU",
+	"Mcf = 1e6 * feet**3 = _ = mcf",
+	"gramsU = 1 * gram",
+	"kgU = 1000 * gramsU",
+	"mwhth = MWh",
+	"mwdth = 24 * mwhth",
+        "MMBTU = 1e6 * BTU = _ = mmbtu",
         "fraction = [] = frac",
         "percent = 1e-2 frac = pct",
         "ppm = 1e-6 fraction"
@@ -25,6 +30,7 @@
                     "size": 10
                 },
                 "boiler_fuel_eia923": {
+		    "facets": ["fuel_type_code"],
                     "units": {
                         "sulfur_content_pct": "pct",
                         "ash_content_pct": "pct"
@@ -235,7 +241,7 @@
                         "opex_misc_steam": "USD",
                         "opex_production_tota;": "USD",
                         "opex_per_mwh": "USD/MWh",
-                        "asset_retirement_cost", "USD"
+                        "asset_retirement_cost": "USD"
                     },               
                     "size": 10
                 },

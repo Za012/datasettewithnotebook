@@ -23,5 +23,4 @@ services:
             - ./notebook/database:/work
         ports:
             - 8002:8002
-        command: serve /work/pudl.sqlite --cors --setting base_url /pudl-datasette/ -p 8002 -h 0.0.0.0 --metadata /work/pudl-metadata.json
-
+        command: serve /work/pudl.sqlite --cors --setting base_url /pudl-datasette/ -p 8002 -h 0.0.0.0 --setting sql_time_limit_ms 1500 --setting default_facet_size 50 --setting facet_time_limit_ms 1500 --metadata /work/pudl-metadata.json
