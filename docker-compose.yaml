@@ -7,18 +7,16 @@ services:
         ports:
             - 8888:8888
 
-    datasette:
+    corp_data:
         image: datasette
         volumes:
             - ./notebook/database:/work
         ports:
             - 8001:8001
-        command: serve "/work/corp data.db" --cors --setting base_url /my-datasette/ -p 8001 -h 0.0.0.0
+        command: serve "/work/corp data.db" --cors --setting base_url /corp-datasette/ -p 8001 -h 0.0.0.0
 
     pudl:
         image: datasette
-        depends_on:
-            - datasette
         volumes:
             - ./notebook/database:/work
         ports:
