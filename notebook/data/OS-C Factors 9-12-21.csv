@@ -1,0 +1,120 @@
+﻿OS-C Code,Factor Area Code,Factor Code,Sub-Factor Code,Factor Area,Factor,Sub Factor
+EF.1.1,EF,1,1,Energy/Fuel,Energy consumption,Total energy consumed
+EF.1.10,EF,1,10,Energy/Fuel,Energy consumption,Total energy from other fuels
+EF.1.11,EF,1,11,Energy/Fuel,Energy consumption,Renewable Energy Credits
+EF.1.12,EF,1,12,Energy/Fuel,Energy consumption,Power Purchase Agreements
+EF.1.13,EF,1,13,Energy/Fuel,Energy consumption,On-Site Renewable Energy
+EF.1.14,EF,1,14,Energy/Fuel,Energy consumption,Non-Renewable Electricity by Region
+EF.1.15,EF,1,15,Energy/Fuel,Energy consumption,Non-Renewable Electricity by Source - Coal
+EF.1.16,EF,1,16,Energy/Fuel,Energy consumption,Non-Renewable Electricity by Source - Petroleum
+EF.1.17,EF,1,17,Energy/Fuel,Energy consumption,Non-Renewable Electricity by Source - Natural Gas
+EF.1.18,EF,1,18,Energy/Fuel,Energy consumption,Non-Renewable Electricity by Source - Nuclear
+EF.1.19,EF,1,19,Energy/Fuel,Energy consumption,Renewable Energy Purchased & Consumed by region
+EF.1.20,EF,1,20,Energy/Fuel,Energy consumption,Renewable Energy Purchased & Consumed - Wind
+EF.1.21,EF,1,21,Energy/Fuel,Energy consumption,Renewable Energy Purchased & Consumed - Landfill Gas
+EF.1.22,EF,1,22,Energy/Fuel,Energy consumption,Renewable Energy Purchased & Consumed - Biomass
+EF.1.23,EF,1,23,Energy/Fuel,Energy consumption,Renewable Energy Purchased & Consumed - Hydro
+EF.1.24,EF,1,24,Energy/Fuel,Energy consumption,Renewable Energy Purchased & Consumed - Geothermal
+EF.1.25,EF,1,25,Energy/Fuel,Energy consumption,Renewable Energy Purchased & Consumed - Solar
+EF.1.4,EF,1,4,Energy/Fuel,Energy consumption,Total energy from electricity
+EF.1.8,EF,1,8,Energy/Fuel,Energy consumption,Total energy from renewables
+EF.2.1,EF,2,1,Energy/Fuel,Energy consumption %,% of energy from alternative sources
+EF.2.4,EF,2,4,Energy/Fuel,Energy consumption %,% of energy from grid
+EF.2.7,EF,2,7,Energy/Fuel,Energy consumption %,% of energy from renewables
+EF.6.1,EF,6,1,Energy/Fuel,RPS,Number of customers served in markets subject to renewable portfolio standards (RPS)
+EF.6.2,EF,6,2,Energy/Fuel,RPS,Percentage fulfillment of renewable portfolio standards (RPS) target by market
+EF.6.3,EF,6,3,Energy/Fuel,RPS,Strategy
+EF.7.1,EF,7,1,Energy/Fuel,Grid Resiliency,Number of incidents of non-compliance with physical and/or cybersecurity standards or regulations
+EF.7.2,EF,7,2,Energy/Fuel,Grid Resiliency,System Average Interruption Duration Index (SAIDI)
+EF.7.3,EF,7,3,Energy/Fuel,Grid Resiliency,System Average Interruption Frequency Index (SAIFI)
+EF.7.4,EF,7,4,Energy/Fuel,Grid Resiliency,"Customer Average Interruption Duration Index (CAIDI), inclusive of major event days"
+EF.7.5,EF,7,5,Energy/Fuel,Grid Resiliency,The entity shall discuss notable service disruptions such as those that affected a significant number of customers or disruptions of extended duration
+EF.8.1,EF,8,1,Energy/Fuel,End-Use Efficiency & Demand,Percentage of electric utility revenues from rate structures that are decoupled
+EF.8.2,EF,8,2,Energy/Fuel,End-Use Efficiency & Demand,Percentage of electric utility revenues from rate structures that contain a lost revenue adjustment mechanism (LRAM)
+EF.8.3,EF,8,3,Energy/Fuel,End-Use Efficiency & Demand,Percentage of electric load served by smart grid technology
+EF.8.4,EF,8,4,Energy/Fuel,End-Use Efficiency & Demand,The entity shall discuss the opportunities and challenges associated with the development and operations of a smart grid
+EF.8.5,EF,8,5,Energy/Fuel,End-Use Efficiency & Demand,Customer electricity savings from efficiency measures by market
+EF.8.6,EF,8,6,Energy/Fuel,End-Use Efficiency & Demand,The entity shall discuss customer efficiency regulations relevant to each market in which it operates
+EF.9.1,EF,9,1,Energy/Fuel,Energy Affordability,Average retail electric rate for residential customers
+EF.9.2,EF,9,2,Energy/Fuel,Energy Affordability,Average retail electric rate for commercial customers
+EF.9.3,EF,9,3,Energy/Fuel,Energy Affordability,Average retail electric rate for industrial customers
+EF.9.4,EF,9,4,Energy/Fuel,Energy Affordability,Typical monthly electric bill for residential customers for 500 kWh of electricity delivered per month
+EF.9.5,EF,9,5,Energy/Fuel,Energy Affordability,"Typical monthly electric bill for residential customers for 1,000 kWh of electricity delivered per month"
+EF.9.6,EF,9,6,Energy/Fuel,Energy Affordability,Number of residential customer electric disconnections for non payment
+EF.9.7,EF,9,7,Energy/Fuel,Energy Affordability,Percentage of residential customer electric disconnections for non payment that were reconnected within 30 days
+EF.9.8,EF,9,8,Energy/Fuel,Energy Affordability,"Discussion of impact of external factors on customer affordability of electricity, including the economic conditions of the service territory"
+Em.1.1,Em,1,1,Emissions,Scope 1 Emissions Total,
+Em.11.11,Em,11,11,Emissions,Scope 3 emissions by category,Use of sold products
+Em.11.12,Em,11,12,Emissions,Scope 3 emissions by category,End of life treatment of sold products
+Em.11.13,Em,11,13,Emissions,Scope 3 emissions by category,Downstream leased assets
+Em.11.18,Em,11,18,Emissions,Scope 3 emissions by category,Purchased Goods & Services / Capital Goods
+Em.11.3,Em,11,3,Emissions,Scope 3 emissions by category,Fuel-and-energy-related activities (not included in Scope 1 or 2)
+Em.11.4,Em,11,4,Emissions,Scope 3 emissions by category,Upstream transportation and distribution
+Em.11.5,Em,11,5,Emissions,Scope 3 emissions by category,Waste generated in operations
+Em.11.6,Em,11,6,Emissions,Scope 3 emissions by category,Business travel
+Em.11.7,Em,11,7,Emissions,Scope 3 emissions by category,Employee commuting
+Em.11.9,Em,11,9,Emissions,Scope 3 emissions by category,Downstream transportation and distribution
+Em.12.1,Em,12,1,Emissions,Total GHG Emissions,
+Em.13.1,Em,13,1,Emissions,Carbon Intensity,unit total revenue
+Em.13.29,Em,13,29,Emissions,Carbon Intensity,Upstream and Integrated Gas GHG intensity
+Em.13.30,Em,13,30,Emissions,Carbon Intensity,Refinery GHG intensity
+Em.13.31,Em,13,31,Emissions,Carbon Intensity,Chemical GHG intensity
+Em.13.8,Em,13,8,Emissions,Carbon Intensity,megawatt hour generated (MWh)
+Em.14.7,Em,14,7,Emissions,Targets - Emissions Reduction,Strategy
+Em.17.1,Em,17,1,Emissions,Air Emissions other than GHG,CO
+Em.17.10,Em,17,10,Emissions,Air Emissions other than GHG,NO (excluding N O)
+Em.17.11,Em,17,11,Emissions,Air Emissions other than GHG,particulate matter (PM)
+Em.17.13,Em,17,13,Emissions,Air Emissions other than GHG,SO
+Em.17.14,Em,17,14,Emissions,Air Emissions other than GHG,volatile organic compounds (VOCs)
+Em.17.19,Em,17,19,Emissions,Air Emissions other than GHG,Percentage of lead (Pb) emissions in or near areas of dense population
+Em.17.15,Em,17,15,Emissions,Air Emissions other than GHG,Percentage of mercury (Hg) emissions in or near areas of dense population
+Em.17.16,Em,17,16,Emissions,Air Emissions other than GHG,Percentage of NO (excluding N O) emissions in or near areas of dense population
+Em.17.17,Em,17,17,Emissions,Air Emissions other than GHG,Percentage of particulate matter (PM ) emissions in or near areas of dense population
+Em.17.18,Em,17,18,Emissions,Air Emissions other than GHG,Percentage of SO emissions in or near areas of dense population
+Em.17.2,Em,17,2,Emissions,Air Emissions other than GHG,Ozone depleting substances
+Em.17.6,Em,17,6,Emissions,Air Emissions other than GHG,lead (Pb)
+Em.17.8,Em,17,8,Emissions,Air Emissions other than GHG,mercury (Hg)
+Em.2.1,Em,2,1,Emissions,"Scope 1 Emissions, % regulated","Scope 1 Emissions, % regulated under emissions-limiting regulations"
+Em.2.2,Em,2,2,Emissions,"Scope 1 Emissions, % regulated","Scope 1 Emissions, % regulated under emissions-reporting regulations"
+Em.3.1,Em,3,1,Emissions,Scope 1 emissions by region,
+Em.4.10,Em,4,10,Emissions,Scope 1 emissions by source,Hydrofluorocarbons (HFCs) (tonnes)
+Em.4.11,Em,4,11,Emissions,Scope 1 emissions by source,Perfluorocarbons (PFCs) (tonnes)
+Em.4.12,Em,4,12,Emissions,Scope 1 emissions by source,Sulfur hexafluoride (SF6)
+Em.4.7,Em,4,7,Emissions,Scope 1 emissions by source,Carbon dioxide (CO2) (million tonnes)
+Em.4.8,Em,4,8,Emissions,Scope 1 emissions by source,Methane (CH4) (Gg)
+Em.4.9,Em,4,9,Emissions,Scope 1 emissions by source,Nitrous oxide (N2O) (Gg)
+Em.5.1,Em,5,1,Emissions,Scope 1 emissions by business,Upstream
+Em.5.2,Em,5,2,Emissions,Scope 1 emissions by business,Integrated Gas
+Em.5.3,Em,5,3,Emissions,Scope 1 emissions by business,Downstream
+Em.5.4,Em,5,4,Emissions,Scope 1 emissions by business,GHG emissions associated with exported energy (subset of direct GHGs)
+Em.5.5,Em,5,5,Emissions,Scope 1 emissions by business,Greenhouse gas (GHG) emissions associated with power deliveries
+Em.6.1,Em,6,1,Emissions,Scope 1 emissions strategy description,0
+Em.6.6,Em,6,6,Emissions,Scope 1 emissions strategy description,0
+Em.7.0,Em,7,0,Emissions,Scope 2 Emissions Total,
+Em.7.1,Em,7,1,Emissions,Scope 2 Emissions Total,Scope 2 - Location-Based
+Em.7.2,Em,7,2,Emissions,Scope 2 Emissions Total,Scope 2 - Market-Based1
+Em.9.1,Em,9,1,Emissions,Scope 2 emissions by business,Upstream
+Em.9.2,Em,9,2,Emissions,Scope 2 emissions by business,Integrated Gas
+Em.9.3,Em,9,3,Emissions,Scope 2 emissions by business,Downstream
+HOLD OFF.???.0,HOLD OFF,???,0,#N/A,#N/A,#N/A
+OE.???.0,OE,???,0,#N/A,#N/A,#N/A
+OE.1.1,OE,1,1,#N/A,#N/A,#N/A
+OE.1.2,OE,1,2,#N/A,#N/A,#N/A
+OE.4.1,OE,4,1,#N/A,#N/A,#N/A
+OE.4.2,OE,4,2,#N/A,#N/A,#N/A
+OE.N/A.0,OE,N/A,0,#N/A,#N/A,#N/A
+Po.0.0,Po,0,0,Policy,0,0
+TR.0.0,TR,0,0,"Transition Risk, Adaptation, and Resilience",0,0
+WR.1.0,WR,1,0,"Water Risk, Adaptation, and Resilience",Water Management,Percentage recycled of total fresh water withdrawn
+WR.1.1,WR,1,1,"Water Risk, Adaptation, and Resilience",Water Consumption,Total water consumed
+WR.1.2,WR,1,2,"Water Risk, Adaptation, and Resilience",Water Consumption,Total fresh water consumed
+WR.1.3,WR,1,3,"Water Risk, Adaptation, and Resilience",Water Consumption,% consumed in regions with High or Extremely High Baseline Water Stress
+WR.14.0,WR,14,0,#N/A,#N/A,#N/A
+WR.2.0,WR,2,0,#N/A,#N/A,#N/A
+WR.2.1,WR,2,1,"Water Risk, Adaptation, and Resilience",Water Withdrawal,Total water withdrawn
+WR.2.2,WR,2,2,"Water Risk, Adaptation, and Resilience",Water Withdrawal,Total fresh water withdrawn
+WR.2.3,WR,2,3,"Water Risk, Adaptation, and Resilience",Water Withdrawal,% withdrawn in regions with High or Extremely High Baseline Water Stress
+WR.2.4,WR,2,4,"Water Risk, Adaptation, and Resilience",Water Withdrawal,Percentage of fresh water withdrawn in regions with High or Extremely High Baseline Water Stress
+WR.2.5,WR,2,5,"Water Risk, Adaptation, and Resilience",Water Withdrawal,Percentage of fresh water withdrawn in regions with High or Extremely High Baseline Water Stress
+WR.3.1,WR,3,1,"Water Risk, Adaptation, and Resilience",Water Management,Non-compliance incidents
+WR.3.2,WR,3,2,"Water Risk, Adaptation, and Resilience",Water Management,Strategy

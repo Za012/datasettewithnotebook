@@ -1,0 +1,143 @@
+﻿Company Name,ISIN,ISIC full_code,Region/Country,Report Date,Fiscal Year,Quarter,Month,Orig Report,Page,Note,Report Label,Quantity,Quantity Type,Reported Units,OS-C Code,Standardized Quantity,Standardized units,SASB Industry Code,SASB Sub-Metric Code,SASB units,CDP Code,OS-C - CDP synthetic code,Analyst
+MICROSOFT CORP,US5949181045,J5820,,,FY18,,,MSFT ESG 2018 Report,2,,Total Energy Use,7955318.00,,MWh,EF.1.1,7955318.00,MWh,TC-SI,TC-SI-130a.1a,"Gigajoules (GJ), Percentage (%)",,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY18,,,MSFT ESG 2018 Report,2,,Electricity,7564271.00,,MWh,EF.1.4,7564271.00,MWh,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY18,,,MSFT ESG 2018 Report,2,6,Other Fuels5,391047.00,,MWh,EF.1.10,391047.00,MWh,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY18,,,MSFT ESG 2018 Report,2,6,Renewable Energy Usage6,7564271.00,,MWh,EF.1.8,7564271.00,MWh,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY18,,,MSFT ESG 2018 Report,2,,Renewable Energy Credits,5767570.00,,MWh,EF.1.11,5767570.00,MWh,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY18,,,MSFT ESG 2018 Report,2,,Power Purchase Agreements,1796301.00,,MWh,EF.1.12,1796301.00,MWh,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY18,,,MSFT ESG 2018 Report,2,,On-Site Renewable Energy,400.00,,MWh,EF.1.13,400.00,MWh,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY17,,,MSFT ESG 2018 Report,2,,Total Energy Use,6718944.00,,MWh,EF.1.1,6718944.00,MWh,TC-SI,TC-SI-130a.1a,"Gigajoules (GJ), Percentage (%)",,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY17,,,MSFT ESG 2018 Report,2,,Electricity,6344479.00,,MWh,EF.1.4,6344479.00,MWh,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY17,,,MSFT ESG 2018 Report,2,6,Other Fuels5,374465.00,,MWh,EF.1.10,374465.00,MWh,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY17,,,MSFT ESG 2018 Report,2,6,Renewable Energy Usage6,6104758.00,,MWh,EF.1.8,6104758.00,MWh,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY17,,,MSFT ESG 2018 Report,2,,Renewable Energy Credits,5119876.00,,MWh,EF.1.11,5119876.00,MWh,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY17,,,MSFT ESG 2018 Report,2,,Power Purchase Agreements,984464.00,,MWh,EF.1.12,984464.00,MWh,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY17,,,MSFT ESG 2018 Report,2,,On-Site Renewable Energy,418.00,,MWh,EF.1.13,418.00,MWh,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY16,,,MSFT ESG 2018 Report,2,,Total Energy Use,5414197.00,,MWh,EF.1.1,5414197.00,MWh,TC-SI,TC-SI-130a.1a,"Gigajoules (GJ), Percentage (%)",,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY16,,,MSFT ESG 2018 Report,2,,Electricity,5048891.00,,MWh,EF.1.4,5048891.00,MWh,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY16,,,MSFT ESG 2018 Report,2,6,Other Fuels5,365306.00,,MWh,EF.1.10,365306.00,MWh,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY16,,,MSFT ESG 2018 Report,2,6,Renewable Energy Usage6,4852643.00,,MWh,EF.1.8,4852643.00,MWh,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY16,,,MSFT ESG 2018 Report,2,,Renewable Energy Credits,4055299.00,,MWh,EF.1.11,4055299.00,MWh,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY16,,,MSFT ESG 2018 Report,2,,Power Purchase Agreements,796802.00,,MWh,EF.1.12,796802.00,MWh,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY16,,,MSFT ESG 2018 Report,2,,On-Site Renewable Energy,542.00,,MWh,EF.1.13,542.00,MWh,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,WW,,FY18,,,MSFT ESG 2018 Report,5,,Total Electricity Consumed,7564271.00,,MWh,EF.1.1,7564271.00,MWh,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,Asia,,FY18,,,MSFT ESG 2018 Report,5,,Electricity Consumed - Asia,804024.00,,MWh,EF.1.4,804024.00,MWh,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,EMEA,,FY18,,,MSFT ESG 2018 Report,5,,"Electricity Consumed - Europe, Middle East, Africa",1265584.00,,MWh,EF.1.4,1265584.00,MWh,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,LATAM,,FY18,,,MSFT ESG 2018 Report,5,,Electricity Consumed - Latin America,107089.00,,MWh,EF.1.4,107089.00,MWh,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,NORAM,,FY18,,,MSFT ESG 2018 Report,5,,Electricity Consumed - North America,5387574.00,,MWh,EF.1.4,5387574.00,MWh,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,Asia,,FY18,,,MSFT ESG 2018 Report,5,,Non-Renewable Electricity Purchased & Consumed - Asia,0.00,Complement,MWh,EF.1.14,0.00,MWh,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,EMEA,,FY18,,,MSFT ESG 2018 Report,5,,"Non-Renewable Electricity Purchased & Consumed - Europe, Middle East, Africa",0.00,Complement,MWh,EF.1.14,0.00,MWh,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,LATAM,,FY18,,,MSFT ESG 2018 Report,5,,Non-Renewable Electricity Purchased & Consumed - Latin America,0.00,Complement,MWh,EF.1.14,0.00,MWh,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,NORAM,,FY18,,,MSFT ESG 2018 Report,5,,Non-Renewable Electricity Purchased & Consumed - North America,0.00,Complement,MWh,EF.1.14,0.00,MWh,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY18,,,MSFT ESG 2018 Report,5,Coal,Non-Renewable Electricity by Source - Coal,0.00,Complement,MWh,EF.1.15,0.00,MWh,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY18,,,MSFT ESG 2018 Report,5,Petroleum,Non-Renewable Electricity by Source - Petroleum,0.00,Complement,MWh,EF.1.16,0.00,MWh,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY18,,,MSFT ESG 2018 Report,5,Natural Gas,Non-Renewable Electricity by Source - Natural Gas,0.00,Complement,MWh,EF.1.17,0.00,MWh,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY18,,,MSFT ESG 2018 Report,5,Nuclear,Non-Renewable Electricity by Source - Nuclear,0.00,Complement,MWh,EF.1.18,0.00,MWh,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,WW,,FY17,,,MSFT ESG 2018 Report,5,,Total Electricity Consumed,6344479.00,,MWh,EF.1.1,6344479.00,MWh,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,Asia,,FY17,,,MSFT ESG 2018 Report,5,,Electricity Consumed - Asia,682710.00,,MWh,EF.1.4,682710.00,MWh,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,EMEA,,FY17,,,MSFT ESG 2018 Report,5,,"Electricity Consumed - Europe, Middle East, Africa",970755.00,,MWh,EF.1.4,970755.00,MWh,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,LATAM,,FY17,,,MSFT ESG 2018 Report,5,,Electricity Consumed - Latin America,91029.00,,MWh,EF.1.4,91029.00,MWh,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,NORAM,,FY17,,,MSFT ESG 2018 Report,5,,Electricity Consumed - North America,4599985.00,,MWh,EF.1.4,4599985.00,MWh,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,Asia,,FY17,,,MSFT ESG 2018 Report,5,,Non-Renewable Electricity Purchased & Consumed - Asia,204937.00,Complement,MWh,EF.1.14,204937.00,MWh,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,EMEA,,FY17,,,MSFT ESG 2018 Report,5,,"Non-Renewable Electricity Purchased & Consumed - Europe, Middle East, Africa",17391.00,Complement,MWh,EF.1.14,17391.00,MWh,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,LATAM,,FY17,,,MSFT ESG 2018 Report,5,,Non-Renewable Electricity Purchased & Consumed - Latin America,3681.00,Complement,MWh,EF.1.14,3681.00,MWh,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,NORAM,,FY17,,,MSFT ESG 2018 Report,5,,Non-Renewable Electricity Purchased & Consumed - North America,0.00,Complement,MWh,EF.1.14,0.00,MWh,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY17,,,MSFT ESG 2018 Report,5,,Non-Renewable Electricity by Source - Coal,42757.00,Complement,MWh,EF.1.15,42757.00,MWh,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY17,,,MSFT ESG 2018 Report,5,,Non-Renewable Electricity by Source - Petroleum,34073.00,Complement,MWh,EF.1.16,34073.00,MWh,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY17,,,MSFT ESG 2018 Report,5,,Non-Renewable Electricity by Source - Natural Gas,148692.00,Complement,MWh,EF.1.17,148692.00,MWh,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY17,,,MSFT ESG 2018 Report,5,,Non-Renewable Electricity by Source - Nuclear,487.00,Complement,MWh,EF.1.18,487.00,MWh,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,WW,,FY16,,,MSFT ESG 2018 Report,5,,Total Electricity Consumed,5048891.00,,MWh,EF.1.1,5048891.00,MWh,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,Asia,,FY16,,,MSFT ESG 2018 Report,5,,Electricity Consumed - Asia,585799.00,,MWh,EF.1.4,585799.00,MWh,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,EMEA,,FY16,,,MSFT ESG 2018 Report,5,,"Electricity Consumed - Europe, Middle East, Africa",859029.00,,MWh,EF.1.4,859029.00,MWh,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,LATAM,,FY16,,,MSFT ESG 2018 Report,5,,Electricity Consumed - Latin America,63025.00,,MWh,EF.1.4,63025.00,MWh,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,NORAM,,FY16,,,MSFT ESG 2018 Report,5,,Electricity Consumed - North America,3541038.00,,MWh,EF.1.4,3541038.00,MWh,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,Asia,,FY16,,,MSFT ESG 2018 Report,5,,Non-Renewable Electricity Purchased & Consumed - Asia,50821.00,Complement,MWh,EF.1.14,50821.00,MWh,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,EMEA,,FY16,,,MSFT ESG 2018 Report,5,,"Non-Renewable Electricity Purchased & Consumed - Europe, Middle East, Africa",21256.00,Complement,MWh,EF.1.14,21256.00,MWh,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,LATAM,,FY16,,,MSFT ESG 2018 Report,5,,Non-Renewable Electricity Purchased & Consumed - Latin America,1443.00,Complement,MWh,EF.1.14,1443.00,MWh,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,NORAM,,FY16,,,MSFT ESG 2018 Report,5,,Non-Renewable Electricity Purchased & Consumed - North America,154212.00,Complement,MWh,EF.1.14,154212.00,MWh,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY16,,,MSFT ESG 2018 Report,5,,Non-Renewable Electricity by Source - Coal,61403.00,Complement,MWh,EF.1.15,61403.00,MWh,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY16,,,MSFT ESG 2018 Report,5,,Non-Renewable Electricity by Source - Petroleum,10316.00,Complement,MWh,EF.1.16,10316.00,MWh,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY16,,,MSFT ESG 2018 Report,5,,Non-Renewable Electricity by Source - Natural Gas,101886.00,Complement,MWh,EF.1.17,101886.00,MWh,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY16,,,MSFT ESG 2018 Report,5,,Non-Renewable Electricity by Source - Nuclear,54127.00,Complement,MWh,EF.1.18,54127.00,MWh,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,Asia,,FY18,,,MSFT ESG 2018 Report,6,,Renewable Energy Purchased & Consumed - Asia,804024.00,,MWh,EF.1.19,804024.00,MWh,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,EMEA,,FY18,,,MSFT ESG 2018 Report,6,,"Renewable Energy Purchased & Consumed - Europe, Middle East, Africa",1265584.00,,MWh,EF.1.19,1265584.00,MWh,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,LATAM,,FY18,,,MSFT ESG 2018 Report,6,,Renewable Energy Purchased & Consumed - Latin America,107089.00,,MWh,EF.1.19,107089.00,MWh,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,NORAM,,FY18,,,MSFT ESG 2018 Report,6,,Renewable Energy Purchased & Consumed - North America,5387574.00,,MWh,EF.1.19,5387574.00,MWh,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY18,,,MSFT ESG 2018 Report,6,Wind,Renewable Energy Purchased & Consumed - Wind,7126236.00,,MWh,EF.1.20,7126236.00,MWh,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY18,,,MSFT ESG 2018 Report,6,Landfill Gas,Renewable Energy Purchased & Consumed - Landfill Gas,0.00,,MWh,EF.1.21,0.00,MWh,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY18,,,MSFT ESG 2018 Report,6,Biomass,Renewable Energy Purchased & Consumed - Biomass,47129.00,,MWh,EF.1.22,47129.00,MWh,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY18,,,MSFT ESG 2018 Report,6,Hydro,Renewable Energy Purchased & Consumed - Hydro,186434.00,,MWh,EF.1.23,186434.00,MWh,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY18,,,MSFT ESG 2018 Report,6,Geothermal,Renewable Energy Purchased & Consumed - Geothermal,72000.00,,MWh,EF.1.24,72000.00,MWh,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY18,,,MSFT ESG 2018 Report,6,Solar,Renewable Energy Purchased & Consumed - Solar,132472.00,,MWh,EF.1.25,132472.00,MWh,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,Asia,,FY17,,,MSFT ESG 2018 Report,6,,Renewable Energy Purchased & Consumed - Asia,466243.00,,MWh,EF.1.19,466243.00,MWh,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,EMEA,,FY17,,,MSFT ESG 2018 Report,6,,"Renewable Energy Purchased & Consumed - Europe, Middle East, Africa",941343.00,,MWh,EF.1.19,941343.00,MWh,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,LATAM,,FY17,,,MSFT ESG 2018 Report,6,,Renewable Energy Purchased & Consumed - Latin America,85935.00,,MWh,EF.1.19,85935.00,MWh,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,NORAM,,FY17,,,MSFT ESG 2018 Report,6,,Renewable Energy Purchased & Consumed - North America,4611239.00,,MWh,EF.1.19,4611239.00,MWh,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY17,,,MSFT ESG 2018 Report,6,Wind,Renewable Energy Purchased & Consumed - Wind,6004378.00,,MWh,EF.1.20,6004378.00,MWh,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY17,,,MSFT ESG 2018 Report,6,Landfill Gas,Renewable Energy Purchased & Consumed - Landfill Gas,0.00,,MWh,EF.1.21,0.00,MWh,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY17,,,MSFT ESG 2018 Report,6,Biomass,Renewable Energy Purchased & Consumed - Biomass,61029.00,,MWh,EF.1.22,61029.00,MWh,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY17,,,MSFT ESG 2018 Report,6,Hydro,Renewable Energy Purchased & Consumed - Hydro,33174.00,,MWh,EF.1.23,33174.00,MWh,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY17,,,MSFT ESG 2018 Report,6,Geothermal,Renewable Energy Purchased & Consumed - Geothermal,0.00,,MWh,EF.1.24,0.00,MWh,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY17,,,MSFT ESG 2018 Report,6,Solar,Renewable Energy Purchased & Consumed - Solar,6177.00,,MWh,EF.1.25,6177.00,MWh,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,Asia,,FY16,,,MSFT ESG 2018 Report,6,,Renewable Energy Purchased & Consumed - Asia,538714.00,,MWh,EF.1.19,538714.00,MWh,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,EMEA,,FY16,,,MSFT ESG 2018 Report,6,,"Renewable Energy Purchased & Consumed - Europe, Middle East, Africa",841725.00,,MWh,EF.1.19,841725.00,MWh,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,LATAM,,FY16,,,MSFT ESG 2018 Report,6,,Renewable Energy Purchased & Consumed - Latin America,60417.00,,MWh,EF.1.19,60417.00,MWh,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,NORAM,,FY16,,,MSFT ESG 2018 Report,6,,Renewable Energy Purchased & Consumed - North America,3411786.00,,MWh,EF.1.19,3411786.00,MWh,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY16,,,MSFT ESG 2018 Report,6,Wind,Renewable Energy Purchased & Consumed - Wind,4066230.00,,MWh,EF.1.20,4066230.00,MWh,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY16,,,MSFT ESG 2018 Report,6,Landfill Gas,Renewable Energy Purchased & Consumed - Landfill Gas,0.00,,MWh,EF.1.21,0.00,MWh,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY16,,,MSFT ESG 2018 Report,6,Biomass,Renewable Energy Purchased & Consumed - Biomass,121000.00,,MWh,EF.1.22,121000.00,MWh,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY16,,,MSFT ESG 2018 Report,6,Hydro,Renewable Energy Purchased & Consumed - Hydro,408734.00,,MWh,EF.1.23,408734.00,MWh,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY16,,,MSFT ESG 2018 Report,6,Geothermal,Renewable Energy Purchased & Consumed - Geothermal,150000.00,,MWh,EF.1.24,150000.00,MWh,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY16,,,MSFT ESG 2018 Report,6,Solar,Renewable Energy Purchased & Consumed - Solar,106679.00,,MWh,EF.1.25,106679.00,MWh,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,WW,,FY18,,,MSFT ESG 2018 Report,6,12,Total Non-Renewable Energy Purchased & Consumed,391047.00,Complement,MWh,HOLD OFF.???.0,391047.00,MWh,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,Asia,,FY18,,,MSFT ESG 2018 Report,6,12,Non-Renewable Energy Purchased & Consumed - Asia,14079.00,Complement,MWh,HOLD OFF.???.0,14079.00,MWh,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,EMEA,,FY18,,,MSFT ESG 2018 Report,6,12,"Non-Renewable Energy Purchased & Consumed - Europe, Middle East, Africa",180811.00,Complement,MWh,HOLD OFF.???.0,180811.00,MWh,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,LATAM,,FY18,,,MSFT ESG 2018 Report,6,12,Non-Renewable Energy Purchased & Consumed - Latin America,12579.00,Complement,MWh,HOLD OFF.???.0,12579.00,MWh,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,NORAM,,FY18,,,MSFT ESG 2018 Report,6,12,Non-Renewable Energy Purchased & Consumed - NorAm,183577.00,Complement,MWh,HOLD OFF.???.0,183577.00,MWh,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY18,,,MSFT ESG 2018 Report,6,12,Non-Renewable Energy Purchased & Consumed - Coal,0.00,Complement,MWh,HOLD OFF.???.0,0.00,MWh,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY18,,,MSFT ESG 2018 Report,6,12,Non-Renewable Energy Purchased & Consumed - Natural Gas,110863.00,Complement,MWh,HOLD OFF.???.0,110863.00,MWh,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY18,,,MSFT ESG 2018 Report,6,12,Non-Renewable Energy Purchased & Consumed - Crude Oil/Diesel,131149.00,Complement,MWh,HOLD OFF.???.0,131149.00,MWh,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY18,,,MSFT ESG 2018 Report,6,12,Non-Renewable Energy Purchased & Consumed - LPG/Propane/Jet Fuel,50378.00,Complement,MWh,HOLD OFF.???.0,50378.00,MWh,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY18,,,MSFT ESG 2018 Report,6,12,Non-Renewable Energy Purchased & Consumed - Gasoline,33669.00,Complement,MWh,HOLD OFF.???.0,33669.00,MWh,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY18,,,MSFT ESG 2018 Report,6,12,Non-Renewable Energy Purchased & Consumed - Chilled Water,52775.00,Complement,MWh,HOLD OFF.???.0,52775.00,MWh,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY18,,,MSFT ESG 2018 Report,6,12,Non-Renewable Energy Purchased & Consumed - Hot Water/Steam,12213.00,Complement,MWh,HOLD OFF.???.0,12213.00,MWh,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY18,,,MSFT ESG 2018 Report,6,12,Scope 3 - Category 3 (Transmission and Distribution Losses),620000.00,,MWh,HOLD OFF.???.0,620000.00,MWh,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,WW,,FY17,,,MSFT ESG 2018 Report,6,12,Total Non-Renewable Energy Purchased & Consumed,374465.00,Complement,MWh,HOLD OFF.???.0,374465.00,MWh,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,Asia,,FY17,,,MSFT ESG 2018 Report,6,12,Non-Renewable Energy Purchased & Consumed - Asia,29107.00,Complement,MWh,HOLD OFF.???.0,29107.00,MWh,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,EMEA,,FY17,,,MSFT ESG 2018 Report,6,12,"Non-Renewable Energy Purchased & Consumed - Europe, Middle East, Africa",182086.00,Complement,MWh,HOLD OFF.???.0,182086.00,MWh,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,LATAM,,FY17,,,MSFT ESG 2018 Report,6,12,Non-Renewable Energy Purchased & Consumed - Latin America,13202.00,Complement,MWh,HOLD OFF.???.0,13202.00,MWh,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,NORAM,,FY17,,,MSFT ESG 2018 Report,6,12,Non-Renewable Energy Purchased & Consumed - NorAm,150069.00,Complement,MWh,HOLD OFF.???.0,150069.00,MWh,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY17,,,MSFT ESG 2018 Report,6,12,Non-Renewable Energy Purchased & Consumed - Coal,0.00,Complement,MWh,HOLD OFF.???.0,0.00,MWh,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY17,,,MSFT ESG 2018 Report,6,12,Non-Renewable Energy Purchased & Consumed - Natural Gas,107687.00,Complement,MWh,HOLD OFF.???.0,107687.00,MWh,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY17,,,MSFT ESG 2018 Report,6,12,Non-Renewable Energy Purchased & Consumed - Crude Oil/Diesel,139027.00,Complement,MWh,HOLD OFF.???.0,139027.00,MWh,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY17,,,MSFT ESG 2018 Report,6,12,Non-Renewable Energy Purchased & Consumed - LPG/Propane/Jet Fuel,43402.00,Complement,MWh,HOLD OFF.???.0,43402.00,MWh,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY17,,,MSFT ESG 2018 Report,6,12,Non-Renewable Energy Purchased & Consumed - Gasoline,34679.00,Complement,MWh,HOLD OFF.???.0,34679.00,MWh,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY17,,,MSFT ESG 2018 Report,6,12,Non-Renewable Energy Purchased & Consumed - Chilled Water,30121.00,Complement,MWh,HOLD OFF.???.0,30121.00,MWh,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY17,,,MSFT ESG 2018 Report,6,12,Non-Renewable Energy Purchased & Consumed - Hot Water/Steam,19549.00,Complement,MWh,HOLD OFF.???.0,19549.00,MWh,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY17,,,MSFT ESG 2018 Report,6,12,Scope 3 - Category 3 (Transmission and Distribution Losses),510000.00,,MWh,HOLD OFF.???.0,510000.00,MWh,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,WW,,FY16,,,MSFT ESG 2018 Report,6,12,Total Non-Renewable Energy Purchased & Consumed,365306.00,Complement,MWh,HOLD OFF.???.0,365306.00,MWh,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,Asia,,FY16,,,MSFT ESG 2018 Report,6,12,Non-Renewable Energy Purchased & Consumed - Asia,30970.00,Complement,MWh,HOLD OFF.???.0,30970.00,MWh,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,EMEA,,FY16,,,MSFT ESG 2018 Report,6,12,"Non-Renewable Energy Purchased & Consumed - Europe, Middle East, Africa",189362.00,Complement,MWh,HOLD OFF.???.0,189362.00,MWh,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,LATAM,,FY16,,,MSFT ESG 2018 Report,6,12,Non-Renewable Energy Purchased & Consumed - Latin America,13717.00,Complement,MWh,HOLD OFF.???.0,13717.00,MWh,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,NORAM,,FY16,,,MSFT ESG 2018 Report,6,12,Non-Renewable Energy Purchased & Consumed - NorAm,131256.00,Complement,MWh,HOLD OFF.???.0,131256.00,MWh,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY16,,,MSFT ESG 2018 Report,6,12,Non-Renewable Energy Purchased & Consumed - Coal,0.00,Complement,MWh,HOLD OFF.???.0,0.00,MWh,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY16,,,MSFT ESG 2018 Report,6,12,Non-Renewable Energy Purchased & Consumed - Natural Gas,111283.00,Complement,MWh,HOLD OFF.???.0,111283.00,MWh,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY16,,,MSFT ESG 2018 Report,6,12,Non-Renewable Energy Purchased & Consumed - Crude Oil/Diesel,139631.00,Complement,MWh,HOLD OFF.???.0,139631.00,MWh,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY16,,,MSFT ESG 2018 Report,6,12,Non-Renewable Energy Purchased & Consumed - LPG/Propane/Jet Fuel,47853.00,Complement,MWh,HOLD OFF.???.0,47853.00,MWh,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY16,,,MSFT ESG 2018 Report,6,12,Non-Renewable Energy Purchased & Consumed - Gasoline,37638.00,Complement,MWh,HOLD OFF.???.0,37638.00,MWh,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY16,,,MSFT ESG 2018 Report,6,12,Non-Renewable Energy Purchased & Consumed - Chilled Water,8659.00,Complement,MWh,HOLD OFF.???.0,8659.00,MWh,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY16,,,MSFT ESG 2018 Report,6,12,Non-Renewable Energy Purchased & Consumed - Hot Water/Steam,20242.00,Complement,MWh,HOLD OFF.???.0,20242.00,MWh,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY16,,,MSFT ESG 2018 Report,6,12,Scope 3 - Category 3 (Transmission and Distribution Losses),410000.00,,MWh,HOLD OFF.???.0,410000.00,MWh,TC-SI,,,#N/A,#N/A,Tiemann
+BHP BILLITON LIMITED,AU000000BHP4,B0710,,,FY20,,,200914_Sustainability and ESG Navigators and Databook 2020.xlsx,3,,Total operational energy consumption,150.00,,PJ,EF.1.1,41666700.00,MWh,EM-MM,EM-MM-130a.1a,"Gigajoules (GJ), Percentage (%)",,,Baltzell
+BHP BILLITON LIMITED,AU000000BHP4,B0710,,,FY19,,,200914_Sustainability and ESG Navigators and Databook 2020.xlsx,3,,Total operational energy consumption,149.00,,PJ,EF.1.1,41388922.00,MWh,EM-MM,EM-MM-130a.1a,"Gigajoules (GJ), Percentage (%)",,,Baltzell
+BHP BILLITON LIMITED,AU000000BHP4,B0710,,,FY18,,,200914_Sustainability and ESG Navigators and Databook 2020.xlsx,3,,Total operational energy consumption,150.00,,PJ,EF.1.1,41666700.00,MWh,EM-MM,EM-MM-130a.1a,"Gigajoules (GJ), Percentage (%)",,,Baltzell
+VALE SA,BRVALEACNOR0,B0710,,,FY19,,,Relatorio_Sustentabilidade_Vale_2019-en.pdf,105,,Total energy consumed,165.80,,thousand TJ,EF.1.1,46055592.40,MWh,EM-MM,EM-MM-130a.1a,"Gigajoules (GJ), Percentage (%)",,,Baltzell
+CEMEX SAB-CPO,MXP225611567,C2394,,,FY17,,,IntegratedReport2019.pdf,209,,Total energy consumed,63564.00,,GWh,EF.1.1,17656680.79,MWh,EM-CM,EM-CM-130a.1a,"Gigajoules (GJ), Percentage (%)",,,Baltzell
+CEMEX SAB-CPO,MXP225611567,C2394,,,FY18,,,IntegratedReport2019.pdf,209,,Total energy consumed,65582.00,,GWh,EF.1.1,18217236.80,MWh,EM-CM,EM-CM-130a.1a,"Gigajoules (GJ), Percentage (%)",,,Baltzell
+CEMEX SAB-CPO,MXP225611567,C2394,,,FY19,,,IntegratedReport2019.pdf,209,,Total energy consumed,59182.00,,GWh,EF.1.1,16439457.60,MWh,EM-CM,EM-CM-130a.1a,"Gigajoules (GJ), Percentage (%)",,,Baltzell
+BHP BILLITON LIMITED,AU000000BHP4,B0710,,,FY20,,,200914_Sustainability and ESG Navigators and Databook 2020.xlsx,3,,Consumption of electricity from grid,32.00,,PJ,EF.2.4,8888896.00,MWh,EM-MM,EM-MM-130a.1b,"Gigajoules (GJ), Percentage (%)",,,Baltzell
+BHP BILLITON LIMITED,AU000000BHP4,B0710,,,FY20,,,200914_Sustainability and ESG Navigators and Databook 2020.xlsx,3,,Operational energy consumption from renewable sources (PJ),0.04,,PJ,EF.2.7,11111.12,MWh,EM-MM,EM-MM-130a.1c,"Gigajoules (GJ), Percentage (%)",,,Baltzell
+BHP BILLITON LIMITED,AU000000BHP4,B0710,,,FY19,,,200914_Sustainability and ESG Navigators and Databook 2020.xlsx,3,,Consumption of electricity from grid,31.00,,PJ,EF.2.4,8611118.00,MWh,EM-MM,EM-MM-130a.1b,"Gigajoules (GJ), Percentage (%)",,,Baltzell
+BHP BILLITON LIMITED,AU000000BHP4,B0710,,,FY19,,,200914_Sustainability and ESG Navigators and Databook 2020.xlsx,3,,Operational energy consumption from renewable sources (PJ),0.05,,PJ,EF.2.7,13888.90,MWh,EM-MM,EM-MM-130a.1c,"Gigajoules (GJ), Percentage (%)",,,Baltzell
+BHP BILLITON LIMITED,AU000000BHP4,B0710,,,FY18,,,200914_Sustainability and ESG Navigators and Databook 2020.xlsx,3,,Consumption of electricity from grid,31.00,,PJ,EF.2.4,8611118.00,MWh,EM-MM,EM-MM-130a.1b,"Gigajoules (GJ), Percentage (%)",,,Baltzell
+BHP BILLITON LIMITED,AU000000BHP4,B0710,,,FY18,,,200914_Sustainability and ESG Navigators and Databook 2020.xlsx,3,,Operational energy consumption from renewable sources (PJ),0.05,,PJ,EF.2.7,13888.90,MWh,EM-MM,EM-MM-130a.1c,"Gigajoules (GJ), Percentage (%)",,,Baltzell

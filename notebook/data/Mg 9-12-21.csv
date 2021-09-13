@@ -1,0 +1,149 @@
+﻿Company Name,ISIN,ISIC full_code,Region/Country,Report Date,Fiscal Year,Quarter,Month,Orig Report,Page,Note,Report Label,Quantity,Quantity Type,Reported Units,OS-C Code,Standardized Quantity,Standardized units,SASB Industry Code,SASB Sub-Metric Code,SASB units,CDP Code,OS-C - CDP synthetic code,Analyst
+PPL CORP,US69351T1060,D3510,,,FY19,,,PPL SASB Map 2019,,,mercury (Hg),55.00,,kg,Em.17.8,55.00,kg,IF-EU,IF-EU-120a.1e,"Mg (t), Percentage (%)",,,Baltzell
+AMERICAN ELECTRIC POWER,US0255371017,D3510,,,FY19,,,Final ESG Data Center.xlsx,,,Mercury (kg) ,140.90,,kg,Em.17.8,140.90,kg,IF-EU,IF-EU-120a.1e,"Mg (t), Percentage (%)",,,Baltzell
+AMERICAN ELECTRIC POWER,US0255371017,D3510,,,FY18,,,Final ESG Data Center.xlsx,,,Mercury (kg) ,179.20,,kg,Em.17.8,179.20,kg,IF-EU,IF-EU-120a.1e,"Mg (t), Percentage (%)",,,Baltzell
+AMERICAN ELECTRIC POWER,US0255371017,D3510,,,FY17,,,Final ESG Data Center.xlsx,,,Mercury (kg) ,195.90,,kg,Em.17.8,195.90,kg,IF-EU,IF-EU-120a.1e,"Mg (t), Percentage (%)",,,Baltzell
+SOUTHERN CO/THE,US8425871071,D3510,,,FY19,,,EEI-ESG-Sustainability-Reporting-Template.pdf,,,Air emissions from mercury (Hg),137.00,,kg,Em.17.8,137.00,kg,IF-EU,IF-EU-120a.1e,"Mg (t), Percentage (%)",,,Baltzell
+MICROSOFT CORP,US5949181045,J5820,,,FY18,,,MSFT ESG 2018 Report,2,10,Landfilled,1602.00,,metric tons,OE.N/A.0,1602.00,Mg,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY18,,,MSFT ESG 2018 Report,2,10,Recycled,11236.00,,metric tons,OE.4.1,11236.00,Mg,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY18,,,MSFT ESG 2018 Report,2,10,Incinerated,342.00,,metric tons,OE.1.1,342.00,Mg,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY18,,,MSFT ESG 2018 Report,2,10,Composted,5886.00,,metric tons,OE.4.2,5886.00,Mg,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY18,,,MSFT ESG 2018 Report,2,10,Hazardous Waste (included in the categories above),1405.00,,metric tons,OE.1.2,1405.00,Mg,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY18,,,MSFT ESG 2018 Report,2,10,Recycled Hazardous Waste (included in the categories above),1376.00,,metric tons,OE.???.0,1376.00,Mg,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY17,,,MSFT ESG 2018 Report,2,10,Landfilled,1602.00,,metric tons,OE.N/A.0,1602.00,Mg,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY17,,,MSFT ESG 2018 Report,2,10,Recycled,11236.00,,metric tons,OE.4.1,11236.00,Mg,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY17,,,MSFT ESG 2018 Report,2,10,Incinerated,342.00,,metric tons,OE.1.1,342.00,Mg,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY17,,,MSFT ESG 2018 Report,2,10,Composted,5886.00,,metric tons,OE.4.2,5886.00,Mg,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY17,,,MSFT ESG 2018 Report,2,10,Hazardous Waste (included in the categories above),1405.00,,metric tons,OE.1.2,1405.00,Mg,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY17,,,MSFT ESG 2018 Report,2,10,Recycled Hazardous Waste (included in the categories above),1376.00,,metric tons,OE.???.0,1376.00,Mg,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY16,,,MSFT ESG 2018 Report,2,10,Landfilled,1602.00,,metric tons,OE.N/A.0,1602.00,Mg,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY16,,,MSFT ESG 2018 Report,2,10,Recycled,11236.00,,metric tons,OE.4.1,11236.00,Mg,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY16,,,MSFT ESG 2018 Report,2,10,Incinerated,342.00,,metric tons,OE.1.1,342.00,Mg,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY16,,,MSFT ESG 2018 Report,2,10,Composted,5886.00,,metric tons,OE.4.2,5886.00,Mg,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY16,,,MSFT ESG 2018 Report,2,10,Hazardous Waste (included in the categories above),1405.00,,metric tons,OE.1.2,1405.00,Mg,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY16,,,MSFT ESG 2018 Report,2,10,Recycled Hazardous Waste (included in the categories above),1376.00,,metric tons,OE.???.0,1376.00,Mg,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,WW,,FY18,,,MSFT ESG 2018 Report,5,,NOX Emissions,29.00,,metric tons,Em.17.10,29.00,Mg,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,Asia,,FY18,,,MSFT ESG 2018 Report,5,,NOX Emissions - Asia,1.00,,metric tons,Em.17.10,1.00,Mg,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,EMEA,,FY18,,,MSFT ESG 2018 Report,5,,"NOX Emissions - Europe, Middle East, Africa",3.00,,metric tons,Em.17.10,3.00,Mg,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,LATAM,,FY18,,,MSFT ESG 2018 Report,5,,NOX Emissions - Latin America,1.00,,metric tons,Em.17.10,1.00,Mg,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,NORAM,,FY18,,,MSFT ESG 2018 Report,5,,NOX Emissions - North America,24.00,,metric tons,Em.17.10,24.00,Mg,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,WW,,FY18,,,MSFT ESG 2018 Report,5,,SOX Emissions,2.00,,metric tons,Em.17.13,2.00,Mg,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,Asia,,FY18,,,MSFT ESG 2018 Report,5,,SOX Emissions - Asia,1.00,,metric tons,Em.17.13,1.00,Mg,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,EMEA,,FY18,,,MSFT ESG 2018 Report,5,,"SOX Emissions - Europe, Middle East, Africa",0.00,,metric tons,Em.17.13,0.00,Mg,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,LATAM,,FY18,,,MSFT ESG 2018 Report,5,,SOX Emissions - Latin America,0.00,,metric tons,Em.17.13,0.00,Mg,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,NORAM,,FY18,,,MSFT ESG 2018 Report,5,,SOX Emissions - North America,1.00,,metric tons,Em.17.13,1.00,Mg,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,WW,,FY18,,,MSFT ESG 2018 Report,5,,VOC Emissions,11.00,,metric tons,Em.17.14,11.00,Mg,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,Asia,,FY18,,,MSFT ESG 2018 Report,5,,VOC Emissions - Asia,0.00,,metric tons,Em.17.14,0.00,Mg,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,EMEA,,FY18,,,MSFT ESG 2018 Report,5,,"VOC Emissions - Europe, Middle East, Africa",0.00,,metric tons,Em.17.14,0.00,Mg,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,LATAM,,FY18,,,MSFT ESG 2018 Report,5,,VOC Emissions - Latin America,0.00,,metric tons,Em.17.14,0.00,Mg,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,NORAM,,FY18,,,MSFT ESG 2018 Report,5,,VOC Emissions - North America,10.00,,metric tons,Em.17.14,10.00,Mg,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,WW,,FY18,,,MSFT ESG 2018 Report,5,,PM Emissions,2.00,,metric tons,Em.17.11,2.00,Mg,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,WW,,FY18,,,MSFT ESG 2018 Report,5,,CO Emissions,38.00,,metric tons,Em.17.1,38.00,Mg,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,WW,,FY18,,,MSFT ESG 2018 Report,5,,Ozone Depleting Substances,1116.00,,metric tons,Em.17.2,1116.00,Mg,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,WW,,FY17,,,MSFT ESG 2018 Report,5,,NOX Emissions,27.00,,metric tons,Em.17.10,27.00,Mg,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,Asia,,FY17,,,MSFT ESG 2018 Report,5,,NOX Emissions - Asia,3.00,,metric tons,Em.17.10,3.00,Mg,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,EMEA,,FY17,,,MSFT ESG 2018 Report,5,,"NOX Emissions - Europe, Middle East, Africa",3.00,,metric tons,Em.17.10,3.00,Mg,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,LATAM,,FY17,,,MSFT ESG 2018 Report,5,,NOX Emissions - Latin America,1.00,,metric tons,Em.17.10,1.00,Mg,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,NORAM,,FY17,,,MSFT ESG 2018 Report,5,,NOX Emissions - North America,20.00,,metric tons,Em.17.10,20.00,Mg,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,WW,,FY17,,,MSFT ESG 2018 Report,5,,SOX Emissions,3.00,,metric tons,Em.17.13,3.00,Mg,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,Asia,,FY17,,,MSFT ESG 2018 Report,5,,SOX Emissions - Asia,1.00,,metric tons,Em.17.13,1.00,Mg,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,EMEA,,FY17,,,MSFT ESG 2018 Report,5,,"SOX Emissions - Europe, Middle East, Africa",0.00,,metric tons,Em.17.13,0.00,Mg,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,LATAM,,FY17,,,MSFT ESG 2018 Report,5,,SOX Emissions - Latin America,0.00,,metric tons,Em.17.13,0.00,Mg,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,NORAM,,FY17,,,MSFT ESG 2018 Report,5,,SOX Emissions - North America,1.00,,metric tons,Em.17.13,1.00,Mg,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,WW,,FY17,,,MSFT ESG 2018 Report,5,,VOC Emissions,9.00,,metric tons,Em.17.14,9.00,Mg,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,Asia,,FY17,,,MSFT ESG 2018 Report,5,,VOC Emissions - Asia,0.00,,metric tons,Em.17.14,0.00,Mg,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,EMEA,,FY17,,,MSFT ESG 2018 Report,5,,"VOC Emissions - Europe, Middle East, Africa",0.00,,metric tons,Em.17.14,0.00,Mg,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,LATAM,,FY17,,,MSFT ESG 2018 Report,5,,VOC Emissions - Latin America,0.00,,metric tons,Em.17.14,0.00,Mg,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,NORAM,,FY17,,,MSFT ESG 2018 Report,5,,VOC Emissions - North America,8.00,,metric tons,Em.17.14,8.00,Mg,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,WW,,FY17,,,MSFT ESG 2018 Report,5,,PM Emissions,2.00,,metric tons,Em.17.11,2.00,Mg,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,WW,,FY17,,,MSFT ESG 2018 Report,5,,CO Emissions,35.00,,metric tons,Em.17.1,35.00,Mg,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,WW,,FY17,,,MSFT ESG 2018 Report,5,,Ozone Depleting Substances,1330.00,,metric tons,Em.17.2,1330.00,Mg,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,WW,,FY16,,,MSFT ESG 2018 Report,5,,NOX Emissions,26.00,,metric tons,Em.17.10,26.00,Mg,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,Asia,,FY16,,,MSFT ESG 2018 Report,5,,NOX Emissions - Asia,2.00,,metric tons,Em.17.10,2.00,Mg,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,EMEA,,FY16,,,MSFT ESG 2018 Report,5,,"NOX Emissions - Europe, Middle East, Africa",3.00,,metric tons,Em.17.10,3.00,Mg,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,LATAM,,FY16,,,MSFT ESG 2018 Report,5,,NOX Emissions - Latin America,1.00,,metric tons,Em.17.10,1.00,Mg,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,NORAM,,FY16,,,MSFT ESG 2018 Report,5,,NOX Emissions - North America,20.00,,metric tons,Em.17.10,20.00,Mg,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,WW,,FY16,,,MSFT ESG 2018 Report,5,,SOX Emissions,2.00,,metric tons,Em.17.13,2.00,Mg,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,Asia,,FY16,,,MSFT ESG 2018 Report,5,,SOX Emissions - Asia,1.00,,metric tons,Em.17.13,1.00,Mg,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,EMEA,,FY16,,,MSFT ESG 2018 Report,5,,"SOX Emissions - Europe, Middle East, Africa",0.00,,metric tons,Em.17.13,0.00,Mg,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,LATAM,,FY16,,,MSFT ESG 2018 Report,5,,SOX Emissions - Latin America,0.00,,metric tons,Em.17.13,0.00,Mg,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,NORAM,,FY16,,,MSFT ESG 2018 Report,5,,SOX Emissions - North America,1.00,,metric tons,Em.17.13,1.00,Mg,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,WW,,FY16,,,MSFT ESG 2018 Report,5,,VOC Emissions,10.00,,metric tons,Em.17.14,10.00,Mg,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,Asia,,FY16,,,MSFT ESG 2018 Report,5,,VOC Emissions - Asia,0.00,,metric tons,Em.17.14,0.00,Mg,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,EMEA,,FY16,,,MSFT ESG 2018 Report,5,,"VOC Emissions - Europe, Middle East, Africa",0.00,,metric tons,Em.17.14,0.00,Mg,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,LATAM,,FY16,,,MSFT ESG 2018 Report,5,,VOC Emissions - Latin America,0.00,,metric tons,Em.17.14,0.00,Mg,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,NORAM,,FY16,,,MSFT ESG 2018 Report,5,,VOC Emissions - North America,10.00,,metric tons,Em.17.14,10.00,Mg,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,WW,,FY16,,,MSFT ESG 2018 Report,5,,PM Emissions,2.00,,metric tons,Em.17.11,2.00,Mg,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,WW,,FY16,,,MSFT ESG 2018 Report,5,,CO Emissions,35.00,,metric tons,Em.17.1,35.00,Mg,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,WW,,FY16,,,MSFT ESG 2018 Report,5,,Ozone Depleting Substances,996.00,,metric tons,Em.17.2,996.00,Mg,TC-SI,,,,,Tiemann
+Royal Dutch Shell plc,GB00B03MLX29,B0610,Global,,FY19,,,Shell Sustainability Report 2019,88,,Nitrogen oxides (NOx) (thousand metric tons NO2),108.00,,thousand metric tons NO2,Em.17.10,108000.00,Mg,EM-EP,EM-EP-120a.1a,Mg (t),,,Baltzell
+Royal Dutch Shell plc,GB00B03MLX29,B0610,Global,,FY18,,,Shell Sustainability Report 2019,88,,Nitrogen oxides (NOx) (thousand metric tons NO2),111.00,,thousand metric tons NO2,Em.17.10,111000.00,Mg,EM-EP,EM-EP-120a.1a,Mg (t),,,Baltzell
+Royal Dutch Shell plc,GB00B03MLX29,B0610,Global,,FY17,,,Shell Sustainability Report 2019,88,,Nitrogen oxides (NOx) (thousand metric tons NO2),107.00,,thousand metric tons NO2,Em.17.10,107000.00,Mg,EM-EP,EM-EP-120a.1a,Mg (t),,,Baltzell
+Royal Dutch Shell plc,GB00B03MLX29,B0610,Global,,FY16,,,Shell Sustainability Report 2019,88,,Nitrogen oxides (NOx) (thousand metric tons NO2),113.00,,thousand metric tons NO2,Em.17.10,113000.00,Mg,EM-EP,EM-EP-120a.1a,Mg (t),,,Baltzell
+PPL CORP,US69351T1060,D3510,,,FY19,,,PPL SASB Map 2019,,,NOx,14633.00,,metric tonnes,Em.17.10,14633.00,Mg,IF-EU,IF-EU-120a.1a,"Mg (t), Percentage (%)",,,Baltzell
+AMERICAN ELECTRIC POWER,US0255371017,D3510,,,FY19,,,Final ESG Data Center.xlsx,,,NOx (MT),35747.00,,"Mg (t), Percentage (%)",Em.17.10,35747.00,Mg,IF-EU,IF-EU-120a.1a,"Mg (t), Percentage (%)",,,Baltzell
+AMERICAN ELECTRIC POWER,US0255371017,D3510,,,FY18,,,Final ESG Data Center.xlsx,,,NOx (MT),45282.00,,"Mg (t), Percentage (%)",Em.17.10,45282.00,Mg,IF-EU,IF-EU-120a.1a,"Mg (t), Percentage (%)",,,Baltzell
+AMERICAN ELECTRIC POWER,US0255371017,D3510,,,FY17,,,Final ESG Data Center.xlsx,,,NOx (MT),47618.00,,"Mg (t), Percentage (%)",Em.17.10,47618.00,Mg,IF-EU,IF-EU-120a.1a,"Mg (t), Percentage (%)",,,Baltzell
+KYUSHU ELECTRIC POWER CO INC,JP3246400000,D3510,,,FY20,,,annual_report_fy2020.pdf,61,,Air emissions from NO (excluding N O),4941.00,,tonnes,Em.17.10,4941.00,Mg,IF-EU,IF-EU-120a.1a,"Mg (t), Percentage (%)",,,Baltzell
+TOKYO ELECTRIC POWER COMPANY,JP3585800000,D3510,,,FY17,,,TEPCO/sasb2020-e.pdf,3,,Air emissions from NO (excluding N O),18000.00,,tonnes,Em.17.10,18000.00,Mg,IF-EU,IF-EU-120a.1a,"Mg (t), Percentage (%)",,,Baltzell
+TOKYO ELECTRIC POWER COMPANY,JP3585800000,D3510,,,FY18,,,TEPCO/sasb2020-e.pdf,3,,Air emissions from NO (excluding N O),18000.00,,tonnes,Em.17.10,18000.00,Mg,IF-EU,IF-EU-120a.1a,"Mg (t), Percentage (%)",,,Baltzell
+TOKYO ELECTRIC POWER COMPANY,JP3585800000,D3510,,,FY19,,,TEPCO/sasb2020-e.pdf,3,,Air emissions from NO (excluding N O),2000.00,,tonnes,Em.17.10,2000.00,Mg,IF-EU,IF-EU-120a.1a,"Mg (t), Percentage (%)",,,Baltzell
+BHP BILLITON LIMITED,AU000000BHP4,B0710,,,FY20,,,200914_Sustainability and ESG Navigators and Databook 2020.xlsx,3,,Total oxides of nitrogen,82898.93,,tonnes,Em.17.10,82898.93,Mg,EM-MM,EM-MM-120a.1b,Mg (t),,,Baltzell
+VALE SA,BRVALEACNOR0,B0710,,,FY17,,,Relatorio_Sustentabilidade_Vale_2019-en.pdf,109,,Air emissions for the following pollutant: NO (excluding N O),86.80,,thousand tons,Em.17.10,86800.00,Mg,EM-MM,EM-MM-120a.1b,Mg (t),,,Baltzell
+VALE SA,BRVALEACNOR0,B0710,,,FY18,,,Relatorio_Sustentabilidade_Vale_2019-en.pdf,109,,Air emissions for the following pollutant: NO (excluding N O),81.90,,thousand tons,Em.17.10,81900.00,Mg,EM-MM,EM-MM-120a.1b,Mg (t),,,Baltzell
+VALE SA,BRVALEACNOR0,B0710,,,FY19,,,Relatorio_Sustentabilidade_Vale_2019-en.pdf,109,,Air emissions for the following pollutant: NO (excluding N O),35.00,,thousand tons,Em.17.10,35000.00,Mg,EM-MM,EM-MM-120a.1b,Mg (t),,,Baltzell
+CEMEX SAB-CPO,MXP225611567,C2394,,,FY17,,,IntegratedReport2019.pdf,210,,Air emissions for the following pollutant: NO (excluding N O),57973.00,,tons,Em.17.10,57973.00,Mg,EM-CM,EM-CM-120a.1a,Mg (t),,,Baltzell
+CEMEX SAB-CPO,MXP225611567,C2394,,,FY18,,,IntegratedReport2019.pdf,210,,Air emissions for the following pollutant: NO (excluding N O),56228.00,,tons,Em.17.10,56228.00,Mg,EM-CM,EM-CM-120a.1a,Mg (t),,,Baltzell
+CEMEX SAB-CPO,MXP225611567,C2394,,,FY19,,,IntegratedReport2019.pdf,210,,Air emissions for the following pollutant: NO (excluding N O),49415.00,,tons,Em.17.10,49415.00,Mg,EM-CM,EM-CM-120a.1a,Mg (t),,,Baltzell
+PPL CORP,US69351T1060,D3510,,,FY19,,,PPL SASB Map 2019,,,particulate matter (PM10),1653.00,,metric tonnes,Em.17.11,1653.00,Mg,IF-EU,IF-EU-120a.1c,"Mg (t), Percentage (%)",,,Baltzell
+SOUTHERN CO/THE,US8425871071,D3510,,,FY19,,,EEI-ESG-Sustainability-Reporting-Template.pdf,,,Air emissions from particulate matter (PM ),15.00,,thousand MT,Em.17.11,15000.00,Mg,IF-EU,IF-EU-120a.1c,"Mg (t), Percentage (%)",,,Baltzell
+VALE SA,BRVALEACNOR0,B0710,,,FY17,,,Relatorio_Sustentabilidade_Vale_2019-en.pdf,108,,Air emissions for the following pollutant: particulate matter (PM),10.40,,thousand tons,Em.17.11,10400.00,Mg,EM-MM,EM-MM-120a.1d,Mg (t),,,Baltzell
+VALE SA,BRVALEACNOR0,B0710,,,FY18,,,Relatorio_Sustentabilidade_Vale_2019-en.pdf,108,,Air emissions for the following pollutant: particulate matter (PM),8.10,,thousand tons,Em.17.11,8100.00,Mg,EM-MM,EM-MM-120a.1d,Mg (t),,,Baltzell
+VALE SA,BRVALEACNOR0,B0710,,,FY19,,,Relatorio_Sustentabilidade_Vale_2019-en.pdf,108,,Air emissions for the following pollutant: particulate matter (PM),3.70,,thousand tons,Em.17.11,3700.00,Mg,EM-MM,EM-MM-120a.1d,Mg (t),,,Baltzell
+CEMEX SAB-CPO,MXP225611567,C2394,,,FY17,,,IntegratedReport2019.pdf,210,,Air emissions for the following pollutant: particulate matter (PM),2214.00,,tons,Em.17.11,2214.00,Mg,EM-CM,EM-CM-120a.1c,Mg (t),,,Baltzell
+CEMEX SAB-CPO,MXP225611567,C2394,,,FY18,,,IntegratedReport2019.pdf,210,,Air emissions for the following pollutant: particulate matter (PM),1911.00,,tons,Em.17.11,1911.00,Mg,EM-CM,EM-CM-120a.1c,Mg (t),,,Baltzell
+CEMEX SAB-CPO,MXP225611567,C2394,,,FY19,,,IntegratedReport2019.pdf,210,,Air emissions for the following pollutant: particulate matter (PM),1553.00,,tons,Em.17.11,1553.00,Mg,EM-CM,EM-CM-120a.1c,Mg (t),,,Baltzell
+Royal Dutch Shell plc,GB00B03MLX29,B0610,Global,,FY19,,,Shell Sustainability Report 2019,88,,Sulphur oxides (SOx) (thousand metric tons SO2) [P],65.00,,thousand metric tons,Em.17.13,65000.00,Mg,EM-EP,EM-EP-120a.1b,Mg (t),,,Baltzell
+Royal Dutch Shell plc,GB00B03MLX29,B0610,Global,,FY18,,,Shell Sustainability Report 2019,88,,Sulphur oxides (SOx) (thousand metric tons SO2) [P],74.00,,thousand metric tons,Em.17.13,74000.00,Mg,EM-EP,EM-EP-120a.1b,Mg (t),,,Baltzell
+Royal Dutch Shell plc,GB00B03MLX29,B0610,Global,,FY17,,,Shell Sustainability Report 2019,88,,Sulphur oxides (SOx) (thousand metric tons SO2) [P],81.00,,thousand metric tons,Em.17.13,81000.00,Mg,EM-EP,EM-EP-120a.1b,Mg (t),,,Baltzell
+Royal Dutch Shell plc,GB00B03MLX29,B0610,Global,,FY16,,,Shell Sustainability Report 2019,88,,Sulphur oxides (SOx) (thousand metric tons SO2) [P],83.00,,thousand metric tons,Em.17.13,83000.00,Mg,EM-EP,EM-EP-120a.1b,Mg (t),,,Baltzell
+PPL CORP,US69351T1060,D3510,,,FY19,,,PPL SASB Map 2019,,,SOx,13487.00,,metric tonnes,Em.17.13,13487.00,Mg,IF-EU,IF-EU-120a.1b,"Mg (t), Percentage (%)",,,Baltzell
+AMERICAN ELECTRIC POWER,US0255371017,D3510,,,FY19,,,Final ESG Data Center.xlsx,,,SO2 (MT),47385.00,,"Mg (t), Percentage (%)",Em.17.13,47385.00,Mg,IF-EU,IF-EU-120a.1b,"Mg (t), Percentage (%)",,,Baltzell
+AMERICAN ELECTRIC POWER,US0255371017,D3510,,,FY18,,,Final ESG Data Center.xlsx,,,SO2 (MT),62274.00,,"Mg (t), Percentage (%)",Em.17.13,62274.00,Mg,IF-EU,IF-EU-120a.1b,"Mg (t), Percentage (%)",,,Baltzell
+AMERICAN ELECTRIC POWER,US0255371017,D3510,,,FY17,,,Final ESG Data Center.xlsx,,,SO2 (MT),68652.00,,"Mg (t), Percentage (%)",Em.17.13,68652.00,Mg,IF-EU,IF-EU-120a.1b,"Mg (t), Percentage (%)",,,Baltzell
+KYUSHU ELECTRIC POWER CO INC,JP3246400000,D3510,,,FY20,,,annual_report_fy2020.pdf,61,,Air emissions from SO,3549.00,,tonnes,Em.17.13,3549.00,Mg,IF-EU,IF-EU-120a.1b,"Mg (t), Percentage (%)",,,Baltzell
+TOKYO ELECTRIC POWER COMPANY,JP3585800000,D3510,,,FY17,,,TEPCO/sasb2020-e.pdf,3,,Air emissions from SO,7000.00,,,Em.17.13,7000.00,Mg,IF-EU,IF-EU-120a.1b,"Mg (t), Percentage (%)",,,Baltzell
+TOKYO ELECTRIC POWER COMPANY,JP3585800000,D3510,,,FY18,,,TEPCO/sasb2020-e.pdf,3,,Air emissions from SO,6000.00,,,Em.17.13,6000.00,Mg,IF-EU,IF-EU-120a.1b,"Mg (t), Percentage (%)",,,Baltzell
+TOKYO ELECTRIC POWER COMPANY,JP3585800000,D3510,,,FY19,,,TEPCO/sasb2020-e.pdf,3,,Air emissions from SO,1000.00,,,Em.17.13,1000.00,Mg,IF-EU,IF-EU-120a.1b,"Mg (t), Percentage (%)",,,Baltzell
+BHP BILLITON LIMITED,AU000000BHP4,B0710,,,FY20,,,200914_Sustainability and ESG Navigators and Databook 2020.xlsx,3,,Total oxides of sulphur,16272.45,,tonnes,Em.17.13,16272.45,Mg,EM-MM,EM-MM-120a.1c,Mg (t),,,Baltzell
+SOUTHERN CO/THE,US8425871071,D3510,,,FY19,,,EEI-ESG-Sustainability-Reporting-Template.pdf,,,Air emissions from SO,32.00,,thousand MT,Em.17.13,32000.00,Mg,IF-EU,IF-EU-120a.1b,"Mg (t), Percentage (%)",,,Baltzell
+VALE SA,BRVALEACNOR0,B0710,,,FY17,,,Relatorio_Sustentabilidade_Vale_2019-en.pdf,109,,Air emissions for the following pollutant: SO,291.80,,thousand tons,Em.17.13,291800.00,Mg,EM-MM,EM-MM-120a.1c,Mg (t),,,Baltzell
+VALE SA,BRVALEACNOR0,B0710,,,FY18,,,Relatorio_Sustentabilidade_Vale_2019-en.pdf,109,,Air emissions for the following pollutant: SO,170.70,,thousand tons,Em.17.13,170700.00,Mg,EM-MM,EM-MM-120a.1c,Mg (t),,,Baltzell
+VALE SA,BRVALEACNOR0,B0710,,,FY19,,,Relatorio_Sustentabilidade_Vale_2019-en.pdf,109,,Air emissions for the following pollutant: SO,86.30,,thousand tons,Em.17.13,86300.00,Mg,EM-MM,EM-MM-120a.1c,Mg (t),,,Baltzell
+CEMEX SAB-CPO,MXP225611567,C2394,,,FY17,,,IntegratedReport2019.pdf,210,,Air emissions for the following pollutant: SO,10399.00,,tons,Em.17.13,10399.00,Mg,EM-CM,EM-CM-120a.1b,Mg (t),,,Baltzell
+CEMEX SAB-CPO,MXP225611567,C2394,,,FY18,,,IntegratedReport2019.pdf,210,,Air emissions for the following pollutant: SO,11543.00,,tons,Em.17.13,11543.00,Mg,EM-CM,EM-CM-120a.1b,Mg (t),,,Baltzell
+CEMEX SAB-CPO,MXP225611567,C2394,,,FY19,,,IntegratedReport2019.pdf,210,,Air emissions for the following pollutant: SO,12047.00,,tons,Em.17.13,12047.00,Mg,EM-CM,EM-CM-120a.1b,Mg (t),,,Baltzell
+Royal Dutch Shell plc,GB00B03MLX29,B0610,Global,,FY19,,,Shell Sustainability Report 2019,88,,Volatile organic compounds (VOCs) (thousand metric tons) [P],55.00,,thousand metric tons,Em.17.14,55000.00,Mg,EM-EP,EM-EP-120a.1c,Mg (t),,,Baltzell
+Royal Dutch Shell plc,GB00B03MLX29,B0610,Global,,FY18,,,Shell Sustainability Report 2019,88,,Volatile organic compounds (VOCs) (thousand metric tons) [P],59.00,,thousand metric tons,Em.17.14,59000.00,Mg,EM-EP,EM-EP-120a.1c,Mg (t),,,Baltzell
+Royal Dutch Shell plc,GB00B03MLX29,B0610,Global,,FY17,,,Shell Sustainability Report 2019,88,,Volatile organic compounds (VOCs) (thousand metric tons) [P],95.00,,thousand metric tons,Em.17.14,95000.00,Mg,EM-EP,EM-EP-120a.1c,Mg (t),,,Baltzell
+Royal Dutch Shell plc,GB00B03MLX29,B0610,Global,,FY16,,,Shell Sustainability Report 2019,88,,Volatile organic compounds (VOCs) (thousand metric tons) [P],153.00,,thousand metric tons,Em.17.14,153000.00,Mg,EM-EP,EM-EP-120a.1c,Mg (t),,,Baltzell
+Royal Dutch Shell plc,GB00B03MLX29,B0610,Global-X,,FY19,,,Shell Sustainability Report 2019,89,,CFCs/halons/trichloroethane (tonnes),0.00,,tonnes,Em.17.2,0.00,Mg,EM-EP,,,,,Baltzell
+Royal Dutch Shell plc,GB00B03MLX29,B0610,Global,,FY19,,,Shell Sustainability Report 2019,89,,Hydrochlorofluorocarbons (HCFCs) (tonnes),8.00,,tonnes,Em.17.2,8.00,Mg,EM-EP,,,,,Baltzell
+Royal Dutch Shell plc,GB00B03MLX29,B0610,Global-X,,FY18,,,Shell Sustainability Report 2019,89,,CFCs/halons/trichloroethane (tonnes),0.00,,tonnes,Em.17.2,0.00,Mg,EM-EP,,,,,Baltzell
+Royal Dutch Shell plc,GB00B03MLX29,B0610,Global,,FY18,,,Shell Sustainability Report 2019,89,,Hydrochlorofluorocarbons (HCFCs) (tonnes),9.00,,tonnes,Em.17.2,9.00,Mg,EM-EP,,,,,Baltzell
+Royal Dutch Shell plc,GB00B03MLX29,B0610,Global-X,,FY17,,,Shell Sustainability Report 2019,89,,CFCs/halons/trichloroethane (tonnes),0.00,,tonnes,Em.17.2,0.00,Mg,EM-EP,,,,,Baltzell
+Royal Dutch Shell plc,GB00B03MLX29,B0610,Global,,FY17,,,Shell Sustainability Report 2019,89,,Hydrochlorofluorocarbons (HCFCs) (tonnes),7.00,,tonnes,Em.17.2,7.00,Mg,EM-EP,,,,,Baltzell
+Royal Dutch Shell plc,GB00B03MLX29,B0610,Global-X,,FY16,,,Shell Sustainability Report 2019,89,,CFCs/halons/trichloroethane (tonnes),0.00,,tonnes,Em.17.2,0.00,Mg,EM-EP,,,,,Baltzell
+Royal Dutch Shell plc,GB00B03MLX29,B0610,Global,,FY16,,,Shell Sustainability Report 2019,89,,Hydrochlorofluorocarbons (HCFCs) (tonnes),8.00,,tonnes,Em.17.2,8.00,Mg,EM-EP,,,,,Baltzell
+Royal Dutch Shell plc,GB00B03MLX29,B0610,Global,,FY19,,,Shell Sustainability Report 2019,88,,Hydrofluorocarbons (HFCs) (tonnes) [P],29.00,,tonnes,Em.4.10,29.00,Mg,EM-EP,,,,,Baltzell
+Royal Dutch Shell plc,GB00B03MLX29,B0610,Global,,FY18,,,Shell Sustainability Report 2019,88,,Hydrofluorocarbons (HFCs) (tonnes) [P],31.00,,tonnes,Em.4.10,31.00,Mg,EM-EP,,,,,Baltzell
+Royal Dutch Shell plc,GB00B03MLX29,B0610,Global,,FY17,,,Shell Sustainability Report 2019,88,,Hydrofluorocarbons (HFCs) (tonnes) [P],22.00,,tonnes,Em.4.10,22.00,Mg,EM-EP,,,,,Baltzell
+Royal Dutch Shell plc,GB00B03MLX29,B0610,Global,,FY16,,,Shell Sustainability Report 2019,88,,Hydrofluorocarbons (HFCs) (tonnes) [P],21.00,,tonnes,Em.4.10,21.00,Mg,EM-EP,,,,,Baltzell
+Royal Dutch Shell plc,GB00B03MLX29,B0610,Global,,FY19,,,Shell Sustainability Report 2019,88,,Methane (CH4) (thousand metric tons) [P],91.00,,Gg,Em.4.8,91000.00,Mg,EM-EP,,,,,Baltzell
+Royal Dutch Shell plc,GB00B03MLX29,B0610,Global,,FY18,,,Shell Sustainability Report 2019,88,,Methane (CH4) (thousand metric tons) [P],92.00,,Gg,Em.4.8,92000.00,Mg,EM-EP,,,,,Baltzell
+Royal Dutch Shell plc,GB00B03MLX29,B0610,Global,,FY17,,,Shell Sustainability Report 2019,88,,Methane (CH4) (thousand metric tons) [P],123.00,,Gg,Em.4.8,123000.00,Mg,EM-EP,,,,,Baltzell
+Royal Dutch Shell plc,GB00B03MLX29,B0610,Global,,FY16,,,Shell Sustainability Report 2019,88,,Methane (CH4) (thousand metric tons) [P],138.00,,Gg,Em.4.8,138000.00,Mg,EM-EP,,,,,Baltzell
+Royal Dutch Shell plc,GB00B03MLX29,B0610,Global,,FY19,,,Shell Sustainability Report 2019,88,,Nitrous oxide (N2O) (thousand metric tons),1.00,,thousand tonnes,Em.4.9,1000.00,Mg,EM-EP,,,,,Baltzell
+Royal Dutch Shell plc,GB00B03MLX29,B0610,Global,,FY18,,,Shell Sustainability Report 2019,88,,Nitrous oxide (N2O) (thousand metric tons),1.00,,thousand tonnes,Em.4.9,1000.00,Mg,EM-EP,,,,,Baltzell
+Royal Dutch Shell plc,GB00B03MLX29,B0610,Global,,FY17,,,Shell Sustainability Report 2019,88,,Nitrous oxide (N2O) (thousand metric tons),1.00,,thousand tonnes,Em.4.9,1000.00,Mg,EM-EP,,,,,Baltzell
+Royal Dutch Shell plc,GB00B03MLX29,B0610,Global,,FY16,,,Shell Sustainability Report 2019,88,,Nitrous oxide (N2O) (thousand metric tons),1.00,,thousand tonnes,Em.4.9,1000.00,Mg,EM-EP,,,,,Baltzell

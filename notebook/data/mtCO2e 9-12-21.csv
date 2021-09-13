@@ -1,0 +1,197 @@
+﻿Company Name,ISIN,ISIC full_code,Region/Country,Report Date,Fiscal Year,Quarter,Month,Orig Report,Page,Note,Report Label,Quantity,Quantity Type,Reported Units,OS-C Code,Standardized Quantity,Standardized units,SASB Industry Code,SASB Sub-Metric Code,SASB units,CDP Code,OS-C - CDP synthetic code,Analyst
+MICROSOFT CORP,US5949181045,J5820,,,FY18,,,MSFT ESG 2018 Report,1,1,Scope 1,90723.00,,mtCO2e,Em.1.1,90723.00,mtCO2e,TC-SI,,,C6.1,C6.1.1,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY18,,,MSFT ESG 2018 Report,1,,Scope 2 - Location-Based,3000523.00,,mtCO2e,Em.7.1,3000523.00,mtCO2e,TC-SI,,,C6.3,C6.3.1,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY18,,,MSFT ESG 2018 Report,1,1,Scope 2 - Market-Based1,183329.00,,mtCO2e,Em.7.2,183329.00,mtCO2e,TC-SI,,,C6.3,C6.3.2,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY18,,,MSFT ESG 2018 Report,1,2,Scope 3 - Purchased Goods & Services / Capital Goods2,11000000.00,,mtCO2e,Em.11.18,11000000.00,mtCO2e,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY18,,,MSFT ESG 2018 Report,1,,Scope 3 - Fuel- and Energy-Related Activities,550000.00,,mtCO2e,Em.11.3,550000.00,mtCO2e,TC-SI,,,C6.5,C6.5.3,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY18,,,MSFT ESG 2018 Report,1,2,Scope 3 - Upstream Transportation2,100000.00,,mtCO2e,Em.11.4,100000.00,mtCO2e,TC-SI,,,C6.5,C6.5.4,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY18,,,MSFT ESG 2018 Report,1,2,Scope 3 - Waste2,700.00,,mtCO2e,Em.11.5,700.00,mtCO2e,TC-SI,,,C6.5,C6.5.5,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY18,,,MSFT ESG 2018 Report,1,1,Scope 3 - Business Travel1,378230.00,,mtCO2e,Em.11.6,378230.00,mtCO2e,TC-SI,,,C6.5,C6.5.6,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY18,,,MSFT ESG 2018 Report,1,2,Scope 3 - Employee Commuting2,330000.00,,mtCO2e,Em.11.7,330000.00,mtCO2e,TC-SI,,,C6.5,C6.5.7,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY18,,,MSFT ESG 2018 Report,1,2,Scope 3 - Downstream Transportation2,100000.00,,mtCO2e,Em.11.9,100000.00,mtCO2e,TC-SI,,,C6.5,C6.5.9,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY18,,,MSFT ESG 2018 Report,1,3,Scope 3 - Use of Sold Products3,4784000.00,,mtCO2e,Em.11.11,4784000.00,mtCO2e,TC-SI,,,C6.5,C6.5.11,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY18,,,MSFT ESG 2018 Report,1,,Scope 3 - End of Life of Sold Products,95000.00,,mtCO2e,Em.11.12,95000.00,mtCO2e,TC-SI,,,C6.5,C6.5.12,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY18,,,MSFT ESG 2018 Report,1,,Scope 3 - Downstream Leased Assets,1690.00,,mtCO2e,Em.11.13,1690.00,mtCO2e,TC-SI,,,C6.5,C6.5.13,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY18,,,MSFT ESG 2018 Report,1,4,"Total - Scope 1, Scope 2, and Scope 34",17614000.00,,mtCO2e,Em.12.1,17614000.00,mtCO2e,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY17,,,MSFT ESG 2018 Report,1,1,Scope 1,97639.00,,mtCO2e,Em.1.1,97639.00,mtCO2e,TC-SI,,,C6.1,C6.1.1,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY17,,,MSFT ESG 2018 Report,1,,Scope 2 - Location-Based,2691879.00,,mtCO2e,Em.7.1,2691879.00,mtCO2e,TC-SI,,,C6.3,C6.3.1,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY17,,,MSFT ESG 2018 Report,1,1,Scope 2 - Market-Based1,139108.00,,mtCO2e,Em.7.2,139108.00,mtCO2e,TC-SI,,,C6.3,C6.3.2,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY17,,,MSFT ESG 2018 Report,1,2,Scope 3 - Purchased Goods & Services / Capital Goods2,13000000.00,,mtCO2e,Em.11.18,13000000.00,mtCO2e,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY17,,,MSFT ESG 2018 Report,1,,Scope 3 - Fuel- and Energy-Related Activities,540000.00,,mtCO2e,Em.11.3,540000.00,mtCO2e,TC-SI,,,C6.5,C6.5.3,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY17,,,MSFT ESG 2018 Report,1,2,Scope 3 - Upstream Transportation2,100000.00,,mtCO2e,Em.11.4,100000.00,mtCO2e,TC-SI,,,C6.5,C6.5.4,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY17,,,MSFT ESG 2018 Report,1,2,Scope 3 - Waste2,700.00,,mtCO2e,Em.11.5,700.00,mtCO2e,TC-SI,,,C6.5,C6.5.5,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY17,,,MSFT ESG 2018 Report,1,1,Scope 3 - Business Travel1,337122.00,,mtCO2e,Em.11.6,337122.00,mtCO2e,TC-SI,,,C6.5,C6.5.6,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY17,,,MSFT ESG 2018 Report,1,2,Scope 3 - Employee Commuting2,330000.00,,mtCO2e,Em.11.7,330000.00,mtCO2e,TC-SI,,,C6.5,C6.5.7,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY17,,,MSFT ESG 2018 Report,1,2,Scope 3 - Downstream Transportation2,80000.00,,mtCO2e,Em.11.9,80000.00,mtCO2e,TC-SI,,,C6.5,C6.5.9,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY17,,,MSFT ESG 2018 Report,1,3,Scope 3 - Use of Sold Products3,4274000.00,,mtCO2e,Em.11.11,4274000.00,mtCO2e,TC-SI,,,C6.5,C6.5.11,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY17,,,MSFT ESG 2018 Report,1,,Scope 3 - End of Life of Sold Products,106000.00,,mtCO2e,Em.11.12,106000.00,mtCO2e,TC-SI,,,C6.5,C6.5.12,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY17,,,MSFT ESG 2018 Report,1,,Scope 3 - Downstream Leased Assets,700.00,,mtCO2e,Em.11.13,700.00,mtCO2e,TC-SI,,,C6.5,C6.5.13,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY17,,,MSFT ESG 2018 Report,1,4,"Total - Scope 1, Scope 2, and Scope 34",19005000.00,,mtCO2e,Em.12.1,19005000.00,mtCO2e,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY16,,,MSFT ESG 2018 Report,1,1,Scope 1,94651.00,,mtCO2e,Em.1.1,94651.00,mtCO2e,TC-SI,,,C6.1,C6.1.1,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY16,,,MSFT ESG 2018 Report,1,,Scope 2 - Location-Based,2139343.00,,mtCO2e,Em.7.1,2139343.00,mtCO2e,TC-SI,,,C6.3,C6.3.1,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY16,,,MSFT ESG 2018 Report,1,1,Scope 2 - Market-Based1,115955.00,,mtCO2e,Em.7.2,115955.00,mtCO2e,TC-SI,,,C6.3,C6.3.2,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY16,,,MSFT ESG 2018 Report,1,2,Scope 3 - Purchased Goods & Services / Capital Goods2,9000000.00,,mtCO2e,Em.11.18,9000000.00,mtCO2e,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY16,,,MSFT ESG 2018 Report,1,,Scope 3 - Fuel- and Energy-Related Activities,440000.00,,mtCO2e,Em.11.3,440000.00,mtCO2e,TC-SI,,,C6.5,C6.5.3,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY16,,,MSFT ESG 2018 Report,1,2,Scope 3 - Upstream Transportation2,100000.00,,mtCO2e,Em.11.4,100000.00,mtCO2e,TC-SI,,,C6.5,C6.5.4,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY16,,,MSFT ESG 2018 Report,1,2,Scope 3 - Waste2,800.00,,mtCO2e,Em.11.5,800.00,mtCO2e,TC-SI,,,C6.5,C6.5.5,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY16,,,MSFT ESG 2018 Report,1,1,Scope 3 - Business Travel1,327483.00,,mtCO2e,Em.11.6,327483.00,mtCO2e,TC-SI,,,C6.5,C6.5.6,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY16,,,MSFT ESG 2018 Report,1,2,Scope 3 - Employee Commuting2,280000.00,,mtCO2e,Em.11.7,280000.00,mtCO2e,TC-SI,,,C6.5,C6.5.7,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY16,,,MSFT ESG 2018 Report,1,2,Scope 3 - Downstream Transportation2,120000.00,,mtCO2e,Em.11.9,120000.00,mtCO2e,TC-SI,,,C6.5,C6.5.9,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY16,,,MSFT ESG 2018 Report,1,3,Scope 3 - Use of Sold Products3,6467000.00,,mtCO2e,Em.11.11,6467000.00,mtCO2e,TC-SI,,,C6.5,C6.5.11,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY16,,,MSFT ESG 2018 Report,1,,Scope 3 - End of Life of Sold Products,174000.00,,mtCO2e,Em.11.12,174000.00,mtCO2e,TC-SI,,,C6.5,C6.5.12,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY16,,,MSFT ESG 2018 Report,1,,Scope 3 - Downstream Leased Assets,4000.00,,mtCO2e,Em.11.13,4000.00,mtCO2e,TC-SI,,,C6.5,C6.5.13,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY16,,,MSFT ESG 2018 Report,1,4,"Total - Scope 1, Scope 2, and Scope 3",17124000.00,,mtCO2e,Em.12.1,17124000.00,mtCO2e,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,WW,,FY18,,,MSFT ESG 2018 Report,4,,Scope 1 - CO2,73151.00,,mtCO2e,Em.4.7,73151.00,mtCO2e,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,WW,,FY18,,,MSFT ESG 2018 Report,4,,Scope 1 - CH4,26.00,,mtCO2e,Em.4.8,26.00,mtCO2e,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,Asia,,FY18,,,MSFT ESG 2018 Report,4,,CH4 Emissions - Asia,2.00,,mtCO2e,Em.4.8,2.00,mtCO2e,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,EMEA,,FY18,,,MSFT ESG 2018 Report,4,,"CH4 Emissions - Europe, Middle East, Africa",9.00,,mtCO2e,Em.4.8,9.00,mtCO2e,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,LATAM,,FY18,,,MSFT ESG 2018 Report,4,,CH4 Emissions - Latin America,3.00,,mtCO2e,Em.4.8,3.00,mtCO2e,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,US,,FY18,,,MSFT ESG 2018 Report,4,,CH4 Emissions - US,12.00,,mtCO2e,Em.4.8,12.00,mtCO2e,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,WW,,FY18,,,MSFT ESG 2018 Report,4,,Scope 1 - N2O,199.00,,mtCO2e,Em.4.9,199.00,mtCO2e,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,WW,,FY18,,,MSFT ESG 2018 Report,4,,Scope 1 - HFCs,17315.00,,mtCO2e,Em.4.10,17315.00,mtCO2e,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,WW,,FY18,,,MSFT ESG 2018 Report,4,,Scope 1 - PFC,0.00,,mtCO2e,Em.4.11,0.00,mtCO2e,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,WW,,FY18,,,MSFT ESG 2018 Report,4,11,Scope 1 - SF6,32.00,,mtCO2e,Em.4.12,32.00,mtCO2e,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,Asia,,FY18,,,MSFT ESG 2018 Report,4,,Scope 1 - Asia,4885.00,,mtCO2e,Em.3.1,4885.00,mtCO2e,TC-SI,,,C7.2,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,EMEA,,FY18,,,MSFT ESG 2018 Report,4,,"Scope 1 - Europe, Middle East, Africa",41842.00,,mtCO2e,Em.3.1,41842.00,mtCO2e,TC-SI,,,C7.2,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,LATAM,,FY18,,,MSFT ESG 2018 Report,4,,Scope 1 - Latin America,3553.00,,mtCO2e,Em.3.1,3553.00,mtCO2e,TC-SI,,,C7.2,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,NORAM,,FY18,,,MSFT ESG 2018 Report,4,,Scope 1 - North America,40443.00,,mtCO2e,Em.3.1,40443.00,mtCO2e,TC-SI,,,C7.2,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,Asia,,FY18,,,MSFT ESG 2018 Report,4,,Scope 2 - Location-Based - Asia,528277.00,,mtCO2e,Em.7.1,528277.00,mtCO2e,TC-SI,,,C6.3,C6.3.1,Tiemann
+MICROSOFT CORP,US5949181045,J5820,EMEA,,FY18,,,MSFT ESG 2018 Report,4,,"Scope 2 - Location-Based - Europe, Middle East, Africa",518921.00,,mtCO2e,Em.7.1,518921.00,mtCO2e,TC-SI,,,C6.3,C6.3.1,Tiemann
+MICROSOFT CORP,US5949181045,J5820,LATAM,,FY18,,,MSFT ESG 2018 Report,4,,Scope 2 - Location-Based - Latin America,23517.00,,mtCO2e,Em.7.1,23517.00,mtCO2e,TC-SI,,,C6.3,C6.3.1,Tiemann
+MICROSOFT CORP,US5949181045,J5820,NORAM,,FY18,,,MSFT ESG 2018 Report,4,,Scope 2 - Location-Based - North America,1929807.00,,mtCO2e,Em.7.1,1929807.00,mtCO2e,TC-SI,,,C6.3,C6.3.1,Tiemann
+MICROSOFT CORP,US5949181045,J5820,Asia,,FY18,,,MSFT ESG 2018 Report,4,,"Scope 2, Market-based - ASIA",174533.00,,mtCO2e,Em.7.2,174533.00,mtCO2e,TC-SI,,,C6.3,C6.3.2,Tiemann
+MICROSOFT CORP,US5949181045,J5820,EMEA,,FY18,,,MSFT ESG 2018 Report,4,,"Scope 2, Market-based - EMEA",7301.00,,mtCO2e,Em.7.2,7301.00,mtCO2e,TC-SI,,,C6.3,C6.3.2,Tiemann
+MICROSOFT CORP,US5949181045,J5820,LATAM,,FY18,,,MSFT ESG 2018 Report,4,,"Scope 2, Market-based - LATAM",751.00,,mtCO2e,Em.7.2,751.00,mtCO2e,TC-SI,,,C6.3,C6.3.2,Tiemann
+MICROSOFT CORP,US5949181045,J5820,NORAM,,FY18,,,MSFT ESG 2018 Report,4,,"Scope 2, Market-based - NORAM",744.00,,mtCO2e,Em.7.2,744.00,mtCO2e,TC-SI,,,C6.3,C6.3.2,Tiemann
+MICROSOFT CORP,US5949181045,J5820,WW,,FY17,,,MSFT ESG 2018 Report,4,,Scope 1 - CO2,73113.00,,mtCO2e,Em.4.7,73113.00,mtCO2e,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,WW,,FY17,,,MSFT ESG 2018 Report,4,,Scope 1 - CH4,27.00,,mtCO2e,Em.4.8,27.00,mtCO2e,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,Asia,,FY17,,,MSFT ESG 2018 Report,4,,CH4 Emissions - Asia,3.00,,mtCO2e,Em.4.8,3.00,mtCO2e,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,EMEA,,FY17,,,MSFT ESG 2018 Report,4,,"CH4 Emissions - Europe, Middle East, Africa",9.00,,mtCO2e,Em.4.8,9.00,mtCO2e,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,LATAM,,FY17,,,MSFT ESG 2018 Report,4,,CH4 Emissions - Latin America,3.00,,mtCO2e,Em.4.8,3.00,mtCO2e,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,US,,FY17,,,MSFT ESG 2018 Report,4,,CH4 Emissions - US,12.00,,mtCO2e,Em.4.8,12.00,mtCO2e,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,WW,,FY17,,,MSFT ESG 2018 Report,4,,Scope 1 - N2O,186.00,,mtCO2e,Em.4.9,186.00,mtCO2e,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,WW,,FY17,,,MSFT ESG 2018 Report,4,,Scope 1 - HFCs,24314.00,,mtCO2e,Em.4.10,24314.00,mtCO2e,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,WW,,FY17,,,MSFT ESG 2018 Report,4,,Scope 1 - PFC,0.00,,mtCO2e,Em.4.11,0.00,mtCO2e,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,WW,,FY17,,,MSFT ESG 2018 Report,4,11,Scope 1 - SF6,0.00,,mtCO2e,Em.4.12,0.00,mtCO2e,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,Asia,,FY17,,,MSFT ESG 2018 Report,4,,Scope 1 - Asia,8454.00,,mtCO2e,Em.3.1,8454.00,mtCO2e,TC-SI,,,C7.2,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,EMEA,,FY17,,,MSFT ESG 2018 Report,4,,"Scope 1 - Europe, Middle East, Africa",43196.00,,mtCO2e,Em.3.1,43196.00,mtCO2e,TC-SI,,,C7.2,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,LATAM,,FY17,,,MSFT ESG 2018 Report,4,,Scope 1 - Latin America,3632.00,,mtCO2e,Em.3.1,3632.00,mtCO2e,TC-SI,,,C7.2,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,NORAM,,FY17,,,MSFT ESG 2018 Report,4,,Scope 1 - North America,42356.00,,mtCO2e,Em.3.1,42356.00,mtCO2e,TC-SI,,,C7.2,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,Asia,,FY17,,,MSFT ESG 2018 Report,4,,Scope 2 - Location-Based - Asia,439033.00,,mtCO2e,Em.7.1,439033.00,mtCO2e,TC-SI,,,C6.3,C6.3.1,Tiemann
+MICROSOFT CORP,US5949181045,J5820,EMEA,,FY17,,,MSFT ESG 2018 Report,4,,"Scope 2 - Location-Based - Europe, Middle East, Africa",399061.00,,mtCO2e,Em.7.1,399061.00,mtCO2e,TC-SI,,,C6.3,C6.3.1,Tiemann
+MICROSOFT CORP,US5949181045,J5820,LATAM,,FY17,,,MSFT ESG 2018 Report,4,,Scope 2 - Location-Based - Latin America,21012.00,,mtCO2e,Em.7.1,21012.00,mtCO2e,TC-SI,,,C6.3,C6.3.1,Tiemann
+MICROSOFT CORP,US5949181045,J5820,NORAM,,FY17,,,MSFT ESG 2018 Report,4,,Scope 2 - Location-Based - North America,1832773.00,,mtCO2e,Em.7.1,1832773.00,mtCO2e,TC-SI,,,C6.3,C6.3.1,Tiemann
+MICROSOFT CORP,US5949181045,J5820,Asia,,FY17,,,MSFT ESG 2018 Report,4,,"Scope 2, Market-based - ASIA",121930.00,,mtCO2e,Em.7.2,121930.00,mtCO2e,TC-SI,,,C6.3,C6.3.2,Tiemann
+MICROSOFT CORP,US5949181045,J5820,EMEA,,FY17,,,MSFT ESG 2018 Report,4,,"Scope 2, Market-based - EMEA",14460.00,,mtCO2e,Em.7.2,14460.00,mtCO2e,TC-SI,,,C6.3,C6.3.2,Tiemann
+MICROSOFT CORP,US5949181045,J5820,LATAM,,FY17,,,MSFT ESG 2018 Report,4,,"Scope 2, Market-based - LATAM",2096.00,,mtCO2e,Em.7.2,2096.00,mtCO2e,TC-SI,,,C6.3,C6.3.2,Tiemann
+MICROSOFT CORP,US5949181045,J5820,NORAM,,FY17,,,MSFT ESG 2018 Report,4,,"Scope 2, Market-based - NORAM",623.00,,mtCO2e,Em.7.2,623.00,mtCO2e,TC-SI,,,C6.3,C6.3.2,Tiemann
+MICROSOFT CORP,US5949181045,J5820,WW,,FY16,,,MSFT ESG 2018 Report,4,,Scope 1 - CO2,75794.00,,mtCO2e,Em.4.7,75794.00,mtCO2e,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,WW,,FY16,,,MSFT ESG 2018 Report,4,,Scope 1 - CH4,27.00,,mtCO2e,Em.4.8,27.00,mtCO2e,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,Asia,,FY16,,,MSFT ESG 2018 Report,4,,CH4 Emissions - Asia,3.00,,mtCO2e,Em.4.8,3.00,mtCO2e,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,EMEA,,FY16,,,MSFT ESG 2018 Report,4,,"CH4 Emissions - Europe, Middle East, Africa",10.00,,mtCO2e,Em.4.8,10.00,mtCO2e,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,LATAM,,FY16,,,MSFT ESG 2018 Report,4,,CH4 Emissions - Latin America,3.00,,mtCO2e,Em.4.8,3.00,mtCO2e,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,US,,FY16,,,MSFT ESG 2018 Report,4,,CH4 Emissions - US,11.00,,mtCO2e,Em.4.8,11.00,mtCO2e,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,WW,,FY16,,,MSFT ESG 2018 Report,4,,Scope 1 - N2O,192.00,,mtCO2e,Em.4.9,192.00,mtCO2e,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,WW,,FY16,,,MSFT ESG 2018 Report,4,,Scope 1 - HFCs,18638.00,,mtCO2e,Em.4.10,18638.00,mtCO2e,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,WW,,FY16,,,MSFT ESG 2018 Report,4,,Scope 1 - PFC,0.00,,mtCO2e,Em.4.11,0.00,mtCO2e,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,WW,,FY16,,,MSFT ESG 2018 Report,4,11,Scope 1 - SF6,0.00,,mtCO2e,Em.4.12,0.00,mtCO2e,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,Asia,,FY16,,,MSFT ESG 2018 Report,4,,Scope 1 - Asia,8264.00,,mtCO2e,Em.3.1,8264.00,mtCO2e,TC-SI,,,C7.2,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,EMEA,,FY16,,,MSFT ESG 2018 Report,4,,"Scope 1 - Europe, Middle East, Africa",44206.00,,mtCO2e,Em.3.1,44206.00,mtCO2e,TC-SI,,,C7.2,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,LATAM,,FY16,,,MSFT ESG 2018 Report,4,,Scope 1 - Latin America,3726.00,,mtCO2e,Em.3.1,3726.00,mtCO2e,TC-SI,,,C7.2,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,NORAM,,FY16,,,MSFT ESG 2018 Report,4,,Scope 1 - North America,38454.00,,mtCO2e,Em.3.1,38454.00,mtCO2e,TC-SI,,,C7.2,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,Asia,,FY16,,,MSFT ESG 2018 Report,4,,Scope 2 - Location-Based - Asia,384432.00,,mtCO2e,Em.7.1,384432.00,mtCO2e,TC-SI,,,C6.3,C6.3.1,Tiemann
+MICROSOFT CORP,US5949181045,J5820,EMEA,,FY16,,,MSFT ESG 2018 Report,4,,"Scope 2 - Location-Based - Europe, Middle East, Africa",356987.00,,mtCO2e,Em.7.1,356987.00,mtCO2e,TC-SI,,,C6.3,C6.3.1,Tiemann
+MICROSOFT CORP,US5949181045,J5820,LATAM,,FY16,,,MSFT ESG 2018 Report,4,,Scope 2 - Location-Based - Latin America,18952.00,,mtCO2e,Em.7.1,18952.00,mtCO2e,TC-SI,,,C6.3,C6.3.1,Tiemann
+MICROSOFT CORP,US5949181045,J5820,NORAM,,FY16,,,MSFT ESG 2018 Report,4,,Scope 2 - Location-Based - North America,1378971.00,,mtCO2e,Em.7.1,1378971.00,mtCO2e,TC-SI,,,C6.3,C6.3.1,Tiemann
+MICROSOFT CORP,US5949181045,J5820,Asia,,FY16,,,MSFT ESG 2018 Report,4,,"Scope 2, Market-based - ASIA",28849.00,,mtCO2e,Em.7.2,28849.00,mtCO2e,TC-SI,,,C6.3,C6.3.2,Tiemann
+MICROSOFT CORP,US5949181045,J5820,EMEA,,FY16,,,MSFT ESG 2018 Report,4,,"Scope 2, Market-based - EMEA",17682.00,,mtCO2e,Em.7.2,17682.00,mtCO2e,TC-SI,,,C6.3,C6.3.2,Tiemann
+MICROSOFT CORP,US5949181045,J5820,LATAM,,FY16,,,MSFT ESG 2018 Report,4,,"Scope 2, Market-based - LATAM",1037.00,,mtCO2e,Em.7.2,1037.00,mtCO2e,TC-SI,,,C6.3,C6.3.2,Tiemann
+MICROSOFT CORP,US5949181045,J5820,NORAM,,FY16,,,MSFT ESG 2018 Report,4,,"Scope 2, Market-based - NORAM",68387.00,,mtCO2e,Em.7.2,68387.00,mtCO2e,TC-SI,,,C6.3,C6.3.2,Tiemann
+Royal Dutch Shell plc,GB00B03MLX29,B0610,Global,,FY19,,,Shell Sustainability Report 2019,88,,Direct GHG emissions (Scope 1) (million tonnes CO2 equivalent) [A],70.00,,million mtCO2e,Em.1.1,70000000.00,mtCO2e,EM-EP,EM-EP-110a.1a,"Mg CO₂-e (t), Percentage (%)",C6.1,C6.1.1,Baltzell
+Royal Dutch Shell plc,GB00B03MLX29,B0610,Global,,FY18,,,Shell Sustainability Report 2019,88,,Direct GHG emissions (Scope 1) (million tonnes CO2 equivalent) [A],71.00,,million mtCO2e,Em.1.1,71000000.00,mtCO2e,EM-EP,EM-EP-110a.1a,"Mg CO₂-e (t), Percentage (%)",C6.1,C6.1.1,Baltzell
+Royal Dutch Shell plc,GB00B03MLX29,B0610,Global,,FY17,,,Shell Sustainability Report 2019,88,,Direct GHG emissions (Scope 1) (million tonnes CO2 equivalent) [A],73.00,,million mtCO2e,Em.1.1,73000000.00,mtCO2e,EM-EP,EM-EP-110a.1a,"Mg CO₂-e (t), Percentage (%)",C6.1,C6.1.1,Baltzell
+Royal Dutch Shell plc,GB00B03MLX29,B0610,Global,,FY16,,,Shell Sustainability Report 2019,88,,Direct GHG emissions (Scope 1) (million tonnes CO2 equivalent) [A],70.00,,million mtCO2e,Em.1.1,70000000.00,mtCO2e,EM-EP,EM-EP-110a.1a,"Mg CO₂-e (t), Percentage (%)",C6.1,C6.1.1,Baltzell
+PPL CORP,US69351T1060,D3510,,,FY19,,,PPL SASB Map 2019,,,Gross global Scope 1 emissions,26851641.00,,mtCO2e,Em.1.1,26851641.00,mtCO2e,IF-EU,IF-EU-110a.1a,"Mg (t) CO₂-e, Percentage (%)",C6.1,C6.1.1,Baltzell
+E.ON SE,DE000ENAG999,D3510,,,FY19,,,https://www.eon.com/en/about-us/sustainability/facts-and-figures.html,,,Greenhouse gas emissions - Scope 1,4.91,,million mtCO2e,Em.1.1,4910000.00,mtCO2e,IF-EU,,,C6.1,C6.1.1,Baltzell
+E.ON SE,DE000ENAG999,D3510,,,FY18,,,https://www.eon.com/en/about-us/sustainability/facts-and-figures.html,,,Greenhouse gas emissions - Scope 1,4.58,,million mtCO2e,Em.1.1,4580000.00,mtCO2e,IF-EU,,,C6.1,C6.1.1,Baltzell
+E.ON SE,DE000ENAG999,D3510,,,FY17,,,https://www.eon.com/en/about-us/sustainability/facts-and-figures.html,,,Greenhouse gas emissions - Scope 1,4.53,,million mtCO2e,Em.1.1,4530000.00,mtCO2e,IF-EU,,,C6.1,C6.1.1,Baltzell
+AMERICAN ELECTRIC POWER,US0255371017,D3510,,,FY19,,,Final ESG Data Center.xlsx,,,Total Scope 1 emissions CO2e (metric tonnes),64776307.00,,metric tonnes,Em.1.1,64776307.00,mtCO2e,IF-EU,IF-EU-110a.1a,"Mg (t) CO₂-e, Percentage (%)",C6.1,C6.1.1,Baltzell
+AMERICAN ELECTRIC POWER,US0255371017,D3510,,,FY18,,,Final ESG Data Center.xlsx,,,Total Scope 1 emissions CO2e (metric tonnes),75361246.00,,metric tonnes,Em.1.1,75361246.00,mtCO2e,IF-EU,IF-EU-110a.1a,"Mg (t) CO₂-e, Percentage (%)",C6.1,C6.1.1,Baltzell
+AMERICAN ELECTRIC POWER,US0255371017,D3510,,,FY17,,,Final ESG Data Center.xlsx,,,Total Scope 1 emissions CO2e (metric tonnes),78760420.00,,metric tonnes,Em.1.1,78760420.00,mtCO2e,IF-EU,IF-EU-110a.1a,"Mg (t) CO₂-e, Percentage (%)",C6.1,C6.1.1,Baltzell
+KYUSHU ELECTRIC POWER CO INC,JP3246400000,D3510,,,FY20,,,annual_report_fy2020.pdf,61,,Gross global Scope 1 emissions,19040000.00,,t-CO2,Em.1.1,19040000.00,mtCO2e,IF-EU,IF-EU-110a.1a,"Mg (t) CO₂-e, Percentage (%)",C6.1,C6.1.1,Baltzell
+TOKYO ELECTRIC POWER COMPANY,JP3585800000,D3510,,,FY17,,,TEPCO/sasb2020-e.pdf,3,,Gross global Scope 1 emissions,84300000.00,,t-CO2,Em.1.1,84300000.00,mtCO2e,IF-EU,IF-EU-110a.1a,"Mg (t) CO₂-e, Percentage (%)",C6.1,C6.1.1,Baltzell
+TOKYO ELECTRIC POWER COMPANY,JP3585800000,D3510,,,FY18,,,TEPCO/sasb2020-e.pdf,3,,Gross global Scope 1 emissions,81600000.00,,t-CO2,Em.1.1,81600000.00,mtCO2e,IF-EU,IF-EU-110a.1a,"Mg (t) CO₂-e, Percentage (%)",C6.1,C6.1.1,Baltzell
+TOKYO ELECTRIC POWER COMPANY,JP3585800000,D3510,,,FY19,,,TEPCO/sasb2020-e.pdf,3,,Gross global Scope 1 emissions,200000.00,,t-CO2,Em.1.1,200000.00,mtCO2e,IF-EU,IF-EU-110a.1a,"Mg (t) CO₂-e, Percentage (%)",C6.1,C6.1.1,Baltzell
+BHP BILLITON LIMITED,AU000000BHP4,B0710,,,FY20,,,200914_Sustainability and ESG Navigators and Databook 2020.xlsx,3,,Scope 1 GHG emissions(6),9.49,,mtCO2e,Em.1.1,9.49,mtCO2e,EM-MM,EM-MM-110a.1a,"Mg (t) CO₂-e, Percentage (%)",C6.1,C6.1.1,Baltzell
+BHP BILLITON LIMITED,AU000000BHP4,B0710,,,FY19,,,200914_Sustainability and ESG Navigators and Databook 2020.xlsx,3,,Scope 1 GHG emissions(6),9.72,,mtCO2e,Em.1.1,9.72,mtCO2e,EM-MM,EM-MM-110a.1a,"Mg (t) CO₂-e, Percentage (%)",C6.1,C6.1.1,Baltzell
+BHP BILLITON LIMITED,AU000000BHP4,B0710,,,FY18,,,200914_Sustainability and ESG Navigators and Databook 2020.xlsx,3,,Scope 1 GHG emissions(6),10.60,,mtCO2e,Em.1.1,10.60,mtCO2e,EM-MM,EM-MM-110a.1a,"Mg (t) CO₂-e, Percentage (%)",C6.1,C6.1.1,Baltzell
+SOUTHERN CO/THE,US8425871071,D3510,,,FY19,,,The-Southern-Company-2018-CDP-Climate-Change-response.pdf,,,Gross global Scope 1 emissions,97534302.00,,mtCO2e,Em.1.1,97534302.00,mtCO2e,IF-EU,IF-EU-110a.1a,"Mg (t) CO₂-e, Percentage (%)",C6.1,C6.1.1,Baltzell
+VALE SA,BRVALEACNOR0,B0710,,,FY17,,,Relatorio_Sustentabilidade_Vale_2019-en.pdf,103,,Gross global Scope 1 emissions,12.40,,million mtCO2e,Em.1.1,12400000.00,mtCO2e,EM-MM,EM-MM-110a.1a,"Mg (t) CO₂-e, Percentage (%)",C6.1,C6.1.1,Baltzell
+VALE SA,BRVALEACNOR0,B0710,,,FY18,,,Relatorio_Sustentabilidade_Vale_2019-en.pdf,103,,Gross global Scope 1 emissions,13.00,,million mtCO2e,Em.1.1,13000000.00,mtCO2e,EM-MM,EM-MM-110a.1a,"Mg (t) CO₂-e, Percentage (%)",C6.1,C6.1.1,Baltzell
+VALE SA,BRVALEACNOR0,B0710,,,FY19,,,Relatorio_Sustentabilidade_Vale_2019-en.pdf,103,,Gross global Scope 1 emissions,11.30,,million mtCO2e,Em.1.1,11300000.00,mtCO2e,EM-MM,EM-MM-110a.1a,"Mg (t) CO₂-e, Percentage (%)",C6.1,C6.1.1,Baltzell
+CEMEX SAB-CPO,MXP225611567,C2394,,,FY17,,,IntegratedReport2019.pdf,209,,Gross global Scope 1 emissions,42.50,,million metric tons CO2,Em.1.1,42500000.00,mtCO2e,EM-CM,EM-CM-110a.1a,"Mg (t) CO₂-e, Percentage (%)",C6.1,C6.1.1,Baltzell
+CEMEX SAB-CPO,MXP225611567,C2394,,,FY18,,,IntegratedReport2019.pdf,209,,Gross global Scope 1 emissions,43.00,,million metric tons CO2,Em.1.1,43000000.00,mtCO2e,EM-CM,EM-CM-110a.1a,"Mg (t) CO₂-e, Percentage (%)",C6.1,C6.1.1,Baltzell
+CEMEX SAB-CPO,MXP225611567,C2394,,,FY19,,,IntegratedReport2019.pdf,209,,Gross global Scope 1 emissions,38.70,,million metric tons CO2,Em.1.1,38700000.00,mtCO2e,EM-CM,EM-CM-110a.1a,"Mg (t) CO₂-e, Percentage (%)",C6.1,C6.1.1,Baltzell
+Royal Dutch Shell plc,GB00B03MLX29,B0610,Global,,FY19,,,Shell Sustainability Report 2019,88,,Use of our refinery and natural gas products (Scope 3 Category 11) (million tonnes CO2 equivalent) [Q],576.00,,million metric tons CO2,Em.11.11,576000000.00,mtCO2e,EM-EP,,,C6.5,C6.5.11,Baltzell
+Royal Dutch Shell plc,GB00B03MLX29,B0610,Global,,FY18,,,Shell Sustainability Report 2019,88,,Use of our refinery and natural gas products (Scope 3 Category 11) (million tonnes CO2 equivalent) [Q],599.00,,million metric tons CO2,Em.11.11,599000000.00,mtCO2e,EM-EP,,,C6.5,C6.5.11,Baltzell
+Royal Dutch Shell plc,GB00B03MLX29,B0610,Global,,FY17,,,Shell Sustainability Report 2019,88,,Use of our refinery and natural gas products (Scope 3 Category 11) (million tonnes CO2 equivalent) [Q],579.00,,million metric tons CO2,Em.11.11,579000000.00,mtCO2e,EM-EP,,,C6.5,C6.5.11,Baltzell
+Royal Dutch Shell plc,GB00B03MLX29,B0610,Global,,FY16,,,Shell Sustainability Report 2019,88,,Use of our refinery and natural gas products (Scope 3 Category 11) (million tonnes CO2 equivalent) [Q],600.00,,million metric tons CO2,Em.11.11,600000000.00,mtCO2e,EM-EP,,,C6.5,C6.5.11,Baltzell
+AMERICAN ELECTRIC POWER,US0255371017,D3510,,,FY19,,,Final ESG Data Center.xlsx,,,SF6 (MT CO2e),166149.00,,mtCO2e,Em.4.12,166149.00,mtCO2e,IF-EU,,,,,Baltzell
+AMERICAN ELECTRIC POWER,US0255371017,D3510,,,FY18,,,Final ESG Data Center.xlsx,,,SF6 (MT CO2e),163408.00,,mtCO2e,Em.4.12,163408.00,mtCO2e,IF-EU,,,,,Baltzell
+AMERICAN ELECTRIC POWER,US0255371017,D3510,,,FY17,,,Final ESG Data Center.xlsx,,,SF6 (MT CO2e),189810.00,,mtCO2e,Em.4.12,189810.00,mtCO2e,IF-EU,,,,,Baltzell
+Royal Dutch Shell plc,GB00B03MLX29,B0610,Global,,FY19,,,Shell Sustainability Report 2019,88,,Carbon dioxide (CO2) (million tonnes),67.00,,million tonnes,Em.4.7,67000000.00,mtCO2e,EM-EP,,,,,Baltzell
+Royal Dutch Shell plc,GB00B03MLX29,B0610,Global,,FY18,,,Shell Sustainability Report 2019,88,,Carbon dioxide (CO2) (million tonnes),68.00,,million tonnes,Em.4.7,68000000.00,mtCO2e,EM-EP,,,,,Baltzell
+Royal Dutch Shell plc,GB00B03MLX29,B0610,Global,,FY17,,,Shell Sustainability Report 2019,88,,Carbon dioxide (CO2) (million tonnes),70.00,,million tonnes,Em.4.7,70000000.00,mtCO2e,EM-EP,,,,,Baltzell
+Royal Dutch Shell plc,GB00B03MLX29,B0610,Global,,FY16,,,Shell Sustainability Report 2019,88,,Carbon dioxide (CO2) (million tonnes),67.00,,million tonnes,Em.4.7,67000000.00,mtCO2e,EM-EP,,,,,Baltzell
+AMERICAN ELECTRIC POWER,US0255371017,D3510,,,FY19,,,Final ESG Data Center.xlsx,,,CO2 (MT),64157262.00,,mtCO2e,Em.4.7,64157262.00,mtCO2e,IF-EU,,,,,Baltzell
+AMERICAN ELECTRIC POWER,US0255371017,D3510,,,FY18,,,Final ESG Data Center.xlsx,,,CO2 (MT),74661649.00,,mtCO2e,Em.4.7,74661649.00,mtCO2e,IF-EU,,,,,Baltzell
+AMERICAN ELECTRIC POWER,US0255371017,D3510,,,FY17,,,Final ESG Data Center.xlsx,,,CO2 (MT),78001430.00,,mtCO2e,Em.4.7,78001430.00,mtCO2e,IF-EU,,,,,Baltzell
+AMERICAN ELECTRIC POWER,US0255371017,D3510,,,FY19,,,Final ESG Data Center.xlsx,,,CH4 (MT CO2e),190755.00,,mtCO2e,Em.4.8,190755.00,mtCO2e,IF-EU,,,,,Baltzell
+AMERICAN ELECTRIC POWER,US0255371017,D3510,,,FY18,,,Final ESG Data Center.xlsx,,,CH4 (MT CO2e),225741.00,,mtCO2e,Em.4.8,225741.00,mtCO2e,IF-EU,,,,,Baltzell
+AMERICAN ELECTRIC POWER,US0255371017,D3510,,,FY17,,,Final ESG Data Center.xlsx,,,CH4 (MT CO2e),239428.00,,mtCO2e,Em.4.8,239428.00,mtCO2e,IF-EU,,,,,Baltzell
+AMERICAN ELECTRIC POWER,US0255371017,D3510,,,FY19,,,Final ESG Data Center.xlsx,,,N2O (MT CO2e),262141.00,,mtCO2e,Em.4.9,262141.00,mtCO2e,IF-EU,,,,,Baltzell
+AMERICAN ELECTRIC POWER,US0255371017,D3510,,,FY18,,,Final ESG Data Center.xlsx,,,N2O (MT CO2e),310447.00,,mtCO2e,Em.4.9,310447.00,mtCO2e,IF-EU,,,,,Baltzell
+AMERICAN ELECTRIC POWER,US0255371017,D3510,,,FY17,,,Final ESG Data Center.xlsx,,,N2O (MT CO2e),329753.00,,mtCO2e,Em.4.9,329753.00,mtCO2e,IF-EU,,,,,Baltzell
+AMERICAN ELECTRIC POWER,US0255371017,D3510,,,FY19,,,Final ESG Data Center.xlsx,,,Location Based (MT CO2e),14514119.00,,mtCO2e,Em.7.1,14514119.00,mtCO2e,IF-EU,,,C6.3,C6.3.1,Baltzell
+AMERICAN ELECTRIC POWER,US0255371017,D3510,,,FY18,,,Final ESG Data Center.xlsx,,,Location Based (MT CO2e),15739423.00,,mtCO2e,Em.7.1,15739423.00,mtCO2e,IF-EU,,,C6.3,C6.3.1,Baltzell
+AMERICAN ELECTRIC POWER,US0255371017,D3510,,,FY17,,,Final ESG Data Center.xlsx,,,Location Based (MT CO2e),12957602.00,,mtCO2e,Em.7.1,12957602.00,mtCO2e,IF-EU,,,C6.3,C6.3.1,Baltzell
+AMERICAN ELECTRIC POWER,US0255371017,D3510,,,FY19,,,Final ESG Data Center.xlsx,,,Market Based (MT CO2e),12724618.00,,mtCO2e,Em.7.2,12724618.00,mtCO2e,IF-EU,,,C6.3,C6.3.2,Baltzell
+AMERICAN ELECTRIC POWER,US0255371017,D3510,,,FY18,,,Final ESG Data Center.xlsx,,,Market Based (MT CO2e),14479514.00,,mtCO2e,Em.7.2,14479514.00,mtCO2e,IF-EU,,,C6.3,C6.3.2,Baltzell
+AMERICAN ELECTRIC POWER,US0255371017,D3510,,,FY17,,,Final ESG Data Center.xlsx,,,Market Based (MT CO2e),8271179.00,,mtCO2e,Em.7.2,8271179.00,mtCO2e,IF-EU,,,C6.3,C6.3.2,Baltzell
+Royal Dutch Shell plc,GB00B03MLX29,B0610,Global,,FY19,,,Shell Sustainability Report 2019,88,,Energy indirect GHG emissions (Scope 2) (million tonnes CO2 equivalent) [B],10.00,,million mtCO2e,Em.7.0,10000000.00,mtCO2e,EM-EP,,,C6.3,,Baltzell
+Royal Dutch Shell plc,GB00B03MLX29,B0610,Global,,FY19,,,Shell Sustainability Report 2019,88,,GHG emissions associated with exported energy (subset of direct GHGs),3.00,,million  mtCO2e,Em.5.4,3000000.00,mtCO2e,EM-EP,,,,,Baltzell
+Royal Dutch Shell plc,GB00B03MLX29,B0610,Global,,FY19,,,Shell Sustainability Report 2019,88,,Scope 1 – Upstream (million tonnes CO2 equivalent),12.90,,million  mtCO2e,Em.5.1,12900000.00,mtCO2e,EM-EP,,,,,Baltzell
+Royal Dutch Shell plc,GB00B03MLX29,B0610,Global,,FY19,,,Shell Sustainability Report 2019,88,,Scope 1 – Integrated Gas (million tonnes CO2 equivalent),16.30,,million  mtCO2e,Em.5.2,16300000.00,mtCO2e,EM-EP,,,,,Baltzell
+Royal Dutch Shell plc,GB00B03MLX29,B0610,Global,,FY19,,,Shell Sustainability Report 2019,88,,Scope 1 – Downstream (million tonnes CO2 equivalent),40.30,,million  mtCO2e,Em.5.3,40300000.00,mtCO2e,EM-EP,,,,,Baltzell
+Royal Dutch Shell plc,GB00B03MLX29,B0610,Global,,FY19,,,Shell Sustainability Report 2019,88,,Scope 2 – Upstream [B] (million tonnes CO2 equivalent),1.10,,million  mtCO2e,Em.9.1,1100000.00,mtCO2e,EM-EP,,,,,Baltzell
+Royal Dutch Shell plc,GB00B03MLX29,B0610,Global,,FY19,,,Shell Sustainability Report 2019,88,,Scope 2 – Integrated Gas [B] (million tonnes CO2 equivalent),1.60,,million  mtCO2e,Em.9.2,1600000.00,mtCO2e,EM-EP,,,,,Baltzell
+Royal Dutch Shell plc,GB00B03MLX29,B0610,Global,,FY19,,,Shell Sustainability Report 2019,88,,Scope 2 – Downstream [B] (million tonnes CO2 equivalent),7.30,,million  mtCO2e,Em.9.3,7300000.00,mtCO2e,EM-EP,,,,,Baltzell
+Royal Dutch Shell plc,GB00B03MLX29,B0610,Global,,FY18,,,Shell Sustainability Report 2019,88,,Energy indirect GHG emissions (Scope 2) (million tonnes CO2 equivalent) [B],11.00,,million mtCO2e,Em.7.0,11000000.00,mtCO2e,EM-EP,,,C6.3,,Baltzell
+Royal Dutch Shell plc,GB00B03MLX29,B0610,Global,,FY18,,,Shell Sustainability Report 2019,88,,GHG emissions associated with exported energy (subset of direct GHGs),3.00,,million  mtCO2e,Em.5.4,3000000.00,mtCO2e,EM-EP,,,,,Baltzell
+Royal Dutch Shell plc,GB00B03MLX29,B0610,Global,,FY18,,,Shell Sustainability Report 2019,88,,Scope 1 – Upstream (million tonnes CO2 equivalent),14.80,,million  mtCO2e,Em.5.1,14800000.00,mtCO2e,EM-EP,,,,,Baltzell
+Royal Dutch Shell plc,GB00B03MLX29,B0610,Global,,FY18,,,Shell Sustainability Report 2019,88,,Scope 1 – Integrated Gas (million tonnes CO2 equivalent),13.00,,million  mtCO2e,Em.5.2,13000000.00,mtCO2e,EM-EP,,,,,Baltzell
+Royal Dutch Shell plc,GB00B03MLX29,B0610,Global,,FY18,,,Shell Sustainability Report 2019,88,,Scope 1 – Downstream (million tonnes CO2 equivalent),42.20,,million  mtCO2e,Em.5.3,42200000.00,mtCO2e,EM-EP,,,,,Baltzell
+Royal Dutch Shell plc,GB00B03MLX29,B0610,Global,,FY18,,,Shell Sustainability Report 2019,88,,Scope 2 – Upstream [B] (million tonnes CO2 equivalent),1.40,,million  mtCO2e,Em.9.1,1400000.00,mtCO2e,EM-EP,,,,,Baltzell
+Royal Dutch Shell plc,GB00B03MLX29,B0610,Global,,FY18,,,Shell Sustainability Report 2019,88,,Scope 2 – Integrated Gas [B] (million tonnes CO2 equivalent),2.40,,million  mtCO2e,Em.9.2,2400000.00,mtCO2e,EM-EP,,,,,Baltzell
+Royal Dutch Shell plc,GB00B03MLX29,B0610,Global,,FY18,,,Shell Sustainability Report 2019,88,,Scope 2 – Downstream [B] (million tonnes CO2 equivalent),6.80,,million  mtCO2e,Em.9.3,6800000.00,mtCO2e,EM-EP,,,,,Baltzell
+Royal Dutch Shell plc,GB00B03MLX29,B0610,Global,,FY17,,,Shell Sustainability Report 2019,88,,Energy indirect GHG emissions (Scope 2) (million tonnes CO2 equivalent) [B],12.00,,million mtCO2e,Em.7.0,12000000.00,mtCO2e,EM-EP,,,C6.3,,Baltzell
+Royal Dutch Shell plc,GB00B03MLX29,B0610,Global,,FY17,,,Shell Sustainability Report 2019,88,,GHG emissions associated with exported energy (subset of direct GHGs),3.00,,million  mtCO2e,Em.5.4,3000000.00,mtCO2e,EM-EP,,,,,Baltzell
+Royal Dutch Shell plc,GB00B03MLX29,B0610,Global,,FY17,,,Shell Sustainability Report 2019,88,,Scope 1 – Upstream (million tonnes CO2 equivalent),19.60,,million  mtCO2e,Em.5.1,19600000.00,mtCO2e,EM-EP,,,,,Baltzell
+Royal Dutch Shell plc,GB00B03MLX29,B0610,Global,,FY17,,,Shell Sustainability Report 2019,88,,Scope 1 – Integrated Gas (million tonnes CO2 equivalent),12.00,,million  mtCO2e,Em.5.2,12000000.00,mtCO2e,EM-EP,,,,,Baltzell
+Royal Dutch Shell plc,GB00B03MLX29,B0610,Global,,FY17,,,Shell Sustainability Report 2019,88,,Scope 1 – Downstream (million tonnes CO2 equivalent),41.10,,million  mtCO2e,Em.5.3,41100000.00,mtCO2e,EM-EP,,,,,Baltzell
+Royal Dutch Shell plc,GB00B03MLX29,B0610,Global,,FY17,,,Shell Sustainability Report 2019,88,,Scope 2 – Upstream [B] (million tonnes CO2 equivalent),1.40,,million  mtCO2e,Em.9.1,1400000.00,mtCO2e,EM-EP,,,,,Baltzell
+Royal Dutch Shell plc,GB00B03MLX29,B0610,Global,,FY17,,,Shell Sustainability Report 2019,88,,Scope 2 – Integrated Gas [B] (million tonnes CO2 equivalent),2.40,,million  mtCO2e,Em.9.2,2400000.00,mtCO2e,EM-EP,,,,,Baltzell
+Royal Dutch Shell plc,GB00B03MLX29,B0610,Global,,FY17,,,Shell Sustainability Report 2019,88,,Scope 2 – Downstream [B] (million tonnes CO2 equivalent),7.50,,million  mtCO2e,Em.9.3,7500000.00,mtCO2e,EM-EP,,,,,Baltzell
+Royal Dutch Shell plc,GB00B03MLX29,B0610,Global,,FY16,,,Shell Sustainability Report 2019,88,,Energy indirect GHG emissions (Scope 2) (million tonnes CO2 equivalent) [B],11.00,,million mtCO2e,Em.7.0,11000000.00,mtCO2e,EM-EP,,,C6.3,,Baltzell
+Royal Dutch Shell plc,GB00B03MLX29,B0610,Global,,FY16,,,Shell Sustainability Report 2019,88,,GHG emissions associated with exported energy (subset of direct GHGs),3.00,,million  mtCO2e,Em.5.4,3000000.00,mtCO2e,EM-EP,,,,,Baltzell
+Royal Dutch Shell plc,GB00B03MLX29,B0610,Global,,FY16,,,Shell Sustainability Report 2019,88,,Scope 1 – Upstream (million tonnes CO2 equivalent),18.70,,million  mtCO2e,Em.5.1,18700000.00,mtCO2e,EM-EP,,,,,Baltzell
+Royal Dutch Shell plc,GB00B03MLX29,B0610,Global,,FY16,,,Shell Sustainability Report 2019,88,,Scope 1 – Integrated Gas (million tonnes CO2 equivalent),13.70,,million  mtCO2e,Em.5.2,13700000.00,mtCO2e,EM-EP,,,,,Baltzell
+Royal Dutch Shell plc,GB00B03MLX29,B0610,Global,,FY16,,,Shell Sustainability Report 2019,88,,Scope 1 – Downstream (million tonnes CO2 equivalent),37.60,,million  mtCO2e,Em.5.3,37600000.00,mtCO2e,EM-EP,,,,,Baltzell
+Royal Dutch Shell plc,GB00B03MLX29,B0610,Global,,FY16,,,Shell Sustainability Report 2019,88,,Scope 2 – Upstream [B] (million tonnes CO2 equivalent),1.40,,million  mtCO2e,Em.9.1,1400000.00,mtCO2e,EM-EP,,,,,Baltzell
+Royal Dutch Shell plc,GB00B03MLX29,B0610,Global,,FY16,,,Shell Sustainability Report 2019,88,,Scope 2 – Integrated Gas [B] (million tonnes CO2 equivalent),2.00,,million  mtCO2e,Em.9.2,2000000.00,mtCO2e,EM-EP,,,,,Baltzell
+Royal Dutch Shell plc,GB00B03MLX29,B0610,Global,,FY16,,,Shell Sustainability Report 2019,88,,Scope 2 – Downstream [B] (million tonnes CO2 equivalent),7.30,,million  mtCO2e,Em.9.3,7300000.00,mtCO2e,EM-EP,,,,,Baltzell
+PPL CORP,US69351T1060,D3510,,,FY19,,,PPL SASB Map 2019,,,Greenhouse gas (GHG) emissions associated with power deliveries,4916945.00,,mtCO2e,Em.5.5,4916945.00,mtCO2e,IF-EU,IF-EU-110a.2a,Mg (t) CO₂-e,,,Baltzell
+KYUSHU ELECTRIC POWER CO INC,JP3246400000,D3510,,,FY20,,,,,,Greenhouse gas (GHG) emissions associated with power deliveries,23900000.00,,t-CO2,Em.5.5,23900000.00,mtCO2e,IF-EU,IF-EU-110a.2a,Mg (t) CO₂-e,,,Baltzell
+TOKYO ELECTRIC POWER COMPANY,JP3585800000,D3510,,,FY17,,,TEPCO/sasb2020-e.pdf,3,,Greenhouse gas (GHG) emissions associated with power deliveries,115000000.00,,t-CO2,Em.5.5,115000000.00,mtCO2e,IF-EU,IF-EU-110a.2a,Mg (t) CO₂-e,,,Baltzell
+TOKYO ELECTRIC POWER COMPANY,JP3585800000,D3510,,,FY18,,,TEPCO/sasb2020-e.pdf,3,,Greenhouse gas (GHG) emissions associated with power deliveries,108000000.00,,t-CO2,Em.5.5,108000000.00,mtCO2e,IF-EU,IF-EU-110a.2a,Mg (t) CO₂-e,,,Baltzell
+TOKYO ELECTRIC POWER COMPANY,JP3585800000,D3510,,,FY19,,,TEPCO/sasb2020-e.pdf,3,,Greenhouse gas (GHG) emissions associated with power deliveries,102000000.00,,t-CO2,Em.5.5,102000000.00,mtCO2e,IF-EU,IF-EU-110a.2a,Mg (t) CO₂-e,,,Baltzell
