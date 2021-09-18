@@ -1,0 +1,66 @@
+{
+    "title": "CORP 0.0.0 Dataset",
+    "description": "Hand-curated Corp Data",
+    "license": "MIT License",
+    "license_url": "https://github.com/catalyst-cooperative/pudl/blob/main/LICENSE.txt",
+    "source": OS-Climate",
+    "source_url": "https://os-climate.org",
+    "custom_units": [
+        "USD = []",
+        "Mcf = 1e6 * feet**3 = _ = mcf",
+        "gramsU = 1 * gram",
+        "kgU = 1000 * gramsU",
+        "mwhth = MWh",
+        "mwdth = 24 * mwhth",
+        "MMBTU = 1e6 * BTU = _ = mmbtu",
+        "fraction = [] = frac",
+        "percent = 1e-2 frac = pct",
+        "ppm = 1e-6 fraction"
+    ],
+    "databases": {
+        "corp data": {
+            "queries": {
+            },
+            "tables": {
+                "test set refactored": {
+                    "description_html": "corp data test compound foreign keys",
+                    "license": "MIT License",
+                    "license_url": "https://github.com/catalyst-cooperative/pudl/blob/main/LICENSE.txt",
+                    "size": 10
+                },
+                "FactorAreaCode": {
+                    "label_column": "FactorArea",
+                    "size": 10
+                },
+                "FactorCode": {
+                    "label_column": "Factor",
+                    "size": 10
+                },
+                "SubFactorCode": {
+                    "label_column": "SubFactor",
+                    "size": 10
+                },
+                "SASB-sector": {
+                    "label_column": "Sector",
+                    "size": 10
+                },
+                "SASB-industry": {
+                    "label_column": "Industry",
+                    "size": 10
+                },
+                "SASB-disclosure-topic": {
+                    "label_column": "DisclosureTopic",
+                    "size": 10
+                },
+                "SASB-accounting-metric": {
+                    "label_column": "AccountingMetricorActivityMetric",
+                    "size": 10
+                },
+                "SASB-sub-metric": {
+                    "label_column": "Sub-MetricORSub-ActivityMetric",
+                    "size": 10
+                }
+            }
+        }
+    }
+}

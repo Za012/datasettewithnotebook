@@ -13,7 +13,7 @@ services:
             - ./notebook/database:/work
         ports:
             - 8001:8001
-        command: serve "/work/corp data.db" --cors --setting base_url /corp-datasette/ -p 8001 -h 0.0.0.0
+        command: serve "/work/corp data.db" --cors --setting base_url /corp-datasette/ -p 8001 -h 0.0.0.0 --metadata /work/corp-metadata.json
 
     pudl:
         image: datasette

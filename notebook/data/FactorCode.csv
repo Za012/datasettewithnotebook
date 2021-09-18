@@ -1,31 +1,31 @@
-FactorAreaCode,FactorCode,Factor
-EF,1,Energy consumption
-EF,2,Energy consumption %
-EF,6,RPS
-EF,7,Grid Resiliency
-EF,8,End-Use Efficiency & Demand
-EF,9,Energy Affordability
-Em,1,Scope 1 Emissions Total
-Em,2,"Scope 1 Emissions, % regulated"
-Em,3,Scope 1 emissions by region
-Em,4,Scope 1 emissions by source
-Em,5,Scope 1 emissions by business
-Em,6,Scope 1 emissions strategy description
-Em,7,Scope 2 Emissions Total
-Em,9,Scope 2 emissions by business
-Em,11,Scope 3 emissions by category
-Em,12,Total GHG Emissions
-Em,13,Carbon Intensity
-Em,14,Targets - Emissions Reduction
-Em,17,Air Emissions other than GHG
-HOLD OFF,???,#N/A
-OE,1,#N/A
-OE,4,#N/A
-OE,???,#N/A
-OE,N/A,#N/A
-Po,0,0
-TR,0,0
-WR,1,Water Management
-WR,2,#N/A
-WR,3,Water Management
-WR,14,#N/A
+FactorArea_FactorCode,Factor
+EF.1,Energy consumption
+EF.2,Energy consumption %
+EF.6,RPS
+EF.7,Grid Resiliency
+EF.8,End-Use Efficiency & Demand
+EF.9,Energy Affordability
+Em.1,Scope 1 Emissions Total
+Em.2,"Scope 1 Emissions, % regulated"
+Em.3,Scope 1 emissions by region
+Em.4,Scope 1 emissions by source
+Em.5,Scope 1 emissions by business
+Em.6,Scope 1 emissions strategy description
+Em.7,Scope 2 Emissions Total
+Em.9,Scope 2 emissions by business
+Em.11,Scope 3 emissions by category
+Em.12,Total GHG Emissions
+Em.13,Carbon Intensity
+Em.14,Targets - Emissions Reduction
+Em.17,Air Emissions other than GHG
+HOLD OFF.???,#N/A
+OE.1,#N/A
+OE.4,#N/A
+OE.???,#N/A
+OE.N/A,#N/A
+Po.0,0
+TR.0,0
+WR.1,Water Management
+WR.2,#N/A
+WR.3,Water Management
+WR.14,#N/A
