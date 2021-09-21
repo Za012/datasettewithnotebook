@@ -1,0 +1,89 @@
+﻿SASB Industry Code,SASB Sub-Metric Code,SASB units
+EM-CM,EM-CM-130a.1a,"Gigajoules (GJ), Percentage (%)"
+EM-CM,EM-CM-110a.1a,"Mg (t) CO₂-e, Percentage (%)"
+EM-CM,EM-CM-120a.1a,Mg (t)
+EM-CM,EM-CM-120a.1c,Mg (t)
+EM-CM,EM-CM-120a.1b,Mg (t)
+EM-CM,EM-CM-140a.1b,"Thousand cubic meters (m³), Percentage (%)"
+EM-CM,EM-CM-140a.1c,"Thousand cubic meters (m³), Percentage (%)"
+EM-CM,EM-CM-130a.1b,"Gigajoules (GJ), Percentage (%)"
+EM-CM,EM-CM-130a.1c,"Gigajoules (GJ), Percentage (%)"
+EM-CM,EM-CM-130a.1d,"Gigajoules (GJ), Percentage (%)"
+EM-CM,EM-CM-110a.1b,"Mg (t) CO₂-e, Percentage (%)"
+EM-CM,EM-CM-110a.2a,n/a
+EM-CM,EM-CM-410a.1a,Percentage (%) by annual sales revenue
+EM-CM,EM-CM-410a.2a,"Reporting currency, Percentage (%)"
+EM-CM,EM-CM-140a.1a,"Thousand cubic meters (m³), Percentage (%)"
+EM-EP,EM-EP-110a.1a,"Mg CO₂-e (t), Percentage (%)"
+EM-EP,EM-EP-120a.1a,Mg (t)
+EM-EP,EM-EP-120a.1b,Mg (t)
+EM-EP,EM-EP-120a.1c,Mg (t)
+EM-MM,EM-MM-130a.1a,"Gigajoules (GJ), Percentage (%)"
+EM-MM,EM-MM-110a.1a,"Mg (t) CO₂-e, Percentage (%)"
+EM-MM,EM-MM-120a.1a,Mg (t)
+EM-MM,EM-MM-120a.1b,Mg (t)
+EM-MM,EM-MM-120a.1d,Mg (t)
+EM-MM,EM-MM-120a.1c,Mg (t)
+EM-MM,EM-MM-120a.1g,Mg (t)
+EM-MM,EM-MM-120a.1e,Mg (t)
+EM-MM,EM-MM-120a.1f,Mg (t)
+EM-MM,EM-MM-130a.1b,"Gigajoules (GJ), Percentage (%)"
+EM-MM,EM-MM-130a.1c,"Gigajoules (GJ), Percentage (%)"
+EM-MM,EM-MM-110a.1b,"Mg (t) CO₂-e, Percentage (%)"
+EM-MM,EM-MM-110a.2a,n/a
+EM-MM,EM-MM-140a.1a,"Thousand cubic meters (m³), Percentage (%)"
+EM-MM,EM-MM-140a.1b,"Thousand cubic meters (m³), Percentage (%)"
+EM-MM,EM-MM-140a.1c,"Thousand cubic meters (m³), Percentage (%)"
+EM-MM,EM-MM-140a.1d,"Thousand cubic meters (m³), Percentage (%)"
+EM-MM,EM-MM-140a.2a,Number
+EM-MM,EM-MM-140a.2b,Number
+EM-MM,EM-MM-140a.2c,Number
+IF-EU,IF-EU-110a.1a,"Mg (t) CO₂-e, Percentage (%)"
+IF-EU,IF-EU-120a.1a,"Mg (t), Percentage (%)"
+IF-EU,IF-EU-120a.1c,"Mg (t), Percentage (%)"
+IF-EU,IF-EU-120a.1b,"Mg (t), Percentage (%)"
+IF-EU,IF-EU-140a.1b,"Thousand cubic meters (m³), Percentage (%)"
+IF-EU,IF-EU-140a.1a,"Thousand cubic meters (m³), Percentage (%)"
+IF-EU,IF-EU-110a.1b,"Mg (t) CO₂-e, Percentage (%)"
+IF-EU,IF-EU-110a.1c,"Mg (t) CO₂-e, Percentage (%)"
+IF-EU,IF-EU-110a.2a,Mg (t) CO₂-e
+IF-EU,IF-EU-110a.3a,n/a
+IF-EU,IF-EU-110a.4a,"Number, Percentage (%)"
+IF-EU,IF-EU-110a.4b,"Number, Percentage (%)"
+IF-EU,IF-EU-120a.1d,"Mg (t), Percentage (%)"
+IF-EU,IF-EU-120a.1e,"Mg (t), Percentage (%)"
+IF-EU,IF-EU-120a.1f,"Mg (t), Percentage (%)"
+IF-EU,IF-EU-120a.1g,"Mg (t), Percentage (%)"
+IF-EU,IF-EU-120a.1h,"Mg (t), Percentage (%)"
+IF-EU,IF-EU-120a.1i,"Mg (t), Percentage (%)"
+IF-EU,IF-EU-120a.1j,"Mg (t), Percentage (%)"
+IF-EU,IF-EU-140a.1c,"Thousand cubic meters (m³), Percentage (%)"
+IF-EU,IF-EU-140a.1d,"Thousand cubic meters (m³), Percentage (%)"
+IF-EU,IF-EU-240a.1a,Rate
+IF-EU,IF-EU-240a.1b,Rate
+IF-EU,IF-EU-240a.1c,Rate
+IF-EU,IF-EU-240a.2a,Reporting currency
+IF-EU,IF-EU-240a.2b,Reporting currency
+IF-EU,IF-EU-240a.3a,"Number, Percentage (%)"
+IF-EU,IF-EU-240a.3b,"Number, Percentage (%)"
+IF-EU,IF-EU-420a.1a,Percentage (%)
+IF-EU,IF-EU-420a.1b,Percentage (%)
+IF-EU,IF-EU-550a.2-1,#N/A
+IF-EU,IF-EU-550a.2-2,#N/A
+IF-EU,IF-EU-550a.2-3,#N/A
+IF-EU,IF-EU-420a.2a,Percentage (%) by megawatt hours (MWh)
+IF-EU,IF-EU-420a.2b,Percentage (%) by megawatt hours (MWh)
+IF-EU,IF-EU-420a.3a,Megawatt hours (MWh)
+IF-EU,IF-EU-420a.3b,Megawatt hours (MWh)
+IF-EU,IF-EU-240a.4a,n/a
+IF-EU,IF-EU-110a.4c,"Number, Percentage (%)"
+IF-EU,IF-EU-550a.1a,Number
+IF-EU,IF-EU-550a.2a,"Minutes, Number"
+IF-EU,IF-EU-550a.2b,"Minutes, Number"
+IF-EU,IF-EU-550a.2c,"Minutes, Number"
+IF-EU,IF-EU-550a.2d,"Minutes, Number"
+IF-EU,IF-EU-140a.2a,Number
+IF-EU,IF-EU-140a.3a,n/a
+TC-SI,TC-SI-130a.1a,"Gigajoules (GJ), Percentage (%)"
+TC-SI,TC-SI-130a.2a,"Thousand cubic meters (m³), Percentage (%)"
+TC-SI,TC-SI-130a.2b,"Thousand cubic meters (m³), Percentage (%)"

@@ -1,0 +1,662 @@
+,Disclosure Topic Code,Disclosure Topic
+0,CG-AA-000.A,
+1,CG-AA-250a,Management of Chemicals in Products
+2,CG-AA-430a,Environmental Impacts in the Supply Chain
+3,CG-AA-430b,Labor Conditions in the Supply Chain
+4,CG-AA-440a,Raw Materials Sourcing
+5,CG-AM-000.A,
+6,CG-AM-250a,Product Safety
+7,CG-AM-410a,Product Lifecycle Environmental Impacts
+8,CG-BF-000.A,
+9,CG-BF-000.B,
+10,CG-BF-130a,Energy Management in Manufacturing
+11,CG-BF-250a,Management of Chemicals in Products
+12,CG-BF-410a,Product Lifecycle Environmental Impacts
+13,CG-BF-430a,Wood Supply Chain Management
+14,CG-EC-000.A,
+15,CG-EC-000.B,
+16,CG-EC-000.C,
+17,CG-EC-130a,Hardware Infrastructure Energy & Water Management
+18,CG-EC-220a,Data Privacy & Advertising Standards
+19,CG-EC-230a,Data Security
+20,CG-EC-330a,"Employee Recruitment, Inclusion & Performance"
+21,CG-EC-410a,Product Packaging & Distribution
+22,CG-HP-000.A,
+23,CG-HP-000.B,
+24,CG-HP-140a,Water Management
+25,CG-HP-250a,"Product Environmental, Health, and Safety Performance"
+26,CG-HP-410a,Packaging Lifecycle Management
+27,CG-HP-430a,Environmental & Social Impacts of Palm Oil Supply Chain
+28,CG-MR-000.A,
+29,CG-MR-000.B,
+30,CG-MR-130a,Energy Management in Retail & Distribution
+31,CG-MR-230a,Data Security
+32,CG-MR-310a,Labor Practices
+33,CG-MR-330a,Workforce Diversity & Inclusion
+34,CG-MR-410a,"Product Sourcing, Packaging & Marketing"
+35,CG-TS-000.A,
+36,CG-TS-000.B,
+37,CG-TS-250a,Chemical & Safety Hazards of Products
+38,CG-TS-430a,Labor Conditions in the Supply Chain
+39,EM-CM-000.A,
+40,EM-CM-110a,Greenhouse Gas Emissions
+41,EM-CM-120a,Air Quality
+42,EM-CM-130a,Energy Management
+43,EM-CM-140a,Water Management
+44,EM-CM-150a,Waste Management
+45,EM-CM-160a,Biodiversity Impacts
+46,EM-CM-320a,Workforce Health & Safety
+47,EM-CM-410a,Product Innovation
+48,EM-CM-520a,Pricing Integrity & Transparency
+49,EM-CO-000.A,
+50,EM-CO-000.B,
+51,EM-CO-110a,Greenhouse Gas Emissions
+52,EM-CO-140a,Water Management
+53,EM-CO-150a,Waste Management
+54,EM-CO-160a,Biodiversity Impacts
+55,EM-CO-210a,Rights of Indigenous Peoples
+56,EM-CO-210b,Community Relations
+57,EM-CO-310a,Labor Relations
+58,EM-CO-320a,Workforce Health & Safety
+59,EM-CO-420a,Reserves Valuation & Capital Expenditures
+60,EM-EP-000.A,
+61,EM-EP-000.B,
+62,EM-EP-000.C,
+63,EM-EP-110a,Greenhouse Gas Emissions
+64,EM-EP-120a,Air Quality
+65,EM-EP-140a,Water Management
+66,EM-EP-160a,Biodiversity Impacts
+67,EM-EP-210a,"Security, Human Rights & Rights of Indigenous Peoples"
+68,EM-EP-210b,Community Relations
+69,EM-EP-320a,Workforce Health & Safety
+70,EM-EP-420a,Reserves Valuation & Capital Expenditures
+71,EM-EP-510a,Business Ethics & Transparency
+72,EM-EP-530a,Management of the Legal & Regulatory Environment
+73,EM-EP-540a,Critical Incident Risk Management
+74,EM-IS-000.A,
+75,EM-IS-000.B,
+76,EM-IS-000.C,
+77,EM-IS-110a,Greenhouse Gas Emissions
+78,EM-IS-120a,Air Emissions
+79,EM-IS-130a,Energy Management
+80,EM-IS-140a,Water Management
+81,EM-IS-150a,Waste Management
+82,EM-IS-320a,Workforce Health & Safety
+83,EM-IS-430a,Supply Chain Management
+84,EM-MD-000.A,
+85,EM-MD-110a,Greenhouse Gas Emissions
+86,EM-MD-120a,Air Quality
+87,EM-MD-160a,Ecological Impacts
+88,EM-MD-520a,Competitive Behavior
+89,EM-MD-540a,"Operational Safety, Emergency Preparedness & Response"
+90,EM-MM-000.A,
+91,EM-MM-000.B,
+92,EM-MM-110a,Greenhouse Gas Emissions
+93,EM-MM-120a,Air Quality
+94,EM-MM-130a,Energy Management
+95,EM-MM-140a,Water Management
+96,EM-MM-150a,Waste & Hazardous Materials Management
+97,EM-MM-160a,Biodiversity Impacts
+98,EM-MM-210a,"Security, Human Rights & Rights of Indigenous Peoples"
+99,EM-MM-210b,Community Relations
+100,EM-MM-310a,Labor Relations
+101,EM-MM-320a,Workforce Health & Safety
+102,EM-MM-510a,Business Ethics & Transparency
+103,EM-RM-000.A,
+104,EM-RM-000.B,
+105,EM-RM-110a,Greenhouse Gas Emissions
+106,EM-RM-120a,Air Quality
+107,EM-RM-140a,Water Management
+108,EM-RM-150a,Hazardous Materials Management
+109,EM-RM-320a,Workforce Health & Safety
+110,EM-RM-410a,Product Specifications & Clean Fuel Blends
+111,EM-RM-520a,Pricing Integrity & Transparency
+112,EM-RM-530a,Management of the Legal & Regulatory Environment
+113,EM-RM-540a,Critical Incident Risk Management
+114,EM-SV-000.A,
+115,EM-SV-000.B,
+116,EM-SV-000.C,
+117,EM-SV-000.D,
+118,EM-SV-110a,Emissions Reduction Services & Fuels Management
+119,EM-SV-140a,Water Management Services
+120,EM-SV-150a,Chemicals Management
+121,EM-SV-160a,Ecological Impact Management
+122,EM-SV-320a,Workforce Health & Safety
+123,EM-SV-510a,Business Ethics & Payments Transparency
+124,EM-SV-530a,Management of the Legal & Regulatory Environment
+125,EM-SV-540a,Critical Incident Risk Management
+126,FB-AB-000.A,
+127,FB-AB-000.B,
+128,FB-AB-000.C,
+129,FB-AB-130a,Energy Management
+130,FB-AB-140a,Water Management
+131,FB-AB-270a,Responsible Drinking & Marketing
+132,FB-AB-410a,Packaging Lifecycle Management
+133,FB-AB-430a,Environmental & Social Impacts of Ingredient Supply Chain
+134,FB-AB-440a,Ingredient Sourcing
+135,FB-AG-000.A,
+136,FB-AG-000.B,
+137,FB-AG-000.C,
+138,FB-AG-000.D,
+139,FB-AG-110a,Greenhouse Gas Emissions
+140,FB-AG-130a,Energy Management
+141,FB-AG-140a,Water Management
+142,FB-AG-250a,Food Safety
+143,FB-AG-320a,Workforce Health & Safety
+144,FB-AG-430a,Environmental & Social Impacts of Ingredient Supply Chain
+145,FB-AG-430b,GMO Management
+146,FB-AG-440a,Ingredient Sourcing
+147,FB-FR-000.A,
+148,FB-FR-000.B,
+149,FB-FR-000.C,
+150,FB-FR-000.D,
+151,FB-FR-110a,Fleet Fuel Management
+152,FB-FR-110b,Air Emissions from Refrigeration
+153,FB-FR-130a,Energy Management
+154,FB-FR-150a,Food Waste Management
+155,FB-FR-230a,Data Security
+156,FB-FR-250a,Food Safety
+157,FB-FR-260a,Product Health & Nutrition
+158,FB-FR-270a,Product Labeling & Marketing
+159,FB-FR-310a,Labor Practices
+160,FB-FR-430a,Management of Environmental & Social Impacts in the Supply Chain
+161,FB-MP-000.A,
+162,FB-MP-000.B,
+163,FB-MP-110a,Greenhouse Gas Emissions
+164,FB-MP-130a,Energy Management
+165,FB-MP-140a,Water Management
+166,FB-MP-160a,Land Use & Ecological Impacts
+167,FB-MP-250a,Food Safety
+168,FB-MP-260a,Antibiotic Use in Animal Production
+169,FB-MP-320a,Workforce Health & Safety
+170,FB-MP-410a,Animal Care & Welfare
+171,FB-MP-430a,Environmental & Social Impacts of Animal Supply Chain
+172,FB-MP-440a,Animal & Feed Sourcing
+173,FB-NB-000.A,
+174,FB-NB-000.B,
+175,FB-NB-000.C,
+176,FB-NB-110a,Fleet Fuel Management
+177,FB-NB-130a,Energy Management
+178,FB-NB-140a,Water Management
+179,FB-NB-260a,Health & Nutrition
+180,FB-NB-270a,Product Labeling & Marketing
+181,FB-NB-410a,Packaging Lifecycle Management
+182,FB-NB-430a,Environmental & Social Impacts of Ingredient Supply Chain
+183,FB-NB-440a,Ingredient Sourcing
+184,FB-PF-000.A,
+185,FB-PF-000.B,
+186,FB-PF-130a,Energy Management
+187,FB-PF-140a,Water Management
+188,FB-PF-250a,Food Safety
+189,FB-PF-260a,Health & Nutrition
+190,FB-PF-270a,Product Labeling & Marketing
+191,FB-PF-410a,Packaging Lifecycle Management
+192,FB-PF-430a,Environmental & Social Impacts of Ingredient Supply Chain
+193,FB-PF-440a,Ingredient Sourcing
+194,FB-RN-000.A,
+195,FB-RN-000.B,
+196,FB-RN-130a,Energy Management
+197,FB-RN-140a,Water Management
+198,FB-RN-150a,Food & Packaging Waste Management
+199,FB-RN-250a,Food Safety
+200,FB-RN-260a,Nutritional Content
+201,FB-RN-310a,Labor Practices
+202,FB-RN-430a,Supply Chain Management & Food Sourcing
+203,FB-TB-000.A,
+204,FB-TB-000.B,
+205,FB-TB-260a,Public Health
+206,FB-TB-270a,Marketing Practices
+207,FN-AC-000.A,
+208,FN-AC-000.B,
+209,FN-AC-270a,Transparent Information & Fair Advice for Customers
+210,FN-AC-330a,Employee Diversity & Inclusion
+211,FN-AC-410a,"Incorporation of Environmental, Social, and Governance Factors in Investment Management & Advisory"
+212,FN-AC-510a,Business Ethics
+213,FN-AC-550a,Systemic Risk Management
+214,FN-CB-000.A,
+215,FN-CB-000.B,
+216,FN-CB-230a,Data Security
+217,FN-CB-240a,Financial Inclusion & Capacity Building
+218,FN-CB-410a,"Incorporation of Environmental, Social, and Governance Factors in Credit Analysis"
+219,FN-CB-510a,Business Ethics
+220,FN-CB-550a,Systemic Risk Management
+221,FN-CF-000.A,
+222,FN-CF-000.B,
+223,FN-CF-220a,Customer Privacy
+224,FN-CF-230a,Data Security
+225,FN-CF-270a,Selling Practices
+226,FN-EX-000.A,
+227,FN-EX-000.B,
+228,FN-EX-410a,Promoting Transparent & Efficient Capital Markets
+229,FN-EX-510a,Managing Conflicts of Interest
+230,FN-EX-550a,Managing Business Continuity & Technology Risks
+231,FN-IB-000.A,
+232,FN-IB-000.B,
+233,FN-IB-000.C,
+234,FN-IB-330a,Employee Diversity & Inclusion
+235,FN-IB-410a,"Incorporation of Environmental, Social, and Governance Factors in Investment Banking & Brokerage Activities"
+236,FN-IB-510a,Business Ethics
+237,FN-IB-510b,Professional Integrity
+238,FN-IB-550a,Systemic Risk Management
+239,FN-IB-550b,Employee Incentives & Risk Taking
+240,FN-IN-000.A,
+241,FN-IN-270a,Transparent Information & Fair Advice for Customers
+242,FN-IN-410a,"Incorporation of Environmental, Social, and Governance Factors in Investment Management"
+243,FN-IN-410b,Policies Designed to Incentivize Responsible Behavior
+244,FN-IN-450a,Environmental Risk Exposure
+245,FN-IN-550a,Systemic Risk Management
+246,FN-MF-000.A,
+247,FN-MF-000.B,
+248,FN-MF-270a,Lending Practices
+249,FN-MF-270b,Discriminatory Lending
+250,FN-MF-450a,Environmental Risk to Mortgaged Properties
+251,HC-BP-000.A,
+252,HC-BP-000.B,
+253,HC-BP-210a,Safety of Clinical Trial Participants
+254,HC-BP-240a,Access to Medicines
+255,HC-BP-240b,Affordability & Pricing
+256,HC-BP-250a,Drug Safety
+257,HC-BP-260a,Counterfeit Drugs
+258,HC-BP-270a,Ethical Marketing
+259,HC-BP-330a,"Employee Recruitment, Development & Retention"
+260,HC-BP-430a,Supply Chain Management
+261,HC-BP-510a,Business Ethics
+262,HC-DI-000.A,
+263,HC-DI-000.B,
+264,HC-DI-110a,Fleet Fuel Management
+265,HC-DI-250a,Product Safety
+266,HC-DI-260a,Counterfeit Drugs
+267,HC-DI-410a,Product Lifecycle Management
+268,HC-DI-510a,Business Ethics
+269,HC-DR-000.A,
+270,HC-DR-000.B,
+271,HC-DR-000.C,
+272,HC-DR-000.D,
+273,HC-DR-130a,Energy Management in Retail
+274,HC-DR-230a,Data Security & Privacy
+275,HC-DR-250a,Drug Supply Chain Integrity
+276,HC-DR-260a,Management of Controlled Substances
+277,HC-DR-260b,Patient Health Outcomes
+278,HC-DY-000.A,
+279,HC-DY-000.B,
+280,HC-DY-130a,Energy Management
+281,HC-DY-150a,Waste Management
+282,HC-DY-230a,Patient Privacy & Electronic Health Records
+283,HC-DY-240a,Access for Low-Income Patients
+284,HC-DY-250a,Quality of Care & Patient Satisfaction
+285,HC-DY-260a,Management of Controlled Substances
+286,HC-DY-270a,Pricing & Billing Transparency
+287,HC-DY-320a,Employee Health & Safety
+288,HC-DY-330a,"Employee Recruitment, Development & Retention"
+289,HC-DY-450a,Climate Change Impacts on Human Health & Infrastructure
+290,HC-DY-510a,Fraud & Unnecessary Procedures
+291,HC-MC-000.A,
+292,HC-MC-230a,Customer Privacy & Technology Standards
+293,HC-MC-240a,Access to Coverage
+294,HC-MC-250a,Plan Performance
+295,HC-MC-260a,Improved Outcomes
+296,HC-MC-450a,Climate Change Impacts on Human Health
+297,HC-MS-000.A,
+298,HC-MS-240a,Affordability & Pricing
+299,HC-MS-250a,Product Safety
+300,HC-MS-270a,Ethical Marketing
+301,HC-MS-410a,Product Design & Lifecycle Management
+302,HC-MS-430a,Supply Chain Management
+303,HC-MS-510a,Business Ethics
+304,IF-EN-000.A,
+305,IF-EN-000.B,
+306,IF-EN-000.C,
+307,IF-EN-160a,Environmental Impacts of Project Development
+308,IF-EN-250a,Structural Integrity & Safety
+309,IF-EN-320a,Workforce Health & Safety
+310,IF-EN-410a,Lifecycle Impacts of Buildings & Infrastructure
+311,IF-EN-410b,Climate Impacts of Business Mix
+312,IF-EN-510a,Business Ethics
+313,IF-EU-000.A,
+314,IF-EU-000.B,
+315,IF-EU-000.C,
+316,IF-EU-000.D,
+317,IF-EU-000.E,
+318,IF-EU-110a,Greenhouse Gas Emissions & Energy Resource Planning
+319,IF-EU-120a,Air Quality
+320,IF-EU-140a,Water Management
+321,IF-EU-150a,Coal Ash Management
+322,IF-EU-240a,Energy Affordability
+323,IF-EU-320a,Workforce Health & Safety
+324,IF-EU-420a,End-Use Efficiency & Demand
+325,IF-EU-540a,Nuclear Safety & Emergency Management
+326,IF-EU-550a,Grid Resiliency
+327,IF-GU-000.A,
+328,IF-GU-000.B,
+329,IF-GU-000.C,
+330,IF-GU-240a,Energy Affordability
+331,IF-GU-420a,End-Use Efficiency
+332,IF-GU-540a,Integrity of Gas Delivery Infrastructure
+333,IF-HB-000.A,
+334,IF-HB-000.B,
+335,IF-HB-000.C,
+336,IF-HB-160a,Land Use & Ecological Impacts
+337,IF-HB-320a,Workforce Health & Safety
+338,IF-HB-410a,Design for Resource Efficiency
+339,IF-HB-410b,Community Impacts of New Developments
+340,IF-HB-420a,Climate Change Adaptation
+341,IF-RE-000.A,
+342,IF-RE-000.B,
+343,IF-RE-000.C,
+344,IF-RE-000.D,
+345,IF-RE-130a,Energy Management
+346,IF-RE-140a,Water Management
+347,IF-RE-410a,Management of Tenant Sustainability Impacts
+348,IF-RE-450a,Climate Change Adaptation
+349,IF-RS-000.A,
+350,IF-RS-000.B,
+351,IF-RS-000.C,
+352,IF-RS-000.D,
+353,IF-RS-000.E,
+354,IF-RS-410a,Sustainability Services
+355,IF-RS-510a,Transparent Information & Management of Conflict of Interest
+356,IF-WM-000.A,
+357,IF-WM-000.B,
+358,IF-WM-000.C,
+359,IF-WM-000.D,
+360,IF-WM-110a,Greenhouse Gas Emissions
+361,IF-WM-110b,Fleet Fuel Management
+362,IF-WM-120a,Air Quality
+363,IF-WM-150a,Management of Leachate & Hazardous Waste
+364,IF-WM-310a,Labor Practices
+365,IF-WM-320a,Workforce Health & Safety
+366,IF-WM-420a,Recycling & Resource Recovery
+367,IF-WU-000.A,
+368,IF-WU-000.B,
+369,IF-WU-000.C,
+370,IF-WU-000.D,
+371,IF-WU-000.E,
+372,IF-WU-130a,Energy Management
+373,IF-WU-140a,Distribution Network Efficiency
+374,IF-WU-140b,Effluent Quality Management
+375,IF-WU-240a,Water Affordability & Access
+376,IF-WU-250a,Drinking Water Quality
+377,IF-WU-420a,End-Use Efficiency
+378,IF-WU-440a,Water Supply Resilience
+379,IF-WU-450a,Network Resiliency & Impacts of Climate Change
+380,RR-BI-000.A,
+381,RR-BI-000.B,
+382,RR-BI-000.C,
+383,RR-BI-120a,Air Quality
+384,RR-BI-140a,Water Management in Manufacturing
+385,RR-BI-410a,Lifecycle Emissions Balance
+386,RR-BI-430a,Sourcing & Environmental Impacts of Feedstock Production
+387,RR-BI-530a,Management of the Legal & Regulatory Environment
+388,RR-BI-540a,"Operational Safety, Emergency Preparedness & Response"
+389,RR-FC-000.A,
+390,RR-FC-000.B,
+391,RR-FC-000.C,
+392,RR-FC-130a,Energy Management
+393,RR-FC-320a,Workforce Health & Safety
+394,RR-FC-410a,Product Efficiency
+395,RR-FC-410b,Product End-of-life Management
+396,RR-FC-440a,Materials Sourcing
+397,RR-FM-000.A,
+398,RR-FM-000.B,
+399,RR-FM-000.C,
+400,RR-FM-160a,Ecosystem Services & Impacts
+401,RR-FM-210a,Rights of Indigenous Peoples
+402,RR-FM-450a,Climate Change Adaptation
+403,RR-PP-000.A,
+404,RR-PP-000.B,
+405,RR-PP-000.C,
+406,RR-PP-110a,Greenhouse Gas Emissions
+407,RR-PP-120a,Air Quality
+408,RR-PP-130a,Energy Management
+409,RR-PP-140a,Water Management
+410,RR-PP-430a,Supply Chain Management
+411,RR-ST-000.A,
+412,RR-ST-000.B,
+413,RR-ST-000.C,
+414,RR-ST-130a,Energy Management in Manufacturing
+415,RR-ST-140a,Water Management in Manufacturing
+416,RR-ST-150a,Hazardous Waste Management
+417,RR-ST-160a,Ecological Impacts of Project Development
+418,RR-ST-410a,Management of Energy Infrastructure Integration & Related Regulations
+419,RR-ST-410b,Product End-of-life Management
+420,RR-ST-440a,Materials Sourcing
+421,RR-WT-000.A,
+422,RR-WT-000.B,
+423,RR-WT-000.C,
+424,RR-WT-000.D,
+425,RR-WT-320a,Workforce Health & Safety
+426,RR-WT-410a,Ecological Impacts of Project Development
+427,RR-WT-440a,Materials Sourcing
+428,RR-WT-440b,Materials Efficiency
+429,RT-AE-000.A,
+430,RT-AE-000.B,
+431,RT-AE-130a,Energy Management
+432,RT-AE-150a,Hazardous Waste Management
+433,RT-AE-230a,Data Security
+434,RT-AE-250a,Product Safety
+435,RT-AE-410a,Fuel Economy & Emissions in Use-phase
+436,RT-AE-440a,Materials Sourcing
+437,RT-AE-510a,Business Ethics
+438,RT-CH-000.A,
+439,RT-CH-110a,Greenhouse Gas Emissions
+440,RT-CH-120a,Air Quality
+441,RT-CH-130a,Energy Management
+442,RT-CH-140a,Water Management
+443,RT-CH-150a,Hazardous Waste Management
+444,RT-CH-210a,Community Relations
+445,RT-CH-320a,Workforce Health & Safety
+446,RT-CH-410a,Product Design for Use-phase Efficiency
+447,RT-CH-410b,Safety & Environmental Stewardship of Chemicals
+448,RT-CH-410c,Genetically Modified Organisms
+449,RT-CH-530a,Management of the Legal & Regulatory Environment
+450,RT-CH-540a,"Operational Safety, Emergency Preparedness & Response"
+451,RT-CP-000.A,
+452,RT-CP-000.B,
+453,RT-CP-000.C,
+454,RT-CP-110a,Greenhouse Gas Emissions
+455,RT-CP-120a,Air Quality
+456,RT-CP-130a,Energy Management
+457,RT-CP-140a,Water Management
+458,RT-CP-150a,Waste Management
+459,RT-CP-250a,Product Safety
+460,RT-CP-410a,Product Lifecycle Management
+461,RT-CP-430a,Supply Chain Management
+462,RT-EE-000.A,
+463,RT-EE-000.B,
+464,RT-EE-130a,Energy Management
+465,RT-EE-150a,Hazardous Waste Management
+466,RT-EE-250a,Product Safety
+467,RT-EE-410a,Product Lifecycle Management
+468,RT-EE-440a,Materials Sourcing
+469,RT-EE-510a,Business Ethics
+470,RT-IG-000.A,
+471,RT-IG-000.B,
+472,RT-IG-130a,Energy Management
+473,RT-IG-320a,Employee Health & Safety
+474,RT-IG-410a,Fuel Economy & Emissions in Use-phase
+475,RT-IG-440a,Materials Sourcing
+476,RT-IG-440b,Remanufacturing Design & Services
+477,SV-AD-000.A,
+478,SV-AD-000.B,
+479,SV-AD-000.C,
+480,SV-AD-000.D,
+481,SV-AD-220a,Data Privacy
+482,SV-AD-270a,Advertising Integrity
+483,SV-AD-330a,Workforce Diversity & Inclusion
+484,SV-CA-000.A,
+485,SV-CA-000.B,
+486,SV-CA-000.C,
+487,SV-CA-000.D,
+488,SV-CA-130a,Energy Management
+489,SV-CA-260a,Responsible Gaming
+490,SV-CA-320a,Smoke-free Casinos
+491,SV-CA-510a,Internal Controls on Money Laundering
+492,SV-ED-000.A,
+493,SV-ED-000.B,
+494,SV-ED-000.C,
+495,SV-ED-000.D,
+496,SV-ED-230a,Data Security
+497,SV-ED-260a,Quality of Education & Gainful Employment
+498,SV-ED-270a,Marketing & Recruiting Practices
+499,SV-HL-000.A,
+500,SV-HL-000.B,
+501,SV-HL-000.C,
+502,SV-HL-000.D,
+503,SV-HL-130a,Energy Management
+504,SV-HL-140a,Water Management
+505,SV-HL-160a,Ecological Impacts
+506,SV-HL-310a,Labor Practices
+507,SV-HL-450a,Climate Change Adaptation
+508,SV-LF-000.A,
+509,SV-LF-000.B,
+510,SV-LF-130a,Energy Management
+511,SV-LF-250a,Customer Safety
+512,SV-LF-320a,Workforce Safety
+513,SV-ME-000.A,
+514,SV-ME-000.B,
+515,SV-ME-260a,Media Pluralism
+516,SV-ME-270a,Journalistic Integrity & Sponsorship Identification
+517,SV-ME-520a,Intellectual Property Protection & Media Piracy
+518,SV-PS-000.A,
+519,SV-PS-000.B,
+520,SV-PS-230a,Data Security
+521,SV-PS-330a,Workforce Diversity & Engagement
+522,SV-PS-510a,Professional Integrity
+523,TC-ES-000.A,
+524,TC-ES-000.B,
+525,TC-ES-000.C,
+526,TC-ES-140a,Water Management
+527,TC-ES-150a,Waste Management
+528,TC-ES-310a,Labor Practices
+529,TC-ES-320a,Labor Conditions
+530,TC-ES-410a,Product Lifecycle Management
+531,TC-ES-440a,Materials Sourcing
+532,TC-HW-000.A,
+533,TC-HW-000.B,
+534,TC-HW-000.C,
+535,TC-HW-230a,Product Security
+536,TC-HW-330a,Employee Diversity & Inclusion
+537,TC-HW-410a,Product Lifecycle Management
+538,TC-HW-430a,Supply Chain Management
+539,TC-HW-440a,Materials Sourcing
+540,TC-IM-000.A,
+541,TC-IM-000.B,
+542,TC-IM-000.C,
+543,TC-IM-130a,Environmental Footprint of Hardware Infrastructure
+544,TC-IM-220a,"Data Privacy, Advertising Standards & Freedom of Expression"
+545,TC-IM-230a,Data Security
+546,TC-IM-330a,"Employee Recruitment, Inclusion & Performance"
+547,TC-IM-520a,Intellectual Property Protection & Competitive Behavior
+548,TC-SC-000.A,
+549,TC-SC-000.B,
+550,TC-SC-110a,Greenhouse Gas Emissions
+551,TC-SC-130a,Energy Management in Manufacturing
+552,TC-SC-140a,Water Management
+553,TC-SC-150a,Waste Management
+554,TC-SC-320a,Employee Health & Safety
+555,TC-SC-330a,Recruiting & Managing a Global & Skilled Workforce
+556,TC-SC-410a,Product Lifecycle Management
+557,TC-SC-440a,Materials Sourcing
+558,TC-SC-520a,Intellectual Property Protection & Competitive Behavior
+559,TC-SI-000.A,
+560,TC-SI-000.B,
+561,TC-SI-000.C,
+562,TC-SI-130a,Environmental Footprint of Hardware Infrastructure
+563,TC-SI-220a,Data Privacy & Freedom of Expression
+564,TC-SI-230a,Data Security
+565,TC-SI-330a,"Recruiting & Managing a Global, Diverse & Skilled Workforce"
+566,TC-SI-520a,Intellectual Property Protection & Competitive Behavior
+567,TC-SI-550a,Managing Systemic Risks from Technology Disruptions
+568,TC-TL-000.A,
+569,TC-TL-000.B,
+570,TC-TL-000.C,
+571,TC-TL-000.D,
+572,TC-TL-130a,Environmental Footprint of Operations
+573,TC-TL-220a,Data Privacy
+574,TC-TL-230a,Data Security
+575,TC-TL-440a,Product End-of-life Management
+576,TC-TL-520a,Competitive Behavior & Open Internet
+577,TC-TL-550a,Managing Systemic Risks from Technology Disruptions
+578,TR-AF-000.A,
+579,TR-AF-000.B,
+580,TR-AF-000.C,
+581,TR-AF-110a,Greenhouse Gas Emissions
+582,TR-AF-120a,Air Quality
+583,TR-AF-310a,Labor Practices
+584,TR-AF-320a,Employee Health & Safety
+585,TR-AF-430a,Supply Chain Management
+586,TR-AF-540a,Accident & Safety Management
+587,TR-AL-000.A,
+588,TR-AL-000.B,
+589,TR-AL-000.C,
+590,TR-AL-000.D,
+591,TR-AL-000.E,
+592,TR-AL-000.F,
+593,TR-AL-110a,Greenhouse Gas Emissions
+594,TR-AL-310a,Labor Practices
+595,TR-AL-520a,Competitive Behavior
+596,TR-AL-540a,Accident & Safety Management
+597,TR-AP-000.A,
+598,TR-AP-000.B,
+599,TR-AP-000.C,
+600,TR-AP-130a,Energy Management
+601,TR-AP-150a,Waste Management
+602,TR-AP-250a,Product Safety
+603,TR-AP-410a,Design for Fuel Efficiency
+604,TR-AP-440a,Materials Sourcing
+605,TR-AP-440b,Materials Efficiency
+606,TR-AP-520a,Competitive Behavior
+607,TR-AU-000.A,
+608,TR-AU-000.B,
+609,TR-AU-250a,Product Safety
+610,TR-AU-310a,Labor Practices
+611,TR-AU-410a,Fuel Economy & Use-phase Emissions
+612,TR-AU-440a,Materials Sourcing
+613,TR-AU-440b,Materials Efficiency & Recycling
+614,TR-CL-000.A,
+615,TR-CL-000.B,
+616,TR-CL-000.C,
+617,TR-CL-000.D,
+618,TR-CL-000.E,
+619,TR-CL-110a,Greenhouse Gas Emissions
+620,TR-CL-120a,Air Quality
+621,TR-CL-160a,Discharge Management & Ecological Impacts
+622,TR-CL-250a,Customer Health & Safety
+623,TR-CL-310a,Labor Practices
+624,TR-CL-320a,Employee Health & Safety
+625,TR-CL-540a,Accident Management
+626,TR-CR-000.A,
+627,TR-CR-000.B,
+628,TR-CR-000.C,
+629,TR-CR-250a,Customer Safety
+630,TR-CR-410a,Fleet Fuel Economy & Utilization
+631,TR-MT-000.A,
+632,TR-MT-000.B,
+633,TR-MT-000.C,
+634,TR-MT-000.D,
+635,TR-MT-000.E,
+636,TR-MT-000.F,
+637,TR-MT-000.G,
+638,TR-MT-110a,Greenhouse Gas Emissions
+639,TR-MT-120a,Air Quality
+640,TR-MT-160a,Ecological Impacts
+641,TR-MT-320a,Employee Health & Safety
+642,TR-MT-510a,Business Ethics
+643,TR-MT-540a,Accident & Safety Management
+644,TR-RA-000.A,
+645,TR-RA-000.B,
+646,TR-RA-000.C,
+647,TR-RA-000.D,
+648,TR-RA-000.E,
+649,TR-RA-110a,Greenhouse Gas Emissions
+650,TR-RA-120a,Air Quality
+651,TR-RA-320a,Employee Health & Safety
+652,TR-RA-520a,Competitive Behavior
+653,TR-RA-540a,Accident & Safety Management
+654,TR-RO-000.A,
+655,TR-RO-000.B,
+656,TR-RO-000.C,
+657,TR-RO-110a,Greenhouse Gas Emissions
+658,TR-RO-120a,Air Quality
+659,TR-RO-320a,Driver Working Conditions
+660,TR-RO-540a,Accident & Safety Management

@@ -1,0 +1,111 @@
+﻿Company Name,ISIN,ISIC full_code,Region/Country,Report Date,Fiscal Year,Quarter,Month,Orig Report,Page,Note,Report Label,Quantity,Quantity Type,Reported Units,OS-C Code,Standardized Quantity,Standardized units,SASB Industry Code,SASB Sub-Metric Code,SASB units,CDP Code,OS-C - CDP synthetic code,Analyst
+MICROSOFT CORP,US5949181045,J5820,,,FY18,,,MSFT ESG 2018 Report,2,9,Water Withdrawals,7202446.00,,m3,WR.2.1,7202.45,dam3,TC-SI,TC-SI-130a.2a,"Thousand cubic meters (m³), Percentage (%)",,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY18,,,MSFT ESG 2018 Report,2,9,Water Consumption,3614312.00,,m3,WR.1.1,3614.31,dam3,TC-SI,TC-SI-130a.2b,"Thousand cubic meters (m³), Percentage (%)",,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY18,,,MSFT ESG 2018 Report,2,9,Water Discharge,3588134.00,,m3,WR.14.0,3588.13,dam3,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,WW,,FY18,,,MSFT ESG 2018 Report,7,13,Total Water Withdrawals,7202446.00,,m3,WR.1.0,7202.45,dam3,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,Municipal,,FY18,,,MSFT ESG 2018 Report,7,13,Water Withdrawals - Municipal Supply,6839293.00,,m3,WR.1.0,6839.29,dam3,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,Surface,,FY18,,,MSFT ESG 2018 Report,7,13,Water Withdrawals - Surface Water,0.00,,m3,WR.1.0,0.00,dam3,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,Ground,,FY18,,,MSFT ESG 2018 Report,7,13,Water Withdrawals - Ground Water,29140.00,,m3,WR.1.0,29.14,dam3,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,Salt/Brackish,,FY18,,,MSFT ESG 2018 Report,7,13,Water Withdrawals - Salt/Brackish water,0.00,,m3,WR.1.0,0.00,dam3,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,Rain,,FY18,,,MSFT ESG 2018 Report,7,13,Water Withdrawals - Rain water,39424.00,,m3,WR.1.0,39.42,dam3,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,Process,,FY18,,,MSFT ESG 2018 Report,7,13,Water Withdrawals - Process Water,294589.00,,m3,WR.1.0,294.59,dam3,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,Asia,,FY18,,,MSFT ESG 2018 Report,7,13,Water Withdrawals - Asia,1180130.00,,m3,WR.1.0,1180.13,dam3,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,EMEA,,FY18,,,MSFT ESG 2018 Report,7,13,"Water Withdrawals - Europe, Middle East, Africa",850909.00,,m3,WR.1.0,850.91,dam3,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,LATAM,,FY18,,,MSFT ESG 2018 Report,7,13,Water Withdrawals - Latin America,114575.00,,m3,WR.1.0,114.58,dam3,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,NORAM,,FY18,,,MSFT ESG 2018 Report,7,13,Water Withdrawals - North America,5056832.00,,m3,WR.1.0,5056.83,dam3,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,WW,,FY18,,,MSFT ESG 2018 Report,7,13,Total Water Consumption,3614312.00,,m3,WR.2.0,3614.31,dam3,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,Municipal,,FY18,,,MSFT ESG 2018 Report,7,13,Water Consumption - Municipal supply,3439010.00,,m3,WR.2.0,3439.01,dam3,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,Surface,,FY18,,,MSFT ESG 2018 Report,7,13,Water Consumption - Surface Water,0.00,,m3,WR.2.0,0.00,dam3,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,Ground,,FY18,,,MSFT ESG 2018 Report,7,13,Water Consumption - Ground Water,4020.00,,m3,WR.2.0,4.02,dam3,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,Salt/Brackish,,FY18,,,MSFT ESG 2018 Report,7,13,Water Consumption - Salt/Brackish water,0.00,,m3,WR.2.0,0.00,dam3,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,Rain,,FY18,,,MSFT ESG 2018 Report,7,13,Water Consumption - Rain Water,7389.00,,m3,WR.2.0,7.39,dam3,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,Process,,FY18,,,MSFT ESG 2018 Report,7,13,Water Consumption - Process Water,163893.00,,m3,WR.2.0,163.89,dam3,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,Asia,,FY18,,,MSFT ESG 2018 Report,7,13,Water Consumption - ASIA,594846.00,,m3,WR.2.0,594.85,dam3,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,EMEA,,FY18,,,MSFT ESG 2018 Report,7,13,Water Consumption - EMEA,383178.00,,m3,WR.2.0,383.18,dam3,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,LATAM,,FY18,,,MSFT ESG 2018 Report,7,13,Water Consumption - LATAM,66374.00,,m3,WR.2.0,66.37,dam3,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,NORAM,,FY18,,,MSFT ESG 2018 Report,7,13,Water Consumption - NorAm,2569914.00,,m3,WR.2.0,2569.91,dam3,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,WW,,FY18,,,MSFT ESG 2018 Report,7,13,Total Water Discharges - Municipal Treatment,3588134.00,,m3,WR.14.0,3588.13,dam3,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,Asia,,FY18,,,MSFT ESG 2018 Report,7,13,Water Discharges - Asia,585283.00,,m3,WR.14.0,585.28,dam3,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,EMEA,,FY18,,,MSFT ESG 2018 Report,7,13,"Water Discharges - Europe, Middle East, Africa",467731.00,,m3,WR.14.0,467.73,dam3,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,LATAM,,FY18,,,MSFT ESG 2018 Report,7,13,Water Discharges - Latin America,48201.00,,m3,WR.14.0,48.20,dam3,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,NORAM,,FY18,,,MSFT ESG 2018 Report,7,13,Water Discharges - North America,2486918.00,,m3,WR.14.0,2486.92,dam3,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY17,,,MSFT ESG 2018 Report,2,9,Water Withdrawals,5129715.00,,m3,WR.2.1,5129.72,dam3,TC-SI,TC-SI-130a.2a,"Thousand cubic meters (m³), Percentage (%)",,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY17,,,MSFT ESG 2018 Report,2,9,Water Consumption,1929342.00,,m3,WR.1.1,1929.34,dam3,TC-SI,TC-SI-130a.2b,"Thousand cubic meters (m³), Percentage (%)",,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY17,,,MSFT ESG 2018 Report,2,9,Water Discharge,3200373.00,,m3,WR.14.0,3200.37,dam3,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,WW,,FY17,,,MSFT ESG 2018 Report,7,13,Total Water Withdrawals,5129715.00,,m3,WR.1.0,5129.72,dam3,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,Municipal,,FY17,,,MSFT ESG 2018 Report,7,13,Water Withdrawals - Municipal Supply,4977049.00,,m3,WR.1.0,4977.05,dam3,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,Surface,,FY17,,,MSFT ESG 2018 Report,7,13,Water Withdrawals - Surface Water,0.00,,m3,WR.1.0,0.00,dam3,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,Ground,,FY17,,,MSFT ESG 2018 Report,7,13,Water Withdrawals - Ground Water,16517.00,,m3,WR.1.0,16.52,dam3,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,Salt/Brackish,,FY17,,,MSFT ESG 2018 Report,7,13,Water Withdrawals - Salt/Brackish water,0.00,,m3,WR.1.0,0.00,dam3,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,Rain,,FY17,,,MSFT ESG 2018 Report,7,13,Water Withdrawals - Rain water,26496.00,,m3,WR.1.0,26.50,dam3,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,Process,,FY17,,,MSFT ESG 2018 Report,7,13,Water Withdrawals - Process Water,109653.00,,m3,WR.1.0,109.65,dam3,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,Asia,,FY17,,,MSFT ESG 2018 Report,7,13,Water Withdrawals - Asia,908540.00,,m3,WR.1.0,908.54,dam3,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,EMEA,,FY17,,,MSFT ESG 2018 Report,7,13,"Water Withdrawals - Europe, Middle East, Africa",710744.00,,m3,WR.1.0,710.74,dam3,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,LATAM,,FY17,,,MSFT ESG 2018 Report,7,13,Water Withdrawals - Latin America,93291.00,,m3,WR.1.0,93.29,dam3,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,NORAM,,FY17,,,MSFT ESG 2018 Report,7,13,Water Withdrawals - North America,3417140.00,,m3,WR.1.0,3417.14,dam3,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,WW,,FY17,,,MSFT ESG 2018 Report,7,13,Total Water Consumption,1929342.00,,m3,WR.2.0,1929.34,dam3,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,Municipal,,FY17,,,MSFT ESG 2018 Report,7,13,Water Consumption - Municipal supply,1813899.00,,m3,WR.2.0,1813.90,dam3,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,Surface,,FY17,,,MSFT ESG 2018 Report,7,13,Water Consumption - Surface Water,0.00,,m3,WR.2.0,0.00,dam3,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,Ground,,FY17,,,MSFT ESG 2018 Report,7,13,Water Consumption - Ground Water,2927.00,,m3,WR.2.0,2.93,dam3,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,Salt/Brackish,,FY17,,,MSFT ESG 2018 Report,7,13,Water Consumption - Salt/Brackish water,0.00,,m3,WR.2.0,0.00,dam3,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,Rain,,FY17,,,MSFT ESG 2018 Report,7,13,Water Consumption - Rain Water,2864.00,,m3,WR.2.0,2.86,dam3,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,Process,,FY17,,,MSFT ESG 2018 Report,7,13,Water Consumption - Process Water,109653.00,,m3,WR.2.0,109.65,dam3,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,Asia,,FY17,,,MSFT ESG 2018 Report,7,13,Water Consumption - ASIA,399080.00,,m3,WR.2.0,399.08,dam3,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,EMEA,,FY17,,,MSFT ESG 2018 Report,7,13,Water Consumption - EMEA,189636.00,,m3,WR.2.0,189.64,dam3,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,LATAM,,FY17,,,MSFT ESG 2018 Report,7,13,Water Consumption - LATAM,26577.00,,m3,WR.2.0,26.58,dam3,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,NORAM,,FY17,,,MSFT ESG 2018 Report,7,13,Water Consumption - NorAm,1314048.00,,m3,WR.2.0,1314.05,dam3,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,WW,,FY17,,,MSFT ESG 2018 Report,7,13,Total Water Discharges - Municipal Treatment,3200373.00,,m3,WR.14.0,3200.37,dam3,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,Asia,,FY17,,,MSFT ESG 2018 Report,7,13,Water Discharges - Asia,509460.00,,m3,WR.14.0,509.46,dam3,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,EMEA,,FY17,,,MSFT ESG 2018 Report,7,13,"Water Discharges - Europe, Middle East, Africa",521107.00,,m3,WR.14.0,521.11,dam3,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,LATAM,,FY17,,,MSFT ESG 2018 Report,7,13,Water Discharges - Latin America,66714.00,,m3,WR.14.0,66.71,dam3,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,NORAM,,FY17,,,MSFT ESG 2018 Report,7,13,Water Discharges - North America,2103092.00,,m3,WR.14.0,2103.09,dam3,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY16,,,MSFT ESG 2018 Report,2,9,Water Withdrawals,5129715.00,,m3,WR.2.1,5129.72,dam3,TC-SI,TC-SI-130a.2a,"Thousand cubic meters (m³), Percentage (%)",,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY16,,,MSFT ESG 2018 Report,2,9,Water Consumption,1929342.00,,m3,WR.1.1,1929.34,dam3,TC-SI,TC-SI-130a.2b,"Thousand cubic meters (m³), Percentage (%)",,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY16,,,MSFT ESG 2018 Report,2,9,Water Discharge,3200373.00,,m3,WR.14.0,3200.37,dam3,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,WW,,FY16,,,MSFT ESG 2018 Report,7,13,Total Water Withdrawals,4757387.00,,m3,WR.1.0,4757.39,dam3,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,Municipal,,FY16,,,MSFT ESG 2018 Report,7,13,Water Withdrawals - Municipal Supply,4698116.00,,m3,WR.1.0,4698.12,dam3,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,Surface,,FY16,,,MSFT ESG 2018 Report,7,13,Water Withdrawals - Surface Water,0.00,,m3,WR.1.0,0.00,dam3,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,Ground,,FY16,,,MSFT ESG 2018 Report,7,13,Water Withdrawals - Ground Water,45663.00,,m3,WR.1.0,45.66,dam3,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,Salt/Brackish,,FY16,,,MSFT ESG 2018 Report,7,13,Water Withdrawals - Salt/Brackish water,0.00,,m3,WR.1.0,0.00,dam3,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,Rain,,FY16,,,MSFT ESG 2018 Report,7,13,Water Withdrawals - Rain water,937.00,,m3,WR.1.0,0.94,dam3,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,Process,,FY16,,,MSFT ESG 2018 Report,7,13,Water Withdrawals - Process Water,12672.00,,m3,WR.1.0,12.67,dam3,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,Asia,,FY16,,,MSFT ESG 2018 Report,7,13,Water Withdrawals - Asia,1021132.00,,m3,WR.1.0,1021.13,dam3,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,EMEA,,FY16,,,MSFT ESG 2018 Report,7,13,"Water Withdrawals - Europe, Middle East, Africa",760582.00,,m3,WR.1.0,760.58,dam3,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,LATAM,,FY16,,,MSFT ESG 2018 Report,7,13,Water Withdrawals - Latin America,115667.00,,m3,WR.1.0,115.67,dam3,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,NORAM,,FY16,,,MSFT ESG 2018 Report,7,13,Water Withdrawals - North America,2860006.00,,m3,WR.1.0,2860.01,dam3,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,WW,,FY16,,,MSFT ESG 2018 Report,7,13,Total Water Consumption,0.00,,m3,WR.2.0,0.00,dam3,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,Municipal,,FY16,,,MSFT ESG 2018 Report,7,13,Water Consumption - Municipal supply,0.00,,m3,WR.2.0,0.00,dam3,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,Surface,,FY16,,,MSFT ESG 2018 Report,7,13,Water Consumption - Surface Water,0.00,,m3,WR.2.0,0.00,dam3,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,Ground,,FY16,,,MSFT ESG 2018 Report,7,13,Water Consumption - Ground Water,0.00,,m3,WR.2.0,0.00,dam3,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,Salt/Brackish,,FY16,,,MSFT ESG 2018 Report,7,13,Water Consumption - Salt/Brackish water,0.00,,m3,WR.2.0,0.00,dam3,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,Rain,,FY16,,,MSFT ESG 2018 Report,7,13,Water Consumption - Rain Water,0.00,,m3,WR.2.0,0.00,dam3,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,Process,,FY16,,,MSFT ESG 2018 Report,7,13,Water Consumption - Process Water,0.00,,m3,WR.2.0,0.00,dam3,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,Asia,,FY16,,,MSFT ESG 2018 Report,7,13,Water Consumption - ASIA,0.00,,m3,WR.2.0,0.00,dam3,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,EMEA,,FY16,,,MSFT ESG 2018 Report,7,13,Water Consumption - EMEA,0.00,,m3,WR.2.0,0.00,dam3,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,LATAM,,FY16,,,MSFT ESG 2018 Report,7,13,Water Consumption - LATAM,0.00,,m3,WR.2.0,0.00,dam3,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,NORAM,,FY16,,,MSFT ESG 2018 Report,7,13,Water Consumption - NorAm,0.00,,m3,WR.2.0,0.00,dam3,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,WW,,FY16,,,MSFT ESG 2018 Report,7,13,Total Water Discharges - Municipal Treatment,4757387.00,,m3,WR.14.0,4757.39,dam3,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,Asia,,FY16,,,MSFT ESG 2018 Report,7,13,Water Discharges - Asia,1021132.00,,m3,WR.14.0,1021.13,dam3,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,EMEA,,FY16,,,MSFT ESG 2018 Report,7,13,"Water Discharges - Europe, Middle East, Africa",760582.00,,m3,WR.14.0,760.58,dam3,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,LATAM,,FY16,,,MSFT ESG 2018 Report,7,13,Water Discharges - Latin America,115667.00,,m3,WR.14.0,115.67,dam3,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,NORAM,,FY16,,,MSFT ESG 2018 Report,7,13,Water Discharges - North America,2860006.00,,m3,WR.14.0,2860.01,dam3,TC-SI,,,#N/A,#N/A,Tiemann
+AMERICAN ELECTRIC POWER,US0255371017,D3510,,,FY19,,,Final ESG Data Center.xlsx,,,Total Water Consumption (m3/year),167428676.37,,m³/year,WR.1.1,167428.68,dam3,IF-EU,IF-EU-140a.1b,"Thousand cubic meters (m³), Percentage (%)",,,Baltzell
+AMERICAN ELECTRIC POWER,US0255371017,D3510,,,FY18,,,Final ESG Data Center.xlsx,,,Total Water Consumption (m3/year),182463954.28,,m³/year,WR.1.1,182463.95,dam3,IF-EU,IF-EU-140a.1b,"Thousand cubic meters (m³), Percentage (%)",,,Baltzell
+AMERICAN ELECTRIC POWER,US0255371017,D3510,,,FY17,,,Final ESG Data Center.xlsx,,,Total Water Consumption (m3/year),167428676.37,,m³/year,WR.1.1,167428.68,dam3,IF-EU,IF-EU-140a.1b,"Thousand cubic meters (m³), Percentage (%)",,,Baltzell
+KYUSHU ELECTRIC POWER CO INC,JP3246400000,D3510,,,FY20,,,annual_report_fy2020.pdf,62,,Total water consumed,2800.00,,"1,000 m³",WR.1.1,2.80,dam3,IF-EU,IF-EU-140a.1b,"Thousand cubic meters (m³), Percentage (%)",,,Baltzell
+TOKYO ELECTRIC POWER COMPANY,JP3585800000,D3510,,,FY17,,,TEPCO/sasb2020-e.pdf,3,,Total water consumed,9634.00,,"1,000m3",WR.1.1,9.63,dam3,IF-EU,IF-EU-140a.1b,"Thousand cubic meters (m³), Percentage (%)",,,Baltzell
+TOKYO ELECTRIC POWER COMPANY,JP3585800000,D3510,,,FY18,,,TEPCO/sasb2020-e.pdf,3,,Total water consumed,9939.00,,"1,000m3",WR.1.1,9.94,dam3,IF-EU,IF-EU-140a.1b,"Thousand cubic meters (m³), Percentage (%)",,,Baltzell
+TOKYO ELECTRIC POWER COMPANY,JP3585800000,D3510,,,FY19,,,TEPCO/sasb2020-e.pdf,3,,Total water consumed,6.00,,"1,000m3",WR.1.1,0.01,dam3,IF-EU,IF-EU-140a.1b,"Thousand cubic meters (m³), Percentage (%)",,,Baltzell
+AMERICAN ELECTRIC POWER,US0255371017,D3510,,,FY19,,,Final ESG Data Center.xlsx,,,Total Water Withdrawal (m3/year),5499327625.18,,m³/year,WR.2.1,5499327.63,dam3,IF-EU,IF-EU-140a.1a,"Thousand cubic meters (m³), Percentage (%)",,,Baltzell
+AMERICAN ELECTRIC POWER,US0255371017,D3510,,,FY18,,,Final ESG Data Center.xlsx,,,Total Water Withdrawal (m3/year),5765507246.51,,m³/year,WR.2.1,5765507.25,dam3,IF-EU,IF-EU-140a.1a,"Thousand cubic meters (m³), Percentage (%)",,,Baltzell
+AMERICAN ELECTRIC POWER,US0255371017,D3510,,,FY17,,,Final ESG Data Center.xlsx,,,Total Water Withdrawal (m3/year),6790322967.90,,m³/year,WR.2.1,6790322.97,dam3,IF-EU,IF-EU-140a.1a,"Thousand cubic meters (m³), Percentage (%)",,,Baltzell
+KYUSHU ELECTRIC POWER CO INC,JP3246400000,D3510,,,FY20,,,,,,Total water withdrawn,6397.00,,"1,000 m³",WR.2.1,6.40,dam3,IF-EU,IF-EU-140a.1a,"Thousand cubic meters (m³), Percentage (%)",,,Baltzell
+TOKYO ELECTRIC POWER COMPANY,JP3585800000,D3510,,,FY17,,,TEPCO/sasb2020-e.pdf,3,,Total water withdrawn,63761486.00,,"1,000m3",WR.2.1,63761.49,dam3,IF-EU,IF-EU-140a.1a,"Thousand cubic meters (m³), Percentage (%)",,,Baltzell
+TOKYO ELECTRIC POWER COMPANY,JP3585800000,D3510,,,FY18,,,TEPCO/sasb2020-e.pdf,3,,Total water withdrawn,56289497.00,,"1,000m3",WR.2.1,56289.50,dam3,IF-EU,IF-EU-140a.1a,"Thousand cubic meters (m³), Percentage (%)",,,Baltzell
+TOKYO ELECTRIC POWER COMPANY,JP3585800000,D3510,,,FY19,,,TEPCO/sasb2020-e.pdf,3,,Total water withdrawn,50037979.00,,"1,000m3",WR.2.1,50037.98,dam3,IF-EU,IF-EU-140a.1a,"Thousand cubic meters (m³), Percentage (%)",,,Baltzell
+BHP BILLITON LIMITED,AU000000BHP4,B0710,,,FY20,,,200914_Sustainability and ESG Navigators and Databook 2020.xlsx,3,,Withdrawals(6),380330.00,,ML,WR.2.2,380330.00,dam3,EM-MM,EM-MM-140a.1a,"Thousand cubic meters (m³), Percentage (%)",,,Baltzell
+BHP BILLITON LIMITED,AU000000BHP4,B0710,,,FY20,,,200914_Sustainability and ESG Navigators and Databook 2020.xlsx,3,,Consumption(8),258120.00,,ML,WR.1.2,258120.00,dam3,EM-MM,EM-MM-140a.1b,"Thousand cubic meters (m³), Percentage (%)",,,Baltzell
+BHP BILLITON LIMITED,AU000000BHP4,B0710,,,FY19,,,200914_Sustainability and ESG Navigators and Databook 2020.xlsx,3,,Withdrawals(6),352950.00,,ML,WR.2.2,352950.00,dam3,EM-MM,EM-MM-140a.1a,"Thousand cubic meters (m³), Percentage (%)",,,Baltzell
+BHP BILLITON LIMITED,AU000000BHP4,B0710,,,FY19,,,200914_Sustainability and ESG Navigators and Databook 2020.xlsx,3,,Consumption(8),268620.00,,ML,WR.1.2,268620.00,dam3,EM-MM,EM-MM-140a.1b,"Thousand cubic meters (m³), Percentage (%)",,,Baltzell
+BHP BILLITON LIMITED,AU000000BHP4,B0710,,,FY18,,,200914_Sustainability and ESG Navigators and Databook 2020.xlsx,3,,Withdrawals(6),339870.00,,ML,WR.2.2,339870.00,dam3,EM-MM,EM-MM-140a.1a,"Thousand cubic meters (m³), Percentage (%)",,,Baltzell
+BHP BILLITON LIMITED,AU000000BHP4,B0710,,,FY18,,,200914_Sustainability and ESG Navigators and Databook 2020.xlsx,3,,Consumption(8),159960.00,,ML,WR.1.2,159960.00,dam3,EM-MM,EM-MM-140a.1b,"Thousand cubic meters (m³), Percentage (%)",,,Baltzell

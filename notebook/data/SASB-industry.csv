@@ -1,0 +1,78 @@
+,Industry Code,Industry
+0,CG-AA,"Apparel, Accessories & Footwear"
+1,CG-AM,Appliance Manufacturing
+2,CG-BF,Building Products & Furnishings
+3,CG-EC,E-Commerce
+4,CG-HP,Household & Personal Products
+5,CG-MR,Multiline and Specialty Retailers & Distributors
+6,CG-TS,Toys & Sporting Goods
+7,EM-CM,Construction Materials
+8,EM-CO,Coal Operations
+9,EM-EP,Oil & Gas – Exploration & Production
+10,EM-IS,Iron & Steel Producers
+11,EM-MD,Oil & Gas – Midstream
+12,EM-MM,Metals & Mining
+13,EM-RM,Oil & Gas – Refining & Marketing
+14,EM-SV,Oil & Gas – Services
+15,FB-AB,Alcoholic Beverages
+16,FB-AG,Agricultural Products
+17,FB-FR,Food Retailers & Distributors
+18,FB-MP,"Meat, Poultry & Dairy"
+19,FB-NB,Non-Alcoholic Beverages
+20,FB-PF,Processed Foods
+21,FB-RN,Restaurants
+22,FB-TB,Tobacco
+23,FN-AC,Asset Management & Custody Activities
+24,FN-CB,Commercial Banks
+25,FN-CF,Consumer Finance
+26,FN-EX,Security & Commodity Exchanges
+27,FN-IB,Investment Banking & Brokerage
+28,FN-IN,Insurance
+29,FN-MF,Mortgage Finance
+30,HC-BP,Biotechnology & Pharmaceuticals
+31,HC-DI,Health Care Distributors
+32,HC-DR,Drug Retailers
+33,HC-DY,Health Care Delivery
+34,HC-MC,Managed Care
+35,HC-MS,Medical Equipment & Supplies
+36,IF-EN,Engineering & Construction Services
+37,IF-EU,Electric Utilities & Power Generators
+38,IF-GU,Gas Utilities & Distributors
+39,IF-HB,Home Builders
+40,IF-RE,Real Estate
+41,IF-RS,Real Estate Services
+42,IF-WM,Waste Management
+43,IF-WU,Water Utilities & Services
+44,RR-BI,Biofuels
+45,RR-FC,Fuel Cells & Industrial Batteries
+46,RR-FM,Forestry Management
+47,RR-PP,Pulp & Paper Products
+48,RR-ST,Solar Technology & Project Developers
+49,RR-WT,Wind Technology & Project Developers
+50,RT-AE,Aerospace & Defense
+51,RT-CH,Chemicals
+52,RT-CP,Containers & Packaging
+53,RT-EE,Electrical & Electronic Equipment
+54,RT-IG,Industrial Machinery & Goods
+55,SV-AD,Advertising & Marketing
+56,SV-CA,Casinos & Gaming
+57,SV-ED,Education
+58,SV-HL,Hotels & Lodging
+59,SV-LF,Leisure Facilities
+60,SV-ME,Media & Entertainment
+61,SV-PS,Professional & Commercial Services
+62,TC-ES,Electronic Manufacturing Services & Original Design Manufacturing
+63,TC-HW,Hardware
+64,TC-IM,Internet Media & Services
+65,TC-SC,Semiconductors
+66,TC-SI,Software & IT Services
+67,TC-TL,Telecommunication Services
+68,TR-AF,Air Freight & Logistics
+69,TR-AL,Airlines
+70,TR-AP,Auto Parts
+71,TR-AU,Automobiles
+72,TR-CL,Cruise Lines
+73,TR-CR,Car Rental & Leasing
+74,TR-MT,Marine Transportation
+75,TR-RA,Rail Transportation
+76,TR-RO,Road Transportation

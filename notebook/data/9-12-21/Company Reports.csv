@@ -1,0 +1,1069 @@
+Company Name,ISIN,ISIC full_code,Region/Country,Report Date,Fiscal Year,Quarter,Month,Orig Report,Page,Note,Report Label,Quantity,Quantity Type,Reported Units,OS-C Code,Standardized Quantity,Standardized units,SASB Industry Code,SASB Sub-Metric Code,SASB units,CDP Code,OS-C - CDP synthetic code,Analyst
+AMERICAN ELECTRIC POWER,US0255371017,D3510,US,,FY17,,,Final ESG Data Center.xlsx,,,System Average Interruption Duration Index (SAIDI) (Minutes),215.00,,Minutes,EF.7.2,215.00,Minutes,IF-EU,IF-EU-550a.2a,"Minutes, Number",,,Baltzell
+AMERICAN ELECTRIC POWER,US0255371017,D3510,US,,FY17,,,Final ESG Data Center.xlsx,,,System Average Interruption Frequency Index (SAIFI) - Number of interruptions,1.39,,Minutes,EF.7.3,1.39,Minutes,IF-EU,IF-EU-550a.2b,"Minutes, Number",,,Baltzell
+AMERICAN ELECTRIC POWER,US0255371017,D3510,US,,FY17,,,Final ESG Data Center.xlsx,,,Customer Average Interruption Duration index (CAIDI) (Minutes),154.80,,Minutes,EF.7.4,154.80,Minutes,IF-EU,IF-EU-550a.2c,"Minutes, Number",,,Baltzell
+AMERICAN ELECTRIC POWER,US0255371017,D3510,US,,FY17,,,Final ESG Data Center.xlsx,,,Total Scope 1 emissions CO2e (metric tonnes),78760420.00,,metric tonnes,Em.1.1,78760420.00,mtCO2e,IF-EU,IF-EU-110a.1a,"Mg (t) CO_-e, Percentage (%)",C6.1,C6.1.1,Baltzell
+AMERICAN ELECTRIC POWER,US0255371017,D3510,US,,FY17,,,Final ESG Data Center.xlsx,,,Scope 1 and 2 intensity (Mg CO2e/total revenue $) ,0.01,,mtCO2e/USD,Em.13.1,0.01,mtCO2e/USD,IF-EU,IF-EU-120a.1a,"Mg (t), Percentage (%)",C6.10,C6.10.1,Baltzell
+AMERICAN ELECTRIC POWER,US0255371017,D3510,US,,FY17,,,Final ESG Data Center.xlsx,,,Scope 1 and 2 intensity (Mg CO2e/MWh generated) ,0.80,,mtCO2e/MWh generated,Em.13.8,0.80,mtCO2e/MWh generated,IF-EU,IF-EU-120a.1a,"Mg (t), Percentage (%)",C6.10,C6.10.8,Baltzell
+AMERICAN ELECTRIC POWER,US0255371017,D3510,US,,FY17,,,Final ESG Data Center.xlsx,,,NOx (MT),47618.00,,"Mg (t), Percentage (%)",Em.17.10,47618.00,Mg,IF-EU,IF-EU-120a.1a,"Mg (t), Percentage (%)",,,Baltzell
+AMERICAN ELECTRIC POWER,US0255371017,D3510,US,,FY17,,,Final ESG Data Center.xlsx,,,SO2 (MT),68652.00,,"Mg (t), Percentage (%)",Em.17.13,68652.00,Mg,IF-EU,IF-EU-120a.1b,"Mg (t), Percentage (%)",,,Baltzell
+AMERICAN ELECTRIC POWER,US0255371017,D3510,US,,FY17,,,Final ESG Data Center.xlsx,,,Mercury (kg) ,195.90,,kg,Em.17.8,195.90,kg,IF-EU,IF-EU-120a.1e,"Mg (t), Percentage (%)",,,Baltzell
+AMERICAN ELECTRIC POWER,US0255371017,D3510,US,,FY17,,,Final ESG Data Center.xlsx,,,SF6 (MT CO2e),189810.00,,mtCO2e,Em.4.12,189810.00,mtCO2e,IF-EU,,,,,Baltzell
+AMERICAN ELECTRIC POWER,US0255371017,D3510,US,,FY17,,,Final ESG Data Center.xlsx,,,CO2 (MT),78001430.00,,mtCO2e,Em.4.7,78001430.00,mtCO2e,IF-EU,,,,,Baltzell
+AMERICAN ELECTRIC POWER,US0255371017,D3510,US,,FY17,,,Final ESG Data Center.xlsx,,,CH4 (MT CO2e),239428.00,,mtCO2e,Em.4.8,239428.00,mtCO2e,IF-EU,,,,,Baltzell
+AMERICAN ELECTRIC POWER,US0255371017,D3510,US,,FY17,,,Final ESG Data Center.xlsx,,,N2O (MT CO2e),329753.00,,mtCO2e,Em.4.9,329753.00,mtCO2e,IF-EU,,,,,Baltzell
+AMERICAN ELECTRIC POWER,US0255371017,D3510,US,,FY17,,,Final ESG Data Center.xlsx,,,Location Based (MT CO2e),12957602.00,,mtCO2e,Em.7.1,12957602.00,mtCO2e,IF-EU,,,C6.3,C6.3.1,Baltzell
+AMERICAN ELECTRIC POWER,US0255371017,D3510,US,,FY17,,,Final ESG Data Center.xlsx,,,Market Based (MT CO2e),8271179.00,,mtCO2e,Em.7.2,8271179.00,mtCO2e,IF-EU,,,C6.3,C6.3.2,Baltzell
+AMERICAN ELECTRIC POWER,US0255371017,D3510,US,,FY17,,,Final ESG Data Center.xlsx,,,Total Water Consumption (m3/year),167428676.37,,m_/year,WR.1.1,167428.68,dam3,IF-EU,IF-EU-140a.1b,"Thousand cubic meters (m_), Percentage (%)",,,Baltzell
+AMERICAN ELECTRIC POWER,US0255371017,D3510,US,,FY17,,,Final ESG Data Center.xlsx,,,Total Water Withdrawal (m3/year),6790322967.90,,m_/year,WR.2.1,6790322.97,dam3,IF-EU,IF-EU-140a.1a,"Thousand cubic meters (m_), Percentage (%)",,,Baltzell
+AMERICAN ELECTRIC POWER,US0255371017,D3510,US,,FY18,,,Final ESG Data Center.xlsx,,,System Average Interruption Duration Index (SAIDI) (Minutes),256.60,,Minutes,EF.7.2,256.60,Minutes,IF-EU,IF-EU-550a.2a,"Minutes, Number",,,Baltzell
+AMERICAN ELECTRIC POWER,US0255371017,D3510,US,,FY18,,,Final ESG Data Center.xlsx,,,System Average Interruption Frequency Index (SAIFI) - Number of interruptions,1.53,,Minutes,EF.7.3,1.53,Minutes,IF-EU,IF-EU-550a.2b,"Minutes, Number",,,Baltzell
+AMERICAN ELECTRIC POWER,US0255371017,D3510,US,,FY18,,,Final ESG Data Center.xlsx,,,Customer Average Interruption Duration index (CAIDI) (Minutes),167.70,,Minutes,EF.7.4,167.70,Minutes,IF-EU,IF-EU-550a.2c,"Minutes, Number",,,Baltzell
+AMERICAN ELECTRIC POWER,US0255371017,D3510,US,,FY18,,,Final ESG Data Center.xlsx,,,Total Scope 1 emissions CO2e (metric tonnes),75361246.00,,metric tonnes,Em.1.1,75361246.00,mtCO2e,IF-EU,IF-EU-110a.1a,"Mg (t) CO_-e, Percentage (%)",C6.1,C6.1.1,Baltzell
+AMERICAN ELECTRIC POWER,US0255371017,D3510,US,,FY18,,,Final ESG Data Center.xlsx,,,Scope 1 and 2 intensity (Mg CO2e/total revenue $) ,0.01,,mtCO2e/USD,Em.13.1,0.01,mtCO2e/USD,IF-EU,IF-EU-120a.1a,"Mg (t), Percentage (%)",C6.10,C6.10.1,Baltzell
+AMERICAN ELECTRIC POWER,US0255371017,D3510,US,,FY18,,,Final ESG Data Center.xlsx,,,Scope 1 and 2 intensity (Mg CO2e/MWh generated) ,0.83,,mtCO2e/MWh generated,Em.13.8,0.83,mtCO2e/MWh generated,IF-EU,IF-EU-120a.1a,"Mg (t), Percentage (%)",C6.10,C6.10.8,Baltzell
+AMERICAN ELECTRIC POWER,US0255371017,D3510,US,,FY18,,,Final ESG Data Center.xlsx,,,NOx (MT),45282.00,,"Mg (t), Percentage (%)",Em.17.10,45282.00,Mg,IF-EU,IF-EU-120a.1a,"Mg (t), Percentage (%)",,,Baltzell
+AMERICAN ELECTRIC POWER,US0255371017,D3510,US,,FY18,,,Final ESG Data Center.xlsx,,,SO2 (MT),62274.00,,"Mg (t), Percentage (%)",Em.17.13,62274.00,Mg,IF-EU,IF-EU-120a.1b,"Mg (t), Percentage (%)",,,Baltzell
+AMERICAN ELECTRIC POWER,US0255371017,D3510,US,,FY18,,,SASB 2020 Report,4,,Air emissions from lead (Pb),314229.00,,Pounds,Em.17.6,,,IF-EU,IF-EU-120a.1d,"Mg (t), Percentage (%)",,,Baltzell
+AMERICAN ELECTRIC POWER,US0255371017,D3510,US,,FY18,,,Final ESG Data Center.xlsx,,,Mercury (kg) ,179.20,,kg,Em.17.8,179.20,kg,IF-EU,IF-EU-120a.1e,"Mg (t), Percentage (%)",,,Baltzell
+AMERICAN ELECTRIC POWER,US0255371017,D3510,US,,FY18,,,Final ESG Data Center.xlsx,,,SF6 (MT CO2e),163408.00,,mtCO2e,Em.4.12,163408.00,mtCO2e,IF-EU,,,,,Baltzell
+AMERICAN ELECTRIC POWER,US0255371017,D3510,US,,FY18,,,Final ESG Data Center.xlsx,,,CO2 (MT),74661649.00,,mtCO2e,Em.4.7,74661649.00,mtCO2e,IF-EU,,,,,Baltzell
+AMERICAN ELECTRIC POWER,US0255371017,D3510,US,,FY18,,,Final ESG Data Center.xlsx,,,CH4 (MT CO2e),225741.00,,mtCO2e,Em.4.8,225741.00,mtCO2e,IF-EU,,,,,Baltzell
+AMERICAN ELECTRIC POWER,US0255371017,D3510,US,,FY18,,,Final ESG Data Center.xlsx,,,N2O (MT CO2e),310447.00,,mtCO2e,Em.4.9,310447.00,mtCO2e,IF-EU,,,,,Baltzell
+AMERICAN ELECTRIC POWER,US0255371017,D3510,US,,FY18,,,Final ESG Data Center.xlsx,,,Location Based (MT CO2e),15739423.00,,mtCO2e,Em.7.1,15739423.00,mtCO2e,IF-EU,,,C6.3,C6.3.1,Baltzell
+AMERICAN ELECTRIC POWER,US0255371017,D3510,US,,FY18,,,Final ESG Data Center.xlsx,,,Market Based (MT CO2e),14479514.00,,mtCO2e,Em.7.2,14479514.00,mtCO2e,IF-EU,,,C6.3,C6.3.2,Baltzell
+AMERICAN ELECTRIC POWER,US0255371017,D3510,US,,FY18,,,Final ESG Data Center.xlsx,,,Total Water Consumption (m3/year),182463954.28,,m_/year,WR.1.1,182463.95,dam3,IF-EU,IF-EU-140a.1b,"Thousand cubic meters (m_), Percentage (%)",,,Baltzell
+AMERICAN ELECTRIC POWER,US0255371017,D3510,US,,FY18,,,Final ESG Data Center.xlsx,,,Total Water Withdrawal (m3/year),5765507246.51,,m_/year,WR.2.1,5765507.25,dam3,IF-EU,IF-EU-140a.1a,"Thousand cubic meters (m_), Percentage (%)",,,Baltzell
+AMERICAN ELECTRIC POWER,US0255371017,D3510,US,,FY19,,,2020 SASB Report,,,Number of customers served in markets subject to renewable portfolio standards (RPS),3386683.00,,Number of Customers,EF.6.1,3386683.00,customers,IF-EU,IF-EU-110a.4a,"Number, Percentage (%)",,,Baltzell
+AMERICAN ELECTRIC POWER,US0255371017,D3510,US,,FY19,,,2020 SASB Report,,,Percentage fulfillment of renewable portfolio standards (RPS) target by market,0.62,,Percentage (%),EF.6.2,0.62,percentage,IF-EU,IF-EU-110a.4b,"Number, Percentage (%)",,,Baltzell
+AMERICAN ELECTRIC POWER,US0255371017,D3510,US,,FY19,,,,,,"The entity shall discuss its operations in markets with RPS regulations or where regulations are emerging, including whether it is meeting its regulatory obligations, whether regulations require future increases or changes to the entity’s renewable energy portfolio, and strategies to maintain compliance with emerging regulations.",[not found],,text,EF.6.3,,,IF-EU,IF-EU-110a.4c,"Number, Percentage (%)",,,Baltzell
+AMERICAN ELECTRIC POWER,US0255371017,D3510,US,,FY19,,,GRI Report Appendix 21,42,could not confirm 0 incidents,Number of incidents of non-compliance with physical and/or cybersecurity standards or regulations,[not found],,Number,EF.7.1,,,IF-EU,IF-EU-550a.1a,Number,,,Baltzell
+AMERICAN ELECTRIC POWER,US0255371017,D3510,US,,FY19,,,Final ESG Data Center.xlsx,,,System Average Interruption Duration Index (SAIDI) (Minutes),228.80,,Minutes,EF.7.2,228.80,Minutes,IF-EU,IF-EU-550a.2a,"Minutes, Number",,,Baltzell
+AMERICAN ELECTRIC POWER,US0255371017,D3510,US,,FY19,,,Final ESG Data Center.xlsx,,,System Average Interruption Frequency Index (SAIFI) - Number of interruptions,1.41,,Minutes,EF.7.3,1.41,Minutes,IF-EU,IF-EU-550a.2b,"Minutes, Number",,,Baltzell
+AMERICAN ELECTRIC POWER,US0255371017,D3510,US,,FY19,,,Final ESG Data Center.xlsx,,,Customer Average Interruption Duration index (CAIDI) (Minutes),162.80,,Minutes,EF.7.4,162.80,Minutes,IF-EU,IF-EU-550a.2c,"Minutes, Number",,,Baltzell
+AMERICAN ELECTRIC POWER,US0255371017,D3510,US,,FY19,,,Final ESG Data Center.xlsx,,,The entity shall discuss notable service disruptions such as those that affected a significant number of customers or disruptions of extended duration,[not found],,Text,EF.7.5,,,IF-EU,IF-EU-550a.2d,"Minutes, Number",,,Baltzell
+AMERICAN ELECTRIC POWER,US0255371017,D3510,US,,FY19,,,,,,Percentage of electric utility revenues from rate structures that are decoupled,0.00,,Percentage (%),EF.8.1,0.00,percentage,IF-EU,IF-EU-420a.1a,Percentage (%),,,Baltzell
+AMERICAN ELECTRIC POWER,US0255371017,D3510,US,,FY19,,,,,,Percentage of electric utility revenues from rate structures that contain a lost revenue adjustment mechanism (LRAM),0.00,,Percentage (%),EF.8.2,0.00,percentage,IF-EU,IF-EU-420a.1b,Percentage (%),,,Baltzell
+AMERICAN ELECTRIC POWER,US0255371017,D3510,US,,FY19,,,2020 SASB Report,8,Refers to 6 documents,Percentage of electric load served by smart grid technology,[see notes],,Percentage (%) by megawatt hours (MWh),EF.8.3,,,IF-EU,IF-EU-420a.2a,Percentage (%) by megawatt hours (MWh),,,Baltzell
+AMERICAN ELECTRIC POWER,US0255371017,D3510,US,,FY19,,,2020 SASB Report,8,Refers to 6 documents,The entity shall discuss the opportunities and challenges associated with the development and operations of a smart grid,[see notes],,Percentage (%) by megawatt hours (MWh),EF.8.4,,,IF-EU,IF-EU-420a.2b,Percentage (%) by megawatt hours (MWh),,,Baltzell
+AMERICAN ELECTRIC POWER,US0255371017,D3510,US,,FY19,,,2020 SASB Report,8,refers to 2 documents,Customer electricity savings from efficiency measures by market,[see notes],,Megawatt hours (MWh),EF.8.5,,,IF-EU,IF-EU-420a.3a,Megawatt hours (MWh),,,Baltzell
+AMERICAN ELECTRIC POWER,US0255371017,D3510,US,,FY19,,,2020 SASB Report,8,refers to 2 documents,The entity shall discuss customer efficiency regulations relevant to each market in which it operates,[see notes],,Megawatt hours (MWh),EF.8.6,,,IF-EU,IF-EU-420a.3b,Megawatt hours (MWh),,,Baltzell
+AMERICAN ELECTRIC POWER,US0255371017,D3510,US,,FY19,,,2020 SASB Report,6,,Average retail electric rate for residential customers,[see subsidiaries],,Rate,EF.9.1,,,IF-EU,IF-EU-240a.1a,Rate,,,Baltzell
+AMERICAN ELECTRIC POWER,US0255371017,D3510,US,,FY19,,,2020 SASB Report,6,,Average retail electric rate for commercial customers,[see subsidiaries],,Rate,EF.9.2,,,IF-EU,IF-EU-240a.1b,Rate,,,Baltzell
+AMERICAN ELECTRIC POWER,US0255371017,D3510,US,,FY19,,,2020 SASB Report,6,,Average retail electric rate for industrial customers,[see subsidiaries],,Rate,EF.9.3,,,IF-EU,IF-EU-240a.1c,Rate,,,Baltzell
+AMERICAN ELECTRIC POWER,US0255371017,D3510,US,,FY19,,,2020 SASB Report,6,,Typical monthly electric bill for residential customers for 500 kWh of electricity delivered per month,[see subsidiaries],,Reporting currency,EF.9.4,,,IF-EU,IF-EU-240a.2a,Reporting currency,,,Baltzell
+AMERICAN ELECTRIC POWER,US0255371017,D3510,US,,FY19,,,2020 SASB Report,6,,"Typical monthly electric bill for residential customers for 1,000 kWh of electricity delivered per month",[see subsidiaries],,Reporting currency,EF.9.5,,,IF-EU,IF-EU-240a.2b,Reporting currency,,,Baltzell
+AMERICAN ELECTRIC POWER,US0255371017,D3510,US,,FY19,,,2020 SASB Report,6,,Number of residential customer electric disconnections for non payment,487943.00,,"Number, Percentage (%)",EF.9.6,487943.00,customers,IF-EU,IF-EU-240a.3a,"Number, Percentage (%)",,,Baltzell
+AMERICAN ELECTRIC POWER,US0255371017,D3510,US,,FY19,,,2020 SASB Report,6,this percentage is for power reconnected within 1 week,Percentage of residential customer electric disconnections for non payment that were reconnected within 30 days,0.78,,"Number, Percentage (%)",EF.9.7,0.78,percentage,IF-EU,IF-EU-240a.3b,"Number, Percentage (%)",,,Baltzell
+AMERICAN ELECTRIC POWER,US0255371017,D3510,US,,FY19,,,2020 SASB Report,6,http://aepsustainability.com/community-customer/customer/energy-assistance/,"Discussion of impact of external factors on customer affordability of electricity, including the economic conditions of the service territory",[see notes],,n/a,EF.9.8,,,IF-EU,IF-EU-240a.4a,n/a,,,Baltzell
+AMERICAN ELECTRIC POWER,US0255371017,D3510,US,,FY19,,,Final ESG Data Center.xlsx,,,Total Scope 1 emissions CO2e (metric tonnes),64776307.00,,metric tonnes,Em.1.1,64776307.00,mtCO2e,IF-EU,IF-EU-110a.1a,"Mg (t) CO_-e, Percentage (%)",C6.1,C6.1.1,Baltzell
+AMERICAN ELECTRIC POWER,US0255371017,D3510,US,,FY19,,,Final ESG Data Center.xlsx,,,Scope 1 and 2 intensity (Mg CO2e/total revenue $) ,0.01,,mtCO2e/USD,Em.13.1,0.01,mtCO2e/USD,IF-EU,IF-EU-120a.1a,"Mg (t), Percentage (%)",C6.10,C6.10.1,Baltzell
+AMERICAN ELECTRIC POWER,US0255371017,D3510,US,,FY19,,,Final ESG Data Center.xlsx,,,Scope 1 and 2 intensity (Mg CO2e/MWh generated) ,0.86,,mtCO2e/MWh generated,Em.13.8,0.86,mtCO2e/MWh generated,IF-EU,IF-EU-120a.1a,"Mg (t), Percentage (%)",C6.10,C6.10.8,Baltzell
+AMERICAN ELECTRIC POWER,US0255371017,D3510,US,,FY19,,,https://www.aep.com/Assets/docs/AEP2018CleanEnergyFutureReport.pdf,,,"Discussion of long-term and short-term strategy or plan to manage Scope 1 emissions, emissions reduction targets, and an analysis of performance against those targets",[see report],,n/a,Em.14.7,,,IF-EU,IF-EU-110a.3a,n/a,,,Baltzell
+AMERICAN ELECTRIC POWER,US0255371017,D3510,US,,FY19,,,Final ESG Data Center.xlsx,,,NOx (MT),35747.00,,"Mg (t), Percentage (%)",Em.17.10,35747.00,Mg,IF-EU,IF-EU-120a.1a,"Mg (t), Percentage (%)",,,Baltzell
+AMERICAN ELECTRIC POWER,US0255371017,D3510,US,,FY19,,,,,,Air emissions from particulate matter (PM ),[not found],,"Mg (t), Percentage (%)",Em.17.11,,,IF-EU,IF-EU-120a.1c,"Mg (t), Percentage (%)",,,Baltzell
+AMERICAN ELECTRIC POWER,US0255371017,D3510,US,,FY19,,,Final ESG Data Center.xlsx,,,SO2 (MT),47385.00,,"Mg (t), Percentage (%)",Em.17.13,47385.00,Mg,IF-EU,IF-EU-120a.1b,"Mg (t), Percentage (%)",,,Baltzell
+AMERICAN ELECTRIC POWER,US0255371017,D3510,US,,FY19,,,,,,Percentage of lead (Pb) emissions in or near areas of dense population,[not found],,"Mg (t), Percentage (%)",Em.17.14,,,IF-EU,IF-EU-120a.1i,"Mg (t), Percentage (%)",,,Baltzell
+AMERICAN ELECTRIC POWER,US0255371017,D3510,US,,FY19,,,,,,Percentage of mercury (Hg) emissions in or near areas of dense population,[not found],,"Mg (t), Percentage (%)",Em.17.15,,,IF-EU,IF-EU-120a.1j,"Mg (t), Percentage (%)",,,Baltzell
+AMERICAN ELECTRIC POWER,US0255371017,D3510,US,,FY19,,,,,,Percentage of NO (excluding N O) emissions in or near areas of dense population,[not found],,"Mg (t), Percentage (%)",Em.17.16,,,IF-EU,IF-EU-120a.1f,"Mg (t), Percentage (%)",,,Baltzell
+AMERICAN ELECTRIC POWER,US0255371017,D3510,US,,FY19,,,,,,Percentage of particulate matter (PM ) emissions in or near areas of dense population,[not found],,"Mg (t), Percentage (%)",Em.17.17,,,IF-EU,IF-EU-120a.1h,"Mg (t), Percentage (%)",,,Baltzell
+AMERICAN ELECTRIC POWER,US0255371017,D3510,US,,FY19,,,,,,Percentage of SO emissions in or near areas of dense population,[not found],,"Mg (t), Percentage (%)",Em.17.18,,,IF-EU,IF-EU-120a.1g,"Mg (t), Percentage (%)",,,Baltzell
+AMERICAN ELECTRIC POWER,US0255371017,D3510,US,,FY19,,,SASB 2020 Report,4,,Air emissions from lead (Pb),[not found],,Pounds,Em.17.6,,,IF-EU,IF-EU-120a.1d,"Mg (t), Percentage (%)",,,Baltzell
+AMERICAN ELECTRIC POWER,US0255371017,D3510,US,,FY19,,,Final ESG Data Center.xlsx,,,Mercury (kg) ,140.90,,kg,Em.17.8,140.90,kg,IF-EU,IF-EU-120a.1e,"Mg (t), Percentage (%)",,,Baltzell
+AMERICAN ELECTRIC POWER,US0255371017,D3510,US,,FY19,,,2020 SASB Report,3,,Percentage of gross global Scope 1 emissions covered under emissions-limiting regulations,[not found],,"Mg (t) CO_-e, Percentage (%)",Em.2.1,,,IF-EU,IF-EU-110a.1b,"Mg (t) CO_-e, Percentage (%)",,,Baltzell
+AMERICAN ELECTRIC POWER,US0255371017,D3510,US,,FY19,,,2020 SASB Report,3,,Percentage of gross global Scope 1 emissions covered under emissions-reporting regulations,[not found],,"Mg (t) CO_-e, Percentage (%)",Em.2.2,,,IF-EU,IF-EU-110a.1c,"Mg (t) CO_-e, Percentage (%)",,,Baltzell
+AMERICAN ELECTRIC POWER,US0255371017,D3510,US,,FY19,,,Final ESG Data Center.xlsx,,,SF6 (MT CO2e),166149.00,,mtCO2e,Em.4.12,166149.00,mtCO2e,IF-EU,,,,,Baltzell
+AMERICAN ELECTRIC POWER,US0255371017,D3510,US,,FY19,,,Final ESG Data Center.xlsx,,,CO2 (MT),64157262.00,,mtCO2e,Em.4.7,64157262.00,mtCO2e,IF-EU,,,,,Baltzell
+AMERICAN ELECTRIC POWER,US0255371017,D3510,US,,FY19,,,Final ESG Data Center.xlsx,,,CH4 (MT CO2e),190755.00,,mtCO2e,Em.4.8,190755.00,mtCO2e,IF-EU,,,,,Baltzell
+AMERICAN ELECTRIC POWER,US0255371017,D3510,US,,FY19,,,Final ESG Data Center.xlsx,,,N2O (MT CO2e),262141.00,,mtCO2e,Em.4.9,262141.00,mtCO2e,IF-EU,,,,,Baltzell
+AMERICAN ELECTRIC POWER,US0255371017,D3510,US,,FY19,,,2020 SASB Report,3,,Greenhouse gas (GHG) emissions associated with power deliveries,11756.00,,CO2e Lbs/MWh,Em.5.5,5.33,mtCO2e/MWh generated,IF-EU,IF-EU-110a.2a,Mg (t) CO_-e,,,Baltzell
+AMERICAN ELECTRIC POWER,US0255371017,D3510,US,,FY19,,,Final ESG Data Center.xlsx,,,Location Based (MT CO2e),14514119.00,,mtCO2e,Em.7.1,14514119.00,mtCO2e,IF-EU,,,C6.3,C6.3.1,Baltzell
+AMERICAN ELECTRIC POWER,US0255371017,D3510,US,,FY19,,,Final ESG Data Center.xlsx,,,Market Based (MT CO2e),12724618.00,,mtCO2e,Em.7.2,12724618.00,mtCO2e,IF-EU,,,C6.3,C6.3.2,Baltzell
+AMERICAN ELECTRIC POWER,US0255371017,D3510,US,,FY19,,,Final ESG Data Center.xlsx,,,Total Water Consumption (m3/year),167428676.37,,m_/year,WR.1.1,167428.68,dam3,IF-EU,IF-EU-140a.1b,"Thousand cubic meters (m_), Percentage (%)",,,Baltzell
+AMERICAN ELECTRIC POWER,US0255371017,D3510,US,,FY19,,,,,,Percentage of water consumed in regions with High or Extremely High Baseline Water Stress,[not found],,"Thousand cubic meters (m_), Percentage (%)",WR.1.3,,,IF-EU,IF-EU-140a.1d,"Thousand cubic meters (m_), Percentage (%)",,,Baltzell
+AMERICAN ELECTRIC POWER,US0255371017,D3510,US,,FY19,,,Final ESG Data Center.xlsx,,,Total Water Withdrawal (m3/year),5499327625.18,,m_/year,WR.2.1,5499327.63,dam3,IF-EU,IF-EU-140a.1a,"Thousand cubic meters (m_), Percentage (%)",,,Baltzell
+AMERICAN ELECTRIC POWER,US0255371017,D3510,US,,FY19,,,,,,Percentage of water withdrawn in regions with High or Extremely High Baseline Water Stress,[not found],,"Thousand cubic meters (m_), Percentage (%)",WR.2.3,,,IF-EU,IF-EU-140a.1c,"Thousand cubic meters (m_), Percentage (%)",,,Baltzell
+AMERICAN ELECTRIC POWER,US0255371017,D3510,US,,FY19,,,,,,"Number of incidents of non-compliance associated with water quantity and/or quality permits, standards, and regulations",,,Number,WR.3.1,,,IF-EU,IF-EU-140a.2a,Number,,,Baltzell
+AMERICAN ELECTRIC POWER,US0255371017,D3510,US,,FY19,,,,,,Description of water management risks and discussion of strategies and practices to mitigate those risks,,,n/a,WR.3.2,,,IF-EU,IF-EU-140a.3a,n/a,,,Baltzell
+BHP BILLITON LIMITED,AU000000BHP4,B0710,AU,,FY18,,,200914_Sustainability and ESG Navigators and Databook 2020.xlsx,3,,Total operational energy consumption,150.00,,PJ,EF.1.1,41666700.00,MWh,EM-MM,EM-MM-130a.1a,"Gigajoules (GJ), Percentage (%)",,,Baltzell
+BHP BILLITON LIMITED,AU000000BHP4,B0710,AU,,FY18,,,200914_Sustainability and ESG Navigators and Databook 2020.xlsx,3,,Consumption of electricity from grid,31.00,,PJ,EF.2.4,8611118.00,MWh,EM-MM,EM-MM-130a.1b,"Gigajoules (GJ), Percentage (%)",,,Baltzell
+BHP BILLITON LIMITED,AU000000BHP4,B0710,AU,,FY18,,,200914_Sustainability and ESG Navigators and Databook 2020.xlsx,3,,Operational energy consumption from renewable sources (PJ),0.05,,PJ,EF.2.7,13888.90,MWh,EM-MM,EM-MM-130a.1c,"Gigajoules (GJ), Percentage (%)",,,Baltzell
+BHP BILLITON LIMITED,AU000000BHP4,B0710,AU,,FY18,,,200914_Sustainability and ESG Navigators and Databook 2020.xlsx,3,,Scope 1 GHG emissions(6),10.60,,mtCO2e,Em.1.1,10.60,mtCO2e,EM-MM,EM-MM-110a.1a,"Mg (t) CO_-e, Percentage (%)",C6.1,C6.1.1,Baltzell
+BHP BILLITON LIMITED,AU000000BHP4,B0710,AU,,FY18,,,200914_Sustainability and ESG Navigators and Databook 2020.xlsx,3,,Consumption(8),159960.00,,ML,WR.1.2,159960.00,dam3,EM-MM,EM-MM-140a.1b,"Thousand cubic meters (m_), Percentage (%)",,,Baltzell
+BHP BILLITON LIMITED,AU000000BHP4,B0710,AU,,FY18,,,200914_Sustainability and ESG Navigators and Databook 2020.xlsx,3,,Withdrawals(6),339870.00,,ML,WR.2.2,339870.00,dam3,EM-MM,EM-MM-140a.1a,"Thousand cubic meters (m_), Percentage (%)",,,Baltzell
+BHP BILLITON LIMITED,AU000000BHP4,B0710,AU,,FY18,,,200914_Sustainability and ESG Navigators and Databook 2020.xlsx,3,,Percentage of fresh water withdrawn in regions with High or Extremely High Baseline Water Stress,0.00,,percentage,WR.2.4,0.00,percentage,EM-MM,EM-MM-140a.1c,"Thousand cubic meters (m_), Percentage (%)",,,Baltzell
+BHP BILLITON LIMITED,AU000000BHP4,B0710,AU,,FY18,,,200914_Sustainability and ESG Navigators and Databook 2020.xlsx,3,,Percentage of fresh water consumed in regions with High or Extremely High Baseline Water Stress,0.00,,percentage,WR.2.5,0.00,percentage,EM-MM,EM-MM-140a.1d,"Thousand cubic meters (m_), Percentage (%)",,,Baltzell
+BHP BILLITON LIMITED,AU000000BHP4,B0710,AU,,FY19,,,200914_Sustainability and ESG Navigators and Databook 2020.xlsx,3,,Total operational energy consumption,149.00,,PJ,EF.1.1,41388922.00,MWh,EM-MM,EM-MM-130a.1a,"Gigajoules (GJ), Percentage (%)",,,Baltzell
+BHP BILLITON LIMITED,AU000000BHP4,B0710,AU,,FY19,,,200914_Sustainability and ESG Navigators and Databook 2020.xlsx,3,,Consumption of electricity from grid,31.00,,PJ,EF.2.4,8611118.00,MWh,EM-MM,EM-MM-130a.1b,"Gigajoules (GJ), Percentage (%)",,,Baltzell
+BHP BILLITON LIMITED,AU000000BHP4,B0710,AU,,FY19,,,200914_Sustainability and ESG Navigators and Databook 2020.xlsx,3,,Operational energy consumption from renewable sources (PJ),0.05,,PJ,EF.2.7,13888.90,MWh,EM-MM,EM-MM-130a.1c,"Gigajoules (GJ), Percentage (%)",,,Baltzell
+BHP BILLITON LIMITED,AU000000BHP4,B0710,AU,,FY19,,,200914_Sustainability and ESG Navigators and Databook 2020.xlsx,3,,Scope 1 GHG emissions(6),9.72,,mtCO2e,Em.1.1,9.72,mtCO2e,EM-MM,EM-MM-110a.1a,"Mg (t) CO_-e, Percentage (%)",C6.1,C6.1.1,Baltzell
+BHP BILLITON LIMITED,AU000000BHP4,B0710,AU,,FY19,,,200914_Sustainability and ESG Navigators and Databook 2020.xlsx,3,,Consumption(8),268620.00,,ML,WR.1.2,268620.00,dam3,EM-MM,EM-MM-140a.1b,"Thousand cubic meters (m_), Percentage (%)",,,Baltzell
+BHP BILLITON LIMITED,AU000000BHP4,B0710,AU,,FY19,,,200914_Sustainability and ESG Navigators and Databook 2020.xlsx,3,,Withdrawals(6),352950.00,,ML,WR.2.2,352950.00,dam3,EM-MM,EM-MM-140a.1a,"Thousand cubic meters (m_), Percentage (%)",,,Baltzell
+BHP BILLITON LIMITED,AU000000BHP4,B0710,AU,,FY19,,,200914_Sustainability and ESG Navigators and Databook 2020.xlsx,3,,Percentage of fresh water withdrawn in regions with High or Extremely High Baseline Water Stress,0.00,,percentage,WR.2.4,0.00,percentage,EM-MM,EM-MM-140a.1c,"Thousand cubic meters (m_), Percentage (%)",,,Baltzell
+BHP BILLITON LIMITED,AU000000BHP4,B0710,AU,,FY19,,,200914_Sustainability and ESG Navigators and Databook 2020.xlsx,3,,Percentage of fresh water consumed in regions with High or Extremely High Baseline Water Stress,0.00,,percentage,WR.2.5,0.00,percentage,EM-MM,EM-MM-140a.1d,"Thousand cubic meters (m_), Percentage (%)",,,Baltzell
+BHP BILLITON LIMITED,AU000000BHP4,B0710,AU,,FY20,,,200914_Sustainability and ESG Navigators and Databook 2020.xlsx,3,,Total operational energy consumption,150.00,,PJ,EF.1.1,41666700.00,MWh,EM-MM,EM-MM-130a.1a,"Gigajoules (GJ), Percentage (%)",,,Baltzell
+BHP BILLITON LIMITED,AU000000BHP4,B0710,AU,,FY20,,,200914_Sustainability and ESG Navigators and Databook 2020.xlsx,3,,Consumption of electricity from grid,32.00,,PJ,EF.2.4,8888896.00,MWh,EM-MM,EM-MM-130a.1b,"Gigajoules (GJ), Percentage (%)",,,Baltzell
+BHP BILLITON LIMITED,AU000000BHP4,B0710,AU,,FY20,,,200914_Sustainability and ESG Navigators and Databook 2020.xlsx,3,,Operational energy consumption from renewable sources (PJ),0.04,,PJ,EF.2.7,11111.12,MWh,EM-MM,EM-MM-130a.1c,"Gigajoules (GJ), Percentage (%)",,,Baltzell
+BHP BILLITON LIMITED,AU000000BHP4,B0710,AU,,FY20,,,200914_Sustainability and ESG Navigators and Databook 2020.xlsx,3,,Scope 1 GHG emissions(6),9.49,,mtCO2e,Em.1.1,9.49,mtCO2e,EM-MM,EM-MM-110a.1a,"Mg (t) CO_-e, Percentage (%)",C6.1,C6.1.1,Baltzell
+BHP BILLITON LIMITED,AU000000BHP4,B0710,AU,,FY20,,,200914_Sustainability and ESG Navigators and Databook 2020.xlsx,3,,Air emissions for the following pollutant: CO,[not disclosed],,,Em.17.1,,,EM-MM,EM-MM-120a.1a,Mg (t),,,Baltzell
+BHP BILLITON LIMITED,AU000000BHP4,B0710,AU,,FY20,,,200914_Sustainability and ESG Navigators and Databook 2020.xlsx,3,,Total oxides of nitrogen,82898.93,,tonnes,Em.17.10,82898.93,Mg,EM-MM,EM-MM-120a.1b,Mg (t),,,Baltzell
+BHP BILLITON LIMITED,AU000000BHP4,B0710,AU,,FY20,,,200914_Sustainability and ESG Navigators and Databook 2020.xlsx,3,,Air emissions for the following pollutant: particulate matter (PM),[not disclosed],,,Em.17.11,,,EM-MM,EM-MM-120a.1d,Mg (t),,,Baltzell
+BHP BILLITON LIMITED,AU000000BHP4,B0710,AU,,FY20,,,200914_Sustainability and ESG Navigators and Databook 2020.xlsx,3,,Total oxides of sulphur,16272.45,,tonnes,Em.17.13,16272.45,Mg,EM-MM,EM-MM-120a.1c,Mg (t),,,Baltzell
+BHP BILLITON LIMITED,AU000000BHP4,B0710,AU,,FY20,,,200914_Sustainability and ESG Navigators and Databook 2020.xlsx,3,,Air emissions for the following pollutant: volatile organic compounds (VOCs),[not disclosed],,,Em.17.14,,,EM-MM,EM-MM-120a.1g,Mg (t),,,Baltzell
+BHP BILLITON LIMITED,AU000000BHP4,B0710,AU,,FY20,,,200914_Sustainability and ESG Navigators and Databook 2020.xlsx,3,,Air emissions for the following pollutant: lead (Pb),[not disclosed],,,Em.17.6,,,EM-MM,EM-MM-120a.1f,Mg (t),,,Baltzell
+BHP BILLITON LIMITED,AU000000BHP4,B0710,AU,,FY20,,,200914_Sustainability and ESG Navigators and Databook 2020.xlsx,3,,Air emissions for the following pollutant: mercury (Hg),[not disclosed],,,Em.17.8,,,EM-MM,EM-MM-120a.1e,Mg (t),,,Baltzell
+BHP BILLITON LIMITED,AU000000BHP4,B0710,AU,,FY20,,,200914_Sustainability and ESG Navigators and Databook 2020.xlsx,3,,Percentage of gross global Scope 1 emissions covered under emissions-limiting regulations,[not disclosed],,,Em.2.1,,,EM-MM,EM-MM-110a.1b,"Mg (t) CO_-e, Percentage (%)",,,Baltzell
+BHP BILLITON LIMITED,AU000000BHP4,B0710,AU,,FY20,,,200914_Sustainability and ESG Navigators and Databook 2020.xlsx,3,,"Discussion of long-term and short-term strategy or plan to manage Scope 1 emissions, emissions reduction targets, and an analysis of performance against those targets","Annual Report 2020 section 1.7.8 Climate Change.
+
+Climate Change Report 2020 section 2.2 Reducing our GHG emissions.
+
+BHP’s strategy is not driven by any regulatory emissions trading scheme.",,text,Em.6.6,,,EM-MM,EM-MM-110a.2a,n/a,,,Baltzell
+BHP BILLITON LIMITED,AU000000BHP4,B0710,AU,,FY20,,,200914_Sustainability and ESG Navigators and Databook 2020.xlsx,3,,Consumption(8),258120.00,,ML,WR.1.2,258120.00,dam3,EM-MM,EM-MM-140a.1b,"Thousand cubic meters (m_), Percentage (%)",,,Baltzell
+BHP BILLITON LIMITED,AU000000BHP4,B0710,AU,,FY20,,,200914_Sustainability and ESG Navigators and Databook 2020.xlsx,3,,Withdrawals(6),380330.00,,ML,WR.2.2,380330.00,dam3,EM-MM,EM-MM-140a.1a,"Thousand cubic meters (m_), Percentage (%)",,,Baltzell
+BHP BILLITON LIMITED,AU000000BHP4,B0710,AU,,FY20,,,200914_Sustainability and ESG Navigators and Databook 2020.xlsx,3,,Percentage of fresh water withdrawn in regions with High or Extremely High Baseline Water Stress,0.00,,percentage,WR.2.4,0.00,percentage,EM-MM,EM-MM-140a.1c,"Thousand cubic meters (m_), Percentage (%)",,,Baltzell
+BHP BILLITON LIMITED,AU000000BHP4,B0710,AU,,FY20,,,200914_Sustainability and ESG Navigators and Databook 2020.xlsx,3,,Percentage of fresh water consumed in regions with High or Extremely High Baseline Water Stress,0.00,,percentage,WR.2.5,0.00,percentage,EM-MM,EM-MM-140a.1d,"Thousand cubic meters (m_), Percentage (%)",,,Baltzell
+BHP BILLITON LIMITED,AU000000BHP4,B0710,AU,,FY20,,,200914_Sustainability and ESG Navigators and Databook 2020.xlsx,3,,Number of incidents of non-compliance associated with water quality permits,[not disclosed],,,WR.3.1,,,EM-MM,EM-MM-140a.2a,Number,,,Baltzell
+BHP BILLITON LIMITED,AU000000BHP4,B0710,AU,,FY20,,,200914_Sustainability and ESG Navigators and Databook 2020.xlsx,3,,Number of incidents of non-compliance associated with water quality regulations,[not disclosed],,,WR.3.1,,,EM-MM,EM-MM-140a.2c,Number,,,Baltzell
+BHP BILLITON LIMITED,AU000000BHP4,B0710,AU,,FY20,,,200914_Sustainability and ESG Navigators and Databook 2020.xlsx,3,,Number of incidents of non-compliance associated with water quality standards,[not disclosed],,,WR.3.1,,,EM-MM,EM-MM-140a.2b,Number,,,Baltzell
+CEMEX SAB-CPO,MXP225611567,C2394,MX,,FY17,,,IntegratedReport2019.pdf,209,,Total energy consumed,63564.00,,GWh,EF.1.1,17656680.79,MWh,EM-CM,EM-CM-130a.1a,"Gigajoules (GJ), Percentage (%)",,,Baltzell
+CEMEX SAB-CPO,MXP225611567,C2394,MX,,FY17,,,IntegratedReport2019.pdf,209,,Gross global Scope 1 emissions,42.50,,million metric tons CO2,Em.1.1,42500000.00,mtCO2e,EM-CM,EM-CM-110a.1a,"Mg (t) CO_-e, Percentage (%)",C6.1,C6.1.1,Baltzell
+CEMEX SAB-CPO,MXP225611567,C2394,MX,,FY17,,,IntegratedReport2019.pdf,210,,Air emissions for the following pollutant: NO (excluding N O),57973.00,,tons,Em.17.10,57973.00,Mg,EM-CM,EM-CM-120a.1a,Mg (t),,,Baltzell
+CEMEX SAB-CPO,MXP225611567,C2394,MX,,FY17,,,IntegratedReport2019.pdf,210,,Air emissions for the following pollutant: particulate matter (PM),2214.00,,tons,Em.17.11,2214.00,Mg,EM-CM,EM-CM-120a.1c,Mg (t),,,Baltzell
+CEMEX SAB-CPO,MXP225611567,C2394,MX,,FY17,,,IntegratedReport2019.pdf,210,,Air emissions for the following pollutant: SO,10399.00,,tons,Em.17.13,10399.00,Mg,EM-CM,EM-CM-120a.1b,Mg (t),,,Baltzell
+CEMEX SAB-CPO,MXP225611567,C2394,MX,,FY18,,,IntegratedReport2019.pdf,209,,Total energy consumed,65582.00,,GWh,EF.1.1,18217236.80,MWh,EM-CM,EM-CM-130a.1a,"Gigajoules (GJ), Percentage (%)",,,Baltzell
+CEMEX SAB-CPO,MXP225611567,C2394,MX,,FY18,,,IntegratedReport2019.pdf,209,,Gross global Scope 1 emissions,43.00,,million metric tons CO2,Em.1.1,43000000.00,mtCO2e,EM-CM,EM-CM-110a.1a,"Mg (t) CO_-e, Percentage (%)",C6.1,C6.1.1,Baltzell
+CEMEX SAB-CPO,MXP225611567,C2394,MX,,FY18,,,IntegratedReport2019.pdf,210,,Air emissions for the following pollutant: NO (excluding N O),56228.00,,tons,Em.17.10,56228.00,Mg,EM-CM,EM-CM-120a.1a,Mg (t),,,Baltzell
+CEMEX SAB-CPO,MXP225611567,C2394,MX,,FY18,,,IntegratedReport2019.pdf,210,,Air emissions for the following pollutant: particulate matter (PM),1911.00,,tons,Em.17.11,1911.00,Mg,EM-CM,EM-CM-120a.1c,Mg (t),,,Baltzell
+CEMEX SAB-CPO,MXP225611567,C2394,MX,,FY18,,,IntegratedReport2019.pdf,210,,Air emissions for the following pollutant: SO,11543.00,,tons,Em.17.13,11543.00,Mg,EM-CM,EM-CM-120a.1b,Mg (t),,,Baltzell
+CEMEX SAB-CPO,MXP225611567,C2394,MX,,FY19,,,IntegratedReport2019.pdf,209,,Total energy consumed,59182.00,,GWh,EF.1.1,16439457.60,MWh,EM-CM,EM-CM-130a.1a,"Gigajoules (GJ), Percentage (%)",,,Baltzell
+CEMEX SAB-CPO,MXP225611567,C2394,MX,,FY19,,,,,,Percentage of total energy consumed from alternative sources,[could be calculated],,,EF.2.1,,,EM-CM,EM-CM-130a.1c,"Gigajoules (GJ), Percentage (%)",,,Baltzell
+CEMEX SAB-CPO,MXP225611567,C2394,MX,,FY19,,,,,,Percentage of total energy consumed from purchased electricity,[could be calculated],,,EF.2.4,,,EM-CM,EM-CM-130a.1b,"Gigajoules (GJ), Percentage (%)",,,Baltzell
+CEMEX SAB-CPO,MXP225611567,C2394,MX,,FY19,,,,,,Percentage of total energy consumed from renewable sources,[could be calculated],,,EF.2.7,,,EM-CM,EM-CM-130a.1d,"Gigajoules (GJ), Percentage (%)",,,Baltzell
+CEMEX SAB-CPO,MXP225611567,C2394,MX,,FY19,,,IntegratedReport2019.pdf,209,,Gross global Scope 1 emissions,38.70,,million metric tons CO2,Em.1.1,38700000.00,mtCO2e,EM-CM,EM-CM-110a.1a,"Mg (t) CO_-e, Percentage (%)",C6.1,C6.1.1,Baltzell
+CEMEX SAB-CPO,MXP225611567,C2394,MX,,FY19,,,IntegratedReport2019.pdf,210,,Air emissions for the following pollutant: NO (excluding N O),49415.00,,tons,Em.17.10,49415.00,Mg,EM-CM,EM-CM-120a.1a,Mg (t),,,Baltzell
+CEMEX SAB-CPO,MXP225611567,C2394,MX,,FY19,,,IntegratedReport2019.pdf,210,,Air emissions for the following pollutant: particulate matter (PM),1553.00,,tons,Em.17.11,1553.00,Mg,EM-CM,EM-CM-120a.1c,Mg (t),,,Baltzell
+CEMEX SAB-CPO,MXP225611567,C2394,MX,,FY19,,,IntegratedReport2019.pdf,210,,Air emissions for the following pollutant: SO,12047.00,,tons,Em.17.13,12047.00,Mg,EM-CM,EM-CM-120a.1b,Mg (t),,,Baltzell
+CEMEX SAB-CPO,MXP225611567,C2394,MX,,FY19,,,,,,Percentage of Gross global Scope 1 emissions covered under emissions-limiting regulations,[not found],,,Em.2.1,,,EM-CM,EM-CM-110a.1b,"Mg (t) CO_-e, Percentage (%)",,,Baltzell
+CEMEX SAB-CPO,MXP225611567,C2394,MX,,FY19,,,IntegratedReport2019.pdf,75,,"Discussion of long-term and short-term strategy or plan to manage Scope 1 emissions, emissions reduction targets, and an analysis of performance against those targets","CLIMATE ACTION: REDUCING OUR CARBON FOOTPRINT
+We support urgent collective action seeking to ensure compliance by
+all parties in the implementation of the Paris Agreement´s commitments and the fulfillment of the UN Sustainable Development Goals
+(SDGs) on Climate Action. Advancing climate solutions requires
+collaborative cross-industry action and cooperation with governments,
+non-profit organizations, and multilateral institutions.
+As part of our commitment to support climate action, we recently redefined a more ambitious 2030 target. Aligned with the International Energy
+Agency (IEA) Roadmap to limit global warming potential to 2°C, we aim to
+reduce our net specific CO2 emissions by 35% compared to 1990 levels,
+reaching 520 kg CO2 per ton of cementitious product.
+Up to 2019, we reduced our net CO2 emissions per ton of cementitious products by 22.4% compared with our 1990 baseline, reaching
+622 kg CO2 per ton of cementitious material. For 2019 alone, we
+avoided emitting approximately 7.5 million tons of CO2, equivalent to
+the annual emissions of 1.6 million passenger vehicles. With our new
+target, we aim to reduce up to 16 million tons of CO2 by 2030 compared to 1990 levels, equivalent to the annual emissions of 3 million
+passenger vehicles. To meet our target, we intend to invest approximately US$130 million in initiatives related to the use of alternative
+fuels and raw materials over the next five years.
+To this end, we developed a CO2 Reduction Roadmap across all of our
+cement sites to model and assess the carbon mitigation potential that
+can be seized from each installation, considering local challenges,
+regulations, materials supply, technical limitations, and market dynamics, among other decisive factors. Building on this roadmap, we
+are reinforcing our role in reducing direct and indirect emissions in
+our production process through the implementation of our traditional
+and non-traditional CO2 reduction levers, enabled by our research and
+development of emerging technologies.",,text,Em.6.1,,,EM-CM,EM-CM-110a.2a,n/a,,,Baltzell
+CEMEX SAB-CPO,MXP225611567,C2394,MX,,FY19,,,,,,Percentage of products that qualify for credits in sustainable building design and construction certifications,[could be calculated],,,Po.0.0,,,EM-CM,EM-CM-410a.1a,Percentage (%) by annual sales revenue,#N/A,#N/A,Baltzell
+CEMEX SAB-CPO,MXP225611567,C2394,MX,,FY19,,,,,,"Total addressable market for products that reduce energy, water, and/or material impacts during usage and/or production",[could be calculated],,,TR.0.0,,,EM-CM,EM-CM-410a.2a,"Reporting currency, Percentage (%)",#N/A,#N/A,Baltzell
+CEMEX SAB-CPO,MXP225611567,C2394,MX,,FY19,,,,,,Percentage in regions with High or Extremely High Baseline Water Stress of total fresh water withdrawn,[could be calculated],,,WR.1.0,,,EM-CM,EM-CM-140a.1c,"Thousand cubic meters (m_), Percentage (%)",#N/A,#N/A,Baltzell
+CEMEX SAB-CPO,MXP225611567,C2394,MX,,FY19,,,,,,Percentage recycled of total fresh water withdrawn,[could be calculated],,,WR.1.0,,,EM-CM,EM-CM-140a.1b,"Thousand cubic meters (m_), Percentage (%)",#N/A,#N/A,Baltzell
+CEMEX SAB-CPO,MXP225611567,C2394,MX,,FY19,,,IntegratedReport2019.pdf,87,,Total fresh water withdrawn,59.00,,million m3,WR 2.2,59000.00,dam3,EM-CM,EM-CM-140a.1b,"Thousand cubic meters (m_), Percentage (%)",#N/A,#N/A,Baltzell
+E.ON SE,DE000ENAG999,D3510,SE,,FY17,,,https://www.eon.com/en/about-us/sustainability/facts-and-figures.html,,,Greenhouse gas emissions - Scope 1,4.53,,million mtCO2e,Em.1.1,4530000.00,mtCO2e,IF-EU,,,C6.1,C6.1.1,Baltzell
+E.ON SE,DE000ENAG999,D3510,SE,,FY18,,,https://www.eon.com/en/about-us/sustainability/facts-and-figures.html,,,Greenhouse gas emissions - Scope 1,4.58,,million mtCO2e,Em.1.1,4580000.00,mtCO2e,IF-EU,,,C6.1,C6.1.1,Baltzell
+E.ON SE,DE000ENAG999,D3510,SE,,FY19,,,https://www.eon.com/en/about-us/sustainability/facts-and-figures.html,,,Greenhouse gas emissions - Scope 1,4.91,,million mtCO2e,Em.1.1,4910000.00,mtCO2e,IF-EU,,,C6.1,C6.1.1,Baltzell
+KYUSHU ELECTRIC POWER CO INC,JP3246400000,D3510,JP,,FY20,,,,,,Number of customers served in markets subject to renewable portfolio standards (RPS),N/A,,,EF.6.1,,,IF-EU,IF-EU-110a.4a,"Number, Percentage (%)",,,Baltzell
+KYUSHU ELECTRIC POWER CO INC,JP3246400000,D3510,JP,,FY20,,,,,,Percentage fulfillment of renewable portfolio standards (RPS) target by market,N/A,,,EF.6.2,,,IF-EU,IF-EU-110a.4b,"Number, Percentage (%)",,,Baltzell
+KYUSHU ELECTRIC POWER CO INC,JP3246400000,D3510,JP,,FY20,,,,,,"The entity shall discuss its operations in markets with RPS regulations or where regulations are emerging, including whether it is meeting its regulatory obligations, whether regulations require future increases or changes to the entity’s renewable energy portfolio, and strategies to maintain compliance with emerging regulations.",Not Answered,,,EF.6.3,,,IF-EU,IF-EU-110a.4c,"Number, Percentage (%)",,,Baltzell
+KYUSHU ELECTRIC POWER CO INC,JP3246400000,D3510,JP,,FY20,,,,,,Number of incidents of non-compliance with physical and/or cybersecurity standards or regulations,0.00,,number,EF.7.1,0.00,number,IF-EU,IF-EU-550a.1a,Number,,,Baltzell
+KYUSHU ELECTRIC POWER CO INC,JP3246400000,D3510,JP,,FY20,,,,,,System Average Interruption Duration Index (SAIDI),15.00,,minutes,EF.7.2,15.00,minutes,IF-EU,IF-EU-550a.2a,"Minutes, Number",,,Baltzell
+KYUSHU ELECTRIC POWER CO INC,JP3246400000,D3510,JP,,FY20,,,,,,System Average Interruption Frequency Index (SAIFI),0.08,,outages,EF.7.3,0.08,outages,IF-EU,IF-EU-550a.2b,"Minutes, Number",,,Baltzell
+KYUSHU ELECTRIC POWER CO INC,JP3246400000,D3510,JP,,FY20,,,,,,"Customer Average Interruption Duration Index (CAIDI), inclusive of major event days",187.50,,minutes/month,EF.7.4,187.50,minutes/month,IF-EU,IF-EU-550a.2c,"Minutes, Number",,,Baltzell
+KYUSHU ELECTRIC POWER CO INC,JP3246400000,D3510,JP,,FY20,,,,,,The entity shall discuss notable service disruptions such as those that affected a significant number of customers or disruptions of extended duration,Not answered,,,EF.7.5,,,IF-EU,IF-EU-550a.2d,"Minutes, Number",,,Baltzell
+KYUSHU ELECTRIC POWER CO INC,JP3246400000,D3510,JP,,FY20,,,,,,Percentage of electric utility revenues from rate structures that are decoupled,N/A,,,EF.8.1,,,IF-EU,IF-EU-420a.1a,Percentage (%),,,Baltzell
+KYUSHU ELECTRIC POWER CO INC,JP3246400000,D3510,JP,,FY20,,,,,,Percentage of electric utility revenues from rate structures that contain a lost revenue adjustment mechanism (LRAM),N/A,,,EF.8.2,,,IF-EU,IF-EU-420a.1b,Percentage (%),,,Baltzell
+KYUSHU ELECTRIC POWER CO INC,JP3246400000,D3510,JP,,FY20,,,,,,Percentage of electric load served by smart grid technology,0.62,,,EF.8.3,0.62,percentage,IF-EU,IF-EU-420a.2a,Percentage (%) by megawatt hours (MWh),,,Baltzell
+KYUSHU ELECTRIC POWER CO INC,JP3246400000,D3510,JP,,FY20,,,,,,The entity shall discuss the opportunities and challenges associated with the development and operations of a smart grid,Not answered,,,EF.8.4,,,IF-EU,IF-EU-420a.2b,Percentage (%) by megawatt hours (MWh),,,Baltzell
+KYUSHU ELECTRIC POWER CO INC,JP3246400000,D3510,JP,,FY20,,,,,,Customer electricity savings from efficiency measures by market,"The following information is disclosed as quantitative data instead of reduced
+power amounts.
+_ Number of electrification and energy-saving solution proposals:
+Approximately 2,000
+(5 years from 2015 to 2019)
+* Kyushu Electric Power Company provides a variety of solutions to customers for
+electrification and energy conservation.
+(URL: http://www.kyuden.co.jp/service_index/)",,,EF.8.5,,,IF-EU,IF-EU-420a.3a,Megawatt hours (MWh),,,Baltzell
+KYUSHU ELECTRIC POWER CO INC,JP3246400000,D3510,JP,,FY20,,,,,,The entity shall discuss customer efficiency regulations relevant to each market in which it operates,Not answered,,,EF.8.6,,,IF-EU,IF-EU-420a.3b,Megawatt hours (MWh),,,Baltzell
+KYUSHU ELECTRIC POWER CO INC,JP3246400000,D3510,JP,,FY20,,,,,,Average retail electric rate for residential customers,Not Disclosed,,,EF.9.1,,,IF-EU,IF-EU-240a.1a,Rate,,,Baltzell
+KYUSHU ELECTRIC POWER CO INC,JP3246400000,D3510,JP,,FY20,,,,,,Average retail electric rate for commercial customers,Not Disclosed,,,EF.9.2,,,IF-EU,IF-EU-240a.1b,Rate,,,Baltzell
+KYUSHU ELECTRIC POWER CO INC,JP3246400000,D3510,JP,,FY20,,,,,,Average retail electric rate for industrial customers,Not Disclosed,,,EF.9.3,,,IF-EU,IF-EU-240a.1c,Rate,,,Baltzell
+KYUSHU ELECTRIC POWER CO INC,JP3246400000,D3510,JP,,FY20,,,,,,Typical monthly electric bill for residential customers for 500 kWh of electricity delivered per month,13916.00,,JPY,EF.9.4,13916.00,JPY,IF-EU,IF-EU-240a.2a,Reporting currency,,,Baltzell
+KYUSHU ELECTRIC POWER CO INC,JP3246400000,D3510,JP,,FY20,,,,,,"Typical monthly electric bill for residential customers for 1,000 kWh of electricity delivered per month",29010.00,,JPY,EF.9.5,29010.00,JPY,IF-EU,IF-EU-240a.2b,Reporting currency,,,Baltzell
+KYUSHU ELECTRIC POWER CO INC,JP3246400000,D3510,JP,,FY20,,,,,,Number of residential customer electric disconnections for non payment,48336.00,,,EF.9.6,48336.00,customers,IF-EU,IF-EU-240a.3a,"Number, Percentage (%)",,,Baltzell
+KYUSHU ELECTRIC POWER CO INC,JP3246400000,D3510,JP,,FY20,,,,,,Percentage of residential customer electric disconnections for non payment that were reconnected within 30 days,No data,,,EF.9.7,,,IF-EU,IF-EU-240a.3b,"Number, Percentage (%)",,,Baltzell
+KYUSHU ELECTRIC POWER CO INC,JP3246400000,D3510,JP,,FY20,,,,,,"Discussion of impact of external factors on customer affordability of electricity, including the economic conditions of the service territory","The Electricity Business Act in Japan stipulates that general transmission and
+distribution operators shall not refuse consignment supply in their supply areas
+without justifiable grounds. When we accept an application to supply electricity
+in areas handled by Kyushu Electric Power Transmission and Distribution, in
+principle, we supply to the designated area. We believe that there is no difference
+in the opportunities for consumers to obtain low-cost energy, and therefore we
+recognize that there are no areas without power in these areas. With that, we
+recognize that the factors affecting electricity prices include the promotion of
+renewable energy generation based on the national system and fuel cost
+adjustments due to price fluctuations of thermal fuel that affect electricity prices.",,,EF.9.8,,,IF-EU,IF-EU-240a.4a,n/a,,,Baltzell
+KYUSHU ELECTRIC POWER CO INC,JP3246400000,D3510,JP,,FY20,,,annual_report_fy2020.pdf,61,,Gross global Scope 1 emissions,19040000.00,,t-CO2,Em.1.1,19040000.00,mtCO2e,IF-EU,IF-EU-110a.1a,"Mg (t) CO_-e, Percentage (%)",C6.1,C6.1.1,Baltzell
+KYUSHU ELECTRIC POWER CO INC,JP3246400000,D3510,JP,,FY20,,,,,,"Discussion of long-term and short-term strategy or plan to manage Scope 1 emissions, emissions reduction targets, and an analysis of performance against those targets","_ The industry-wide target set by the Electricity Business Low Carbon Society
+Council is approximately 0.37 kg-CO2/kWh based on the 2030 energy mix
+and greenhouse gas reduction targets set by the Japanese government. In
+order to achieve this industry-wide target, we will take into account the
+country's Strategic Energy Plan with a focus on “S+3E”*
+ so as to contribute to
+the reduction of carbon in Kyushu.
+ _ Proactive development of renewable energy, maximum acceptance,
+utilization of nuclear power generation on the premise of ensuring safety,
+and utilization of power that does not produce CO2
+_ Promote electrification on the demand side of energy through electric
+vehicles (EV) and heat pump technology
+_ Business Performance Targets
+_ Make a 70% contribution to Kyushu's CO2 emission reduction (26 million tons)
+ _ Develop renewable energy systems to produce 5 million kW of energy by
+2030 [Development output]
+ (2.5 million kW [equity output])
+_ Scope 1 emissions trends: 26.4 million tons in 2017, 17.56 million tons in
+2018, and 19.04 million tons in 2019.
+ In May, 2020, we participated as a member company in the Consortium for
+the Promotion of Electric Vehicle Utilization (hereinafter referred to as the
+Consortium) to help spread the popularity of electric commercial vehicles.
+ In addition, we have set a goal of modifying all company vehicles (excluding
+vehicles that are not suitable for EV conversion) into EVs by 2030.
+ We will continue to plan and proceed with initiatives required to achieve
+Japan's greenhouse gas reduction targets for 2030.",,,Em.14.7,,,IF-EU,IF-EU-110a.3a,n/a,,,Baltzell
+KYUSHU ELECTRIC POWER CO INC,JP3246400000,D3510,JP,,FY20,,,annual_report_fy2020.pdf,61,,Air emissions from NO (excluding N O),4941.00,,tonnes,Em.17.10,4941.00,Mg,IF-EU,IF-EU-120a.1a,"Mg (t), Percentage (%)",,,Baltzell
+KYUSHU ELECTRIC POWER CO INC,JP3246400000,D3510,JP,,FY20,,,annual_report_fy2020.pdf,61,,Air emissions from particulate matter (PM ),Not Disclosed,,,Em.17.11,,,IF-EU,IF-EU-120a.1c,"Mg (t), Percentage (%)",,,Baltzell
+KYUSHU ELECTRIC POWER CO INC,JP3246400000,D3510,JP,,FY20,,,annual_report_fy2020.pdf,61,,Air emissions from SO,3549.00,,tonnes,Em.17.13,3549.00,Mg,IF-EU,IF-EU-120a.1b,"Mg (t), Percentage (%)",,,Baltzell
+KYUSHU ELECTRIC POWER CO INC,JP3246400000,D3510,JP,,FY20,,,,,,Percentage of lead (Pb) emissions in or near areas of dense population,Not Disclosed,,,Em.17.14,,,IF-EU,IF-EU-120a.1i,"Mg (t), Percentage (%)",,,Baltzell
+KYUSHU ELECTRIC POWER CO INC,JP3246400000,D3510,JP,,FY20,,,,,,Percentage of mercury (Hg) emissions in or near areas of dense population,Not Disclosed,,,Em.17.15,,,IF-EU,IF-EU-120a.1j,"Mg (t), Percentage (%)",,,Baltzell
+KYUSHU ELECTRIC POWER CO INC,JP3246400000,D3510,JP,,FY20,,,,,,Percentage of NO (excluding N O) emissions in or near areas of dense population,1.00,,,Em.17.16,1.00,percentage,IF-EU,IF-EU-120a.1f,"Mg (t), Percentage (%)",,,Baltzell
+KYUSHU ELECTRIC POWER CO INC,JP3246400000,D3510,JP,,FY20,,,,,,Percentage of particulate matter (PM ) emissions in or near areas of dense population,Not Disclosed,,,Em.17.17,,,IF-EU,IF-EU-120a.1h,"Mg (t), Percentage (%)",,,Baltzell
+KYUSHU ELECTRIC POWER CO INC,JP3246400000,D3510,JP,,FY20,,,,,,Percentage of SO emissions in or near areas of dense population,1.00,,,Em.17.18,1.00,percentage,IF-EU,IF-EU-120a.1g,"Mg (t), Percentage (%)",,,Baltzell
+KYUSHU ELECTRIC POWER CO INC,JP3246400000,D3510,JP,,FY20,,,,,,Air emissions from lead (Pb),Not Disclosed,,,Em.17.6,,,IF-EU,IF-EU-120a.1d,"Mg (t), Percentage (%)",,,Baltzell
+KYUSHU ELECTRIC POWER CO INC,JP3246400000,D3510,JP,,FY20,,,,,,Air emissions from mercury (Hg),Not Disclosed,,,Em.17.8,,,IF-EU,IF-EU-120a.1e,"Mg (t), Percentage (%)",,,Baltzell
+KYUSHU ELECTRIC POWER CO INC,JP3246400000,D3510,JP,,FY20,,,,,,Percentage of gross global Scope 1 emissions covered under emissions-limiting regulations,0.00,,,Em.2.1,0.00,percentage,IF-EU,IF-EU-110a.1b,"Mg (t) CO_-e, Percentage (%)",,,Baltzell
+KYUSHU ELECTRIC POWER CO INC,JP3246400000,D3510,JP,,FY20,,,,,,Percentage of gross global Scope 1 emissions covered under emissions-reporting regulations,1.00,,,Em.2.2,1.00,percentage,IF-EU,IF-EU-110a.1c,"Mg (t) CO_-e, Percentage (%)",,,Baltzell
+KYUSHU ELECTRIC POWER CO INC,JP3246400000,D3510,JP,,FY20,,,,,,Greenhouse gas (GHG) emissions associated with power deliveries,23900000.00,,t-CO2,Em.5.5,23900000.00,mtCO2e,IF-EU,IF-EU-110a.2a,Mg (t) CO_-e,,,Baltzell
+KYUSHU ELECTRIC POWER CO INC,JP3246400000,D3510,JP,,FY20,,,annual_report_fy2020.pdf,62,,Total water consumed,2800.00,,"1,000 m_",WR.1.1,2.80,dam3,IF-EU,IF-EU-140a.1b,"Thousand cubic meters (m_), Percentage (%)",,,Baltzell
+KYUSHU ELECTRIC POWER CO INC,JP3246400000,D3510,JP,,FY20,,,,,,Percentage of water consumed in regions with High or Extremely High Baseline Water Stress,0.00,,,WR.1.3,0.00,percentage,IF-EU,IF-EU-140a.1d,"Thousand cubic meters (m_), Percentage (%)",,,Baltzell
+KYUSHU ELECTRIC POWER CO INC,JP3246400000,D3510,JP,,FY20,,,,,,Total water withdrawn,6397.00,,"1,000 m_",WR.2.1,6.40,dam3,IF-EU,IF-EU-140a.1a,"Thousand cubic meters (m_), Percentage (%)",,,Baltzell
+KYUSHU ELECTRIC POWER CO INC,JP3246400000,D3510,JP,,FY20,,,,,,Percentage of water withdrawn in regions with High or Extremely High Baseline Water Stress,0.00,,,WR.2.3,0.00,percentage,IF-EU,IF-EU-140a.1c,"Thousand cubic meters (m_), Percentage (%)",,,Baltzell
+KYUSHU ELECTRIC POWER CO INC,JP3246400000,D3510,JP,,FY20,,,,,,"Number of incidents of non-compliance associated with water quantity and/or quality permits, standards, and regulations",0.00,,number,WR.3.1,0.00,number,IF-EU,IF-EU-140a.2a,Number,,,Baltzell
+KYUSHU ELECTRIC POWER CO INC,JP3246400000,D3510,JP,,FY20,,,,,,Description of water management risks and discussion of strategies and practices to mitigate those risks,"We manage the following risks regarding the use of water resources, which are
+essential for the power generation business.
+Our hydroelectric power business is in compliance with laws and regulations
+regarding water intake. At hydroelectric power plants of or larger than a specific
+size, we release water to maintain the river environment. Our thermal power
+generation business collects and reuses water for power generation to reduce
+the amount of water intake. Our thermal power generation business and
+nuclear power generation business use seawater as indirect cooling water for
+power generation facilities. As such, we monitor the temperature difference
+between water intake and discharge.
+The results of verifying water stress in the current and future facility locations
+using WRI Aqueduct 3.0 tools to identify water risks are as follows:
+According to the Baseline Water Stress tool, maximum water stress is
+low-medium in the Kyushu region where we have installed a power plant that
+uses fresh water or seawater. Water-related risks such as droughts are
+assumed to occur less frequently there.
+* The extension of the section where the water flow rate of the river decreases due to water
+intake for hydroelectric power generation is 10 km or more, and the water collection area is
+200 km_.",,,WR.3.2,,,IF-EU,IF-EU-140a.3a,n/a,,,Baltzell
+MICROSOFT CORP,US5949181045,J5820,WW,,FY16,,,MSFT ESG 2018 Report,5,,Total Electricity Consumed,5048891.00,,MWh,EF.1.1,5048891.00,MWh,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY16,,,MSFT ESG 2018 Report,2,,Total Energy Use,5414197.00,,MWh,EF.1.1,5414197.00,MWh,TC-SI,TC-SI-130a.1a,"Gigajoules (GJ), Percentage (%)",,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY16,,,MSFT ESG 2018 Report,2,6,Other Fuels5,365306.00,,MWh,EF.1.10,365306.00,MWh,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY16,,,MSFT ESG 2018 Report,2,,Renewable Energy Credits,4055299.00,,MWh,EF.1.11,4055299.00,MWh,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY16,,,MSFT ESG 2018 Report,2,,Power Purchase Agreements,796802.00,,MWh,EF.1.12,796802.00,MWh,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY16,,,MSFT ESG 2018 Report,2,,On-Site Renewable Energy,542.00,,MWh,EF.1.13,542.00,MWh,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,Asia,,FY16,,,MSFT ESG 2018 Report,5,,Non-Renewable Electricity Purchased & Consumed - Asia,50821.00,Complement,MWh,EF.1.14,50821.00,MWh,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,EMEA,,FY16,,,MSFT ESG 2018 Report,5,,"Non-Renewable Electricity Purchased & Consumed - Europe, Middle East, Africa",21256.00,Complement,MWh,EF.1.14,21256.00,MWh,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,LATAM,,FY16,,,MSFT ESG 2018 Report,5,,Non-Renewable Electricity Purchased & Consumed - Latin America,1443.00,Complement,MWh,EF.1.14,1443.00,MWh,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,NORAM,,FY16,,,MSFT ESG 2018 Report,5,,Non-Renewable Electricity Purchased & Consumed - North America,154212.00,Complement,MWh,EF.1.14,154212.00,MWh,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY16,,,MSFT ESG 2018 Report,5,,Non-Renewable Electricity by Source - Coal,61403.00,Complement,MWh,EF.1.15,61403.00,MWh,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY16,,,MSFT ESG 2018 Report,5,,Non-Renewable Electricity by Source - Petroleum,10316.00,Complement,MWh,EF.1.16,10316.00,MWh,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY16,,,MSFT ESG 2018 Report,5,,Non-Renewable Electricity by Source - Natural Gas,101886.00,Complement,MWh,EF.1.17,101886.00,MWh,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY16,,,MSFT ESG 2018 Report,5,,Non-Renewable Electricity by Source - Nuclear,54127.00,Complement,MWh,EF.1.18,54127.00,MWh,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,Asia,,FY16,,,MSFT ESG 2018 Report,6,,Renewable Energy Purchased & Consumed - Asia,538714.00,,MWh,EF.1.19,538714.00,MWh,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,EMEA,,FY16,,,MSFT ESG 2018 Report,6,,"Renewable Energy Purchased & Consumed - Europe, Middle East, Africa",841725.00,,MWh,EF.1.19,841725.00,MWh,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,LATAM,,FY16,,,MSFT ESG 2018 Report,6,,Renewable Energy Purchased & Consumed - Latin America,60417.00,,MWh,EF.1.19,60417.00,MWh,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,NORAM,,FY16,,,MSFT ESG 2018 Report,6,,Renewable Energy Purchased & Consumed - North America,3411786.00,,MWh,EF.1.19,3411786.00,MWh,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY16,,,MSFT ESG 2018 Report,6,Wind,Renewable Energy Purchased & Consumed - Wind,4066230.00,,MWh,EF.1.20,4066230.00,MWh,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY16,,,MSFT ESG 2018 Report,6,Landfill Gas,Renewable Energy Purchased & Consumed - Landfill Gas,0.00,,MWh,EF.1.21,0.00,MWh,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY16,,,MSFT ESG 2018 Report,6,Biomass,Renewable Energy Purchased & Consumed - Biomass,121000.00,,MWh,EF.1.22,121000.00,MWh,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY16,,,MSFT ESG 2018 Report,6,Hydro,Renewable Energy Purchased & Consumed - Hydro,408734.00,,MWh,EF.1.23,408734.00,MWh,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY16,,,MSFT ESG 2018 Report,6,Geothermal,Renewable Energy Purchased & Consumed - Geothermal,150000.00,,MWh,EF.1.24,150000.00,MWh,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY16,,,MSFT ESG 2018 Report,6,Solar,Renewable Energy Purchased & Consumed - Solar,106679.00,,MWh,EF.1.25,106679.00,MWh,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY16,,,MSFT ESG 2018 Report,2,,Electricity,5048891.00,,MWh,EF.1.4,5048891.00,MWh,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,Asia,,FY16,,,MSFT ESG 2018 Report,5,,Electricity Consumed - Asia,585799.00,,MWh,EF.1.4,585799.00,MWh,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,EMEA,,FY16,,,MSFT ESG 2018 Report,5,,"Electricity Consumed - Europe, Middle East, Africa",859029.00,,MWh,EF.1.4,859029.00,MWh,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,LATAM,,FY16,,,MSFT ESG 2018 Report,5,,Electricity Consumed - Latin America,63025.00,,MWh,EF.1.4,63025.00,MWh,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,NORAM,,FY16,,,MSFT ESG 2018 Report,5,,Electricity Consumed - North America,3541038.00,,MWh,EF.1.4,3541038.00,MWh,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY16,,,MSFT ESG 2018 Report,2,6,Renewable Energy Usage6,4852643.00,,MWh,EF.1.8,4852643.00,MWh,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY16,,,MSFT ESG 2018 Report,1,1,Scope 1,94651.00,,mtCO2e,Em.1.1,94651.00,mtCO2e,TC-SI,,,C6.1,C6.1.1,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY16,,,MSFT ESG 2018 Report,1,3,Scope 3 - Use of Sold Products3,6467000.00,,mtCO2e,Em.11.11,6467000.00,mtCO2e,TC-SI,,,C6.5,C6.5.11,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY16,,,MSFT ESG 2018 Report,1,,Scope 3 - End of Life of Sold Products,174000.00,,mtCO2e,Em.11.12,174000.00,mtCO2e,TC-SI,,,C6.5,C6.5.12,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY16,,,MSFT ESG 2018 Report,1,,Scope 3 - Downstream Leased Assets,4000.00,,mtCO2e,Em.11.13,4000.00,mtCO2e,TC-SI,,,C6.5,C6.5.13,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY16,,,MSFT ESG 2018 Report,1,2,Scope 3 - Purchased Goods & Services / Capital Goods2,9000000.00,,mtCO2e,Em.11.18,9000000.00,mtCO2e,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY16,,,MSFT ESG 2018 Report,1,,Scope 3 - Fuel- and Energy-Related Activities,440000.00,,mtCO2e,Em.11.3,440000.00,mtCO2e,TC-SI,,,C6.5,C6.5.3,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY16,,,MSFT ESG 2018 Report,1,2,Scope 3 - Upstream Transportation2,100000.00,,mtCO2e,Em.11.4,100000.00,mtCO2e,TC-SI,,,C6.5,C6.5.4,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY16,,,MSFT ESG 2018 Report,1,2,Scope 3 - Waste2,800.00,,mtCO2e,Em.11.5,800.00,mtCO2e,TC-SI,,,C6.5,C6.5.5,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY16,,,MSFT ESG 2018 Report,1,1,Scope 3 - Business Travel1,327483.00,,mtCO2e,Em.11.6,327483.00,mtCO2e,TC-SI,,,C6.5,C6.5.6,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY16,,,MSFT ESG 2018 Report,1,2,Scope 3 - Employee Commuting2,280000.00,,mtCO2e,Em.11.7,280000.00,mtCO2e,TC-SI,,,C6.5,C6.5.7,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY16,,,MSFT ESG 2018 Report,1,2,Scope 3 - Downstream Transportation2,120000.00,,mtCO2e,Em.11.9,120000.00,mtCO2e,TC-SI,,,C6.5,C6.5.9,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY16,,,MSFT ESG 2018 Report,1,4,"Total - Scope 1, Scope 2, and Scope 3",17124000.00,,mtCO2e,Em.12.1,17124000.00,mtCO2e,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,WW,,FY16,,,MSFT ESG 2018 Report,5,,CO Emissions,35.00,,metric tons,Em.17.1,35.00,Mg,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,WW,,FY16,,,MSFT ESG 2018 Report,5,,NOX Emissions,26.00,,metric tons,Em.17.10,26.00,Mg,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,Asia,,FY16,,,MSFT ESG 2018 Report,5,,NOX Emissions - Asia,2.00,,metric tons,Em.17.10,2.00,Mg,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,EMEA,,FY16,,,MSFT ESG 2018 Report,5,,"NOX Emissions - Europe, Middle East, Africa",3.00,,metric tons,Em.17.10,3.00,Mg,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,LATAM,,FY16,,,MSFT ESG 2018 Report,5,,NOX Emissions - Latin America,1.00,,metric tons,Em.17.10,1.00,Mg,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,NORAM,,FY16,,,MSFT ESG 2018 Report,5,,NOX Emissions - North America,20.00,,metric tons,Em.17.10,20.00,Mg,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,WW,,FY16,,,MSFT ESG 2018 Report,5,,PM Emissions,2.00,,metric tons,Em.17.11,2.00,Mg,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,WW,,FY16,,,MSFT ESG 2018 Report,5,,SOX Emissions,2.00,,metric tons,Em.17.13,2.00,Mg,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,Asia,,FY16,,,MSFT ESG 2018 Report,5,,SOX Emissions - Asia,1.00,,metric tons,Em.17.13,1.00,Mg,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,EMEA,,FY16,,,MSFT ESG 2018 Report,5,,"SOX Emissions - Europe, Middle East, Africa",0.00,,metric tons,Em.17.13,0.00,Mg,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,LATAM,,FY16,,,MSFT ESG 2018 Report,5,,SOX Emissions - Latin America,0.00,,metric tons,Em.17.13,0.00,Mg,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,NORAM,,FY16,,,MSFT ESG 2018 Report,5,,SOX Emissions - North America,1.00,,metric tons,Em.17.13,1.00,Mg,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,WW,,FY16,,,MSFT ESG 2018 Report,5,,VOC Emissions,10.00,,metric tons,Em.17.14,10.00,Mg,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,Asia,,FY16,,,MSFT ESG 2018 Report,5,,VOC Emissions - Asia,0.00,,metric tons,Em.17.14,0.00,Mg,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,EMEA,,FY16,,,MSFT ESG 2018 Report,5,,"VOC Emissions - Europe, Middle East, Africa",0.00,,metric tons,Em.17.14,0.00,Mg,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,LATAM,,FY16,,,MSFT ESG 2018 Report,5,,VOC Emissions - Latin America,0.00,,metric tons,Em.17.14,0.00,Mg,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,NORAM,,FY16,,,MSFT ESG 2018 Report,5,,VOC Emissions - North America,10.00,,metric tons,Em.17.14,10.00,Mg,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,WW,,FY16,,,MSFT ESG 2018 Report,5,,Ozone Depleting Substances,996.00,,metric tons,Em.17.2,996.00,Mg,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,Asia,,FY16,,,MSFT ESG 2018 Report,4,,Scope 1 - Asia,8264.00,,mtCO2e,Em.3.1,8264.00,mtCO2e,TC-SI,,,C7.2,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,EMEA,,FY16,,,MSFT ESG 2018 Report,4,,"Scope 1 - Europe, Middle East, Africa",44206.00,,mtCO2e,Em.3.1,44206.00,mtCO2e,TC-SI,,,C7.2,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,LATAM,,FY16,,,MSFT ESG 2018 Report,4,,Scope 1 - Latin America,3726.00,,mtCO2e,Em.3.1,3726.00,mtCO2e,TC-SI,,,C7.2,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,NORAM,,FY16,,,MSFT ESG 2018 Report,4,,Scope 1 - North America,38454.00,,mtCO2e,Em.3.1,38454.00,mtCO2e,TC-SI,,,C7.2,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,WW,,FY16,,,MSFT ESG 2018 Report,4,,Scope 1 - HFCs,18638.00,,mtCO2e,Em.4.10,18638.00,mtCO2e,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,WW,,FY16,,,MSFT ESG 2018 Report,4,,Scope 1 - PFC,0.00,,mtCO2e,Em.4.11,0.00,mtCO2e,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,WW,,FY16,,,MSFT ESG 2018 Report,4,11,Scope 1 - SF6,0.00,,mtCO2e,Em.4.12,0.00,mtCO2e,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,WW,,FY16,,,MSFT ESG 2018 Report,4,,Scope 1 - CO2,75794.00,,mtCO2e,Em.4.7,75794.00,mtCO2e,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,Asia,,FY16,,,MSFT ESG 2018 Report,4,,CH4 Emissions - Asia,3.00,,mtCO2e,Em.4.8,3.00,mtCO2e,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,EMEA,,FY16,,,MSFT ESG 2018 Report,4,,"CH4 Emissions - Europe, Middle East, Africa",10.00,,mtCO2e,Em.4.8,10.00,mtCO2e,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,LATAM,,FY16,,,MSFT ESG 2018 Report,4,,CH4 Emissions - Latin America,3.00,,mtCO2e,Em.4.8,3.00,mtCO2e,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,US,,FY16,,,MSFT ESG 2018 Report,4,,CH4 Emissions - US,11.00,,mtCO2e,Em.4.8,11.00,mtCO2e,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,WW,,FY16,,,MSFT ESG 2018 Report,4,,Scope 1 - CH4,27.00,,mtCO2e,Em.4.8,27.00,mtCO2e,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,WW,,FY16,,,MSFT ESG 2018 Report,4,,Scope 1 - N2O,192.00,,mtCO2e,Em.4.9,192.00,mtCO2e,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY16,,,MSFT ESG 2018 Report,1,,Scope 2 - Location-Based,2139343.00,,mtCO2e,Em.7.1,2139343.00,mtCO2e,TC-SI,,,C6.3,C6.3.1,Tiemann
+MICROSOFT CORP,US5949181045,J5820,Asia,,FY16,,,MSFT ESG 2018 Report,4,,Scope 2 - Location-Based - Asia,384432.00,,mtCO2e,Em.7.1,384432.00,mtCO2e,TC-SI,,,C6.3,C6.3.1,Tiemann
+MICROSOFT CORP,US5949181045,J5820,EMEA,,FY16,,,MSFT ESG 2018 Report,4,,"Scope 2 - Location-Based - Europe, Middle East, Africa",356987.00,,mtCO2e,Em.7.1,356987.00,mtCO2e,TC-SI,,,C6.3,C6.3.1,Tiemann
+MICROSOFT CORP,US5949181045,J5820,LATAM,,FY16,,,MSFT ESG 2018 Report,4,,Scope 2 - Location-Based - Latin America,18952.00,,mtCO2e,Em.7.1,18952.00,mtCO2e,TC-SI,,,C6.3,C6.3.1,Tiemann
+MICROSOFT CORP,US5949181045,J5820,NORAM,,FY16,,,MSFT ESG 2018 Report,4,,Scope 2 - Location-Based - North America,1378971.00,,mtCO2e,Em.7.1,1378971.00,mtCO2e,TC-SI,,,C6.3,C6.3.1,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY16,,,MSFT ESG 2018 Report,1,1,Scope 2 - Market-Based1,115955.00,,mtCO2e,Em.7.2,115955.00,mtCO2e,TC-SI,,,C6.3,C6.3.2,Tiemann
+MICROSOFT CORP,US5949181045,J5820,Asia,,FY16,,,MSFT ESG 2018 Report,4,,"Scope 2, Market-based - ASIA",28849.00,,mtCO2e,Em.7.2,28849.00,mtCO2e,TC-SI,,,C6.3,C6.3.2,Tiemann
+MICROSOFT CORP,US5949181045,J5820,EMEA,,FY16,,,MSFT ESG 2018 Report,4,,"Scope 2, Market-based - EMEA",17682.00,,mtCO2e,Em.7.2,17682.00,mtCO2e,TC-SI,,,C6.3,C6.3.2,Tiemann
+MICROSOFT CORP,US5949181045,J5820,LATAM,,FY16,,,MSFT ESG 2018 Report,4,,"Scope 2, Market-based - LATAM",1037.00,,mtCO2e,Em.7.2,1037.00,mtCO2e,TC-SI,,,C6.3,C6.3.2,Tiemann
+MICROSOFT CORP,US5949181045,J5820,NORAM,,FY16,,,MSFT ESG 2018 Report,4,,"Scope 2, Market-based - NORAM",68387.00,,mtCO2e,Em.7.2,68387.00,mtCO2e,TC-SI,,,C6.3,C6.3.2,Tiemann
+MICROSOFT CORP,US5949181045,J5820,Asia,,FY16,,,MSFT ESG 2018 Report,6,12,Non-Renewable Energy Purchased & Consumed - Asia,30970.00,Complement,MWh,HOLD OFF.???.0,30970.00,MWh,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY16,,,MSFT ESG 2018 Report,6,12,Non-Renewable Energy Purchased & Consumed - Chilled Water,8659.00,Complement,MWh,HOLD OFF.???.0,8659.00,MWh,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY16,,,MSFT ESG 2018 Report,6,12,Non-Renewable Energy Purchased & Consumed - Coal,0.00,Complement,MWh,HOLD OFF.???.0,0.00,MWh,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY16,,,MSFT ESG 2018 Report,6,12,Non-Renewable Energy Purchased & Consumed - Crude Oil/Diesel,139631.00,Complement,MWh,HOLD OFF.???.0,139631.00,MWh,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,EMEA,,FY16,,,MSFT ESG 2018 Report,6,12,"Non-Renewable Energy Purchased & Consumed - Europe, Middle East, Africa",189362.00,Complement,MWh,HOLD OFF.???.0,189362.00,MWh,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY16,,,MSFT ESG 2018 Report,6,12,Non-Renewable Energy Purchased & Consumed - Gasoline,37638.00,Complement,MWh,HOLD OFF.???.0,37638.00,MWh,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY16,,,MSFT ESG 2018 Report,6,12,Non-Renewable Energy Purchased & Consumed - Hot Water/Steam,20242.00,Complement,MWh,HOLD OFF.???.0,20242.00,MWh,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,LATAM,,FY16,,,MSFT ESG 2018 Report,6,12,Non-Renewable Energy Purchased & Consumed - Latin America,13717.00,Complement,MWh,HOLD OFF.???.0,13717.00,MWh,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY16,,,MSFT ESG 2018 Report,6,12,Non-Renewable Energy Purchased & Consumed - LPG/Propane/Jet Fuel,47853.00,Complement,MWh,HOLD OFF.???.0,47853.00,MWh,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY16,,,MSFT ESG 2018 Report,6,12,Non-Renewable Energy Purchased & Consumed - Natural Gas,111283.00,Complement,MWh,HOLD OFF.???.0,111283.00,MWh,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,NORAM,,FY16,,,MSFT ESG 2018 Report,6,12,Non-Renewable Energy Purchased & Consumed - NorAm,131256.00,Complement,MWh,HOLD OFF.???.0,131256.00,MWh,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY16,,,MSFT ESG 2018 Report,6,12,Scope 3 - Category 3 (Transmission and Distribution Losses),410000.00,,MWh,HOLD OFF.???.0,410000.00,MWh,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,WW,,FY16,,,MSFT ESG 2018 Report,6,12,Total Non-Renewable Energy Purchased & Consumed,365306.00,Complement,MWh,HOLD OFF.???.0,365306.00,MWh,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY16,,,MSFT ESG 2018 Report,2,10,Recycled Hazardous Waste (included in the categories above),1376.00,,metric tons,OE.???.0,1376.00,Mg,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY16,,,MSFT ESG 2018 Report,2,10,Incinerated,342.00,,metric tons,OE.1.1,342.00,Mg,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY16,,,MSFT ESG 2018 Report,2,10,Hazardous Waste (included in the categories above),1405.00,,metric tons,OE.1.2,1405.00,Mg,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY16,,,MSFT ESG 2018 Report,2,10,Recycled,11236.00,,metric tons,OE.4.1,11236.00,Mg,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY16,,,MSFT ESG 2018 Report,2,10,Composted,5886.00,,metric tons,OE.4.2,5886.00,Mg,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY16,,,MSFT ESG 2018 Report,2,10,Landfilled,1602.00,,metric tons,OE.N/A.0,1602.00,Mg,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,WW,,FY16,,,MSFT ESG 2018 Report,7,13,Total Water Withdrawals,4757387.00,,m3,WR.1.0,4757.39,dam3,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,Asia,,FY16,,,MSFT ESG 2018 Report,7,13,Water Withdrawals - Asia,1021132.00,,m3,WR.1.0,1021.13,dam3,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,EMEA,,FY16,,,MSFT ESG 2018 Report,7,13,"Water Withdrawals - Europe, Middle East, Africa",760582.00,,m3,WR.1.0,760.58,dam3,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY16,,,MSFT ESG 2018 Report,7,13,Water Withdrawals - Ground Water,45663.00,,m3,WR.1.0,45.66,dam3,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,LATAM,,FY16,,,MSFT ESG 2018 Report,7,13,Water Withdrawals - Latin America,115667.00,,m3,WR.1.0,115.67,dam3,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY16,,,MSFT ESG 2018 Report,7,13,Water Withdrawals - Municipal Supply,4698116.00,,m3,WR.1.0,4698.12,dam3,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,NORAM,,FY16,,,MSFT ESG 2018 Report,7,13,Water Withdrawals - North America,2860006.00,,m3,WR.1.0,2860.01,dam3,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY16,,,MSFT ESG 2018 Report,7,13,Water Withdrawals - Process Water,12672.00,,m3,WR.1.0,12.67,dam3,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY16,,,MSFT ESG 2018 Report,7,13,Water Withdrawals - Rain water,937.00,,m3,WR.1.0,0.94,dam3,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY16,,,MSFT ESG 2018 Report,7,13,Water Withdrawals - Salt/Brackish water,0.00,,m3,WR.1.0,0.00,dam3,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY16,,,MSFT ESG 2018 Report,7,13,Water Withdrawals - Surface Water,0.00,,m3,WR.1.0,0.00,dam3,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY16,,,MSFT ESG 2018 Report,2,9,Water Consumption,1929342.00,,m3,WR.1.1,1929.34,dam3,TC-SI,TC-SI-130a.2b,"Thousand cubic meters (m_), Percentage (%)",,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,WW,,FY16,,,MSFT ESG 2018 Report,7,13,Total Water Discharges - Municipal Treatment,4757387.00,,m3,WR.14.0,4757.39,dam3,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY16,,,MSFT ESG 2018 Report,2,9,Water Discharge,3200373.00,,m3,WR.14.0,3200.37,dam3,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,Asia,,FY16,,,MSFT ESG 2018 Report,7,13,Water Discharges - Asia,1021132.00,,m3,WR.14.0,1021.13,dam3,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,EMEA,,FY16,,,MSFT ESG 2018 Report,7,13,"Water Discharges - Europe, Middle East, Africa",760582.00,,m3,WR.14.0,760.58,dam3,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,LATAM,,FY16,,,MSFT ESG 2018 Report,7,13,Water Discharges - Latin America,115667.00,,m3,WR.14.0,115.67,dam3,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,NORAM,,FY16,,,MSFT ESG 2018 Report,7,13,Water Discharges - North America,2860006.00,,m3,WR.14.0,2860.01,dam3,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,WW,,FY16,,,MSFT ESG 2018 Report,7,13,Total Water Consumption,0.00,,m3,WR.2.0,0.00,dam3,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,Asia,,FY16,,,MSFT ESG 2018 Report,7,13,Water Consumption - ASIA,0.00,,m3,WR.2.0,0.00,dam3,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,EMEA,,FY16,,,MSFT ESG 2018 Report,7,13,Water Consumption - EMEA,0.00,,m3,WR.2.0,0.00,dam3,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY16,,,MSFT ESG 2018 Report,7,13,Water Consumption - Ground Water,0.00,,m3,WR.2.0,0.00,dam3,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,LATAM,,FY16,,,MSFT ESG 2018 Report,7,13,Water Consumption - LATAM,0.00,,m3,WR.2.0,0.00,dam3,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY16,,,MSFT ESG 2018 Report,7,13,Water Consumption - Municipal supply,0.00,,m3,WR.2.0,0.00,dam3,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,NORAM,,FY16,,,MSFT ESG 2018 Report,7,13,Water Consumption - NorAm,0.00,,m3,WR.2.0,0.00,dam3,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY16,,,MSFT ESG 2018 Report,7,13,Water Consumption - Process Water,0.00,,m3,WR.2.0,0.00,dam3,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY16,,,MSFT ESG 2018 Report,7,13,Water Consumption - Rain Water,0.00,,m3,WR.2.0,0.00,dam3,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY16,,,MSFT ESG 2018 Report,7,13,Water Consumption - Salt/Brackish water,0.00,,m3,WR.2.0,0.00,dam3,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY16,,,MSFT ESG 2018 Report,7,13,Water Consumption - Surface Water,0.00,,m3,WR.2.0,0.00,dam3,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY16,,,MSFT ESG 2018 Report,2,9,Water Withdrawals,5129715.00,,m3,WR.2.1,5129.72,dam3,TC-SI,TC-SI-130a.2a,"Thousand cubic meters (m_), Percentage (%)",,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,WW,,FY17,,,MSFT ESG 2018 Report,5,,Total Electricity Consumed,6344479.00,,MWh,EF.1.1,6344479.00,MWh,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY17,,,MSFT ESG 2018 Report,2,,Total Energy Use,6718944.00,,MWh,EF.1.1,6718944.00,MWh,TC-SI,TC-SI-130a.1a,"Gigajoules (GJ), Percentage (%)",,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY17,,,MSFT ESG 2018 Report,2,6,Other Fuels5,374465.00,,MWh,EF.1.10,374465.00,MWh,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY17,,,MSFT ESG 2018 Report,2,,Renewable Energy Credits,5119876.00,,MWh,EF.1.11,5119876.00,MWh,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY17,,,MSFT ESG 2018 Report,2,,Power Purchase Agreements,984464.00,,MWh,EF.1.12,984464.00,MWh,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY17,,,MSFT ESG 2018 Report,2,,On-Site Renewable Energy,418.00,,MWh,EF.1.13,418.00,MWh,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,Asia,,FY17,,,MSFT ESG 2018 Report,5,,Non-Renewable Electricity Purchased & Consumed - Asia,204937.00,Complement,MWh,EF.1.14,204937.00,MWh,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,EMEA,,FY17,,,MSFT ESG 2018 Report,5,,"Non-Renewable Electricity Purchased & Consumed - Europe, Middle East, Africa",17391.00,Complement,MWh,EF.1.14,17391.00,MWh,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,LATAM,,FY17,,,MSFT ESG 2018 Report,5,,Non-Renewable Electricity Purchased & Consumed - Latin America,3681.00,Complement,MWh,EF.1.14,3681.00,MWh,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,NORAM,,FY17,,,MSFT ESG 2018 Report,5,,Non-Renewable Electricity Purchased & Consumed - North America,0.00,Complement,MWh,EF.1.14,0.00,MWh,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY17,,,MSFT ESG 2018 Report,5,,Non-Renewable Electricity by Source - Coal,42757.00,Complement,MWh,EF.1.15,42757.00,MWh,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY17,,,MSFT ESG 2018 Report,5,,Non-Renewable Electricity by Source - Petroleum,34073.00,Complement,MWh,EF.1.16,34073.00,MWh,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY17,,,MSFT ESG 2018 Report,5,,Non-Renewable Electricity by Source - Natural Gas,148692.00,Complement,MWh,EF.1.17,148692.00,MWh,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY17,,,MSFT ESG 2018 Report,5,,Non-Renewable Electricity by Source - Nuclear,487.00,Complement,MWh,EF.1.18,487.00,MWh,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,Asia,,FY17,,,MSFT ESG 2018 Report,6,,Renewable Energy Purchased & Consumed - Asia,466243.00,,MWh,EF.1.19,466243.00,MWh,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,EMEA,,FY17,,,MSFT ESG 2018 Report,6,,"Renewable Energy Purchased & Consumed - Europe, Middle East, Africa",941343.00,,MWh,EF.1.19,941343.00,MWh,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,LATAM,,FY17,,,MSFT ESG 2018 Report,6,,Renewable Energy Purchased & Consumed - Latin America,85935.00,,MWh,EF.1.19,85935.00,MWh,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,NORAM,,FY17,,,MSFT ESG 2018 Report,6,,Renewable Energy Purchased & Consumed - North America,4611239.00,,MWh,EF.1.19,4611239.00,MWh,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY17,,,MSFT ESG 2018 Report,6,Wind,Renewable Energy Purchased & Consumed - Wind,6004378.00,,MWh,EF.1.20,6004378.00,MWh,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY17,,,MSFT ESG 2018 Report,6,Landfill Gas,Renewable Energy Purchased & Consumed - Landfill Gas,0.00,,MWh,EF.1.21,0.00,MWh,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY17,,,MSFT ESG 2018 Report,6,Biomass,Renewable Energy Purchased & Consumed - Biomass,61029.00,,MWh,EF.1.22,61029.00,MWh,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY17,,,MSFT ESG 2018 Report,6,Hydro,Renewable Energy Purchased & Consumed - Hydro,33174.00,,MWh,EF.1.23,33174.00,MWh,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY17,,,MSFT ESG 2018 Report,6,Geothermal,Renewable Energy Purchased & Consumed - Geothermal,0.00,,MWh,EF.1.24,0.00,MWh,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY17,,,MSFT ESG 2018 Report,6,Solar,Renewable Energy Purchased & Consumed - Solar,6177.00,,MWh,EF.1.25,6177.00,MWh,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY17,,,MSFT ESG 2018 Report,2,,Electricity,6344479.00,,MWh,EF.1.4,6344479.00,MWh,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,Asia,,FY17,,,MSFT ESG 2018 Report,5,,Electricity Consumed - Asia,682710.00,,MWh,EF.1.4,682710.00,MWh,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,EMEA,,FY17,,,MSFT ESG 2018 Report,5,,"Electricity Consumed - Europe, Middle East, Africa",970755.00,,MWh,EF.1.4,970755.00,MWh,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,LATAM,,FY17,,,MSFT ESG 2018 Report,5,,Electricity Consumed - Latin America,91029.00,,MWh,EF.1.4,91029.00,MWh,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,NORAM,,FY17,,,MSFT ESG 2018 Report,5,,Electricity Consumed - North America,4599985.00,,MWh,EF.1.4,4599985.00,MWh,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY17,,,MSFT ESG 2018 Report,2,6,Renewable Energy Usage6,6104758.00,,MWh,EF.1.8,6104758.00,MWh,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY17,,,MSFT ESG 2018 Report,1,1,Scope 1,97639.00,,mtCO2e,Em.1.1,97639.00,mtCO2e,TC-SI,,,C6.1,C6.1.1,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY17,,,MSFT ESG 2018 Report,1,3,Scope 3 - Use of Sold Products3,4274000.00,,mtCO2e,Em.11.11,4274000.00,mtCO2e,TC-SI,,,C6.5,C6.5.11,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY17,,,MSFT ESG 2018 Report,1,,Scope 3 - End of Life of Sold Products,106000.00,,mtCO2e,Em.11.12,106000.00,mtCO2e,TC-SI,,,C6.5,C6.5.12,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY17,,,MSFT ESG 2018 Report,1,,Scope 3 - Downstream Leased Assets,700.00,,mtCO2e,Em.11.13,700.00,mtCO2e,TC-SI,,,C6.5,C6.5.13,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY17,,,MSFT ESG 2018 Report,1,2,Scope 3 - Purchased Goods & Services / Capital Goods2,13000000.00,,mtCO2e,Em.11.18,13000000.00,mtCO2e,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY17,,,MSFT ESG 2018 Report,1,,Scope 3 - Fuel- and Energy-Related Activities,540000.00,,mtCO2e,Em.11.3,540000.00,mtCO2e,TC-SI,,,C6.5,C6.5.3,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY17,,,MSFT ESG 2018 Report,1,2,Scope 3 - Upstream Transportation2,100000.00,,mtCO2e,Em.11.4,100000.00,mtCO2e,TC-SI,,,C6.5,C6.5.4,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY17,,,MSFT ESG 2018 Report,1,2,Scope 3 - Waste2,700.00,,mtCO2e,Em.11.5,700.00,mtCO2e,TC-SI,,,C6.5,C6.5.5,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY17,,,MSFT ESG 2018 Report,1,1,Scope 3 - Business Travel1,337122.00,,mtCO2e,Em.11.6,337122.00,mtCO2e,TC-SI,,,C6.5,C6.5.6,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY17,,,MSFT ESG 2018 Report,1,2,Scope 3 - Employee Commuting2,330000.00,,mtCO2e,Em.11.7,330000.00,mtCO2e,TC-SI,,,C6.5,C6.5.7,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY17,,,MSFT ESG 2018 Report,1,2,Scope 3 - Downstream Transportation2,80000.00,,mtCO2e,Em.11.9,80000.00,mtCO2e,TC-SI,,,C6.5,C6.5.9,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY17,,,MSFT ESG 2018 Report,1,4,"Total - Scope 1, Scope 2, and Scope 34",19005000.00,,mtCO2e,Em.12.1,19005000.00,mtCO2e,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,WW,,FY17,,,MSFT ESG 2018 Report,5,,CO Emissions,35.00,,metric tons,Em.17.1,35.00,Mg,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,WW,,FY17,,,MSFT ESG 2018 Report,5,,NOX Emissions,27.00,,metric tons,Em.17.10,27.00,Mg,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,Asia,,FY17,,,MSFT ESG 2018 Report,5,,NOX Emissions - Asia,3.00,,metric tons,Em.17.10,3.00,Mg,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,EMEA,,FY17,,,MSFT ESG 2018 Report,5,,"NOX Emissions - Europe, Middle East, Africa",3.00,,metric tons,Em.17.10,3.00,Mg,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,LATAM,,FY17,,,MSFT ESG 2018 Report,5,,NOX Emissions - Latin America,1.00,,metric tons,Em.17.10,1.00,Mg,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,NORAM,,FY17,,,MSFT ESG 2018 Report,5,,NOX Emissions - North America,20.00,,metric tons,Em.17.10,20.00,Mg,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,WW,,FY17,,,MSFT ESG 2018 Report,5,,PM Emissions,2.00,,metric tons,Em.17.11,2.00,Mg,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,WW,,FY17,,,MSFT ESG 2018 Report,5,,SOX Emissions,3.00,,metric tons,Em.17.13,3.00,Mg,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,Asia,,FY17,,,MSFT ESG 2018 Report,5,,SOX Emissions - Asia,1.00,,metric tons,Em.17.13,1.00,Mg,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,EMEA,,FY17,,,MSFT ESG 2018 Report,5,,"SOX Emissions - Europe, Middle East, Africa",0.00,,metric tons,Em.17.13,0.00,Mg,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,LATAM,,FY17,,,MSFT ESG 2018 Report,5,,SOX Emissions - Latin America,0.00,,metric tons,Em.17.13,0.00,Mg,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,NORAM,,FY17,,,MSFT ESG 2018 Report,5,,SOX Emissions - North America,1.00,,metric tons,Em.17.13,1.00,Mg,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,WW,,FY17,,,MSFT ESG 2018 Report,5,,VOC Emissions,9.00,,metric tons,Em.17.14,9.00,Mg,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,Asia,,FY17,,,MSFT ESG 2018 Report,5,,VOC Emissions - Asia,0.00,,metric tons,Em.17.14,0.00,Mg,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,EMEA,,FY17,,,MSFT ESG 2018 Report,5,,"VOC Emissions - Europe, Middle East, Africa",0.00,,metric tons,Em.17.14,0.00,Mg,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,LATAM,,FY17,,,MSFT ESG 2018 Report,5,,VOC Emissions - Latin America,0.00,,metric tons,Em.17.14,0.00,Mg,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,NORAM,,FY17,,,MSFT ESG 2018 Report,5,,VOC Emissions - North America,8.00,,metric tons,Em.17.14,8.00,Mg,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,WW,,FY17,,,MSFT ESG 2018 Report,5,,Ozone Depleting Substances,1330.00,,metric tons,Em.17.2,1330.00,Mg,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,Asia,,FY17,,,MSFT ESG 2018 Report,4,,Scope 1 - Asia,8454.00,,mtCO2e,Em.3.1,8454.00,mtCO2e,TC-SI,,,C7.2,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,EMEA,,FY17,,,MSFT ESG 2018 Report,4,,"Scope 1 - Europe, Middle East, Africa",43196.00,,mtCO2e,Em.3.1,43196.00,mtCO2e,TC-SI,,,C7.2,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,LATAM,,FY17,,,MSFT ESG 2018 Report,4,,Scope 1 - Latin America,3632.00,,mtCO2e,Em.3.1,3632.00,mtCO2e,TC-SI,,,C7.2,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,NORAM,,FY17,,,MSFT ESG 2018 Report,4,,Scope 1 - North America,42356.00,,mtCO2e,Em.3.1,42356.00,mtCO2e,TC-SI,,,C7.2,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,WW,,FY17,,,MSFT ESG 2018 Report,4,,Scope 1 - HFCs,24314.00,,mtCO2e,Em.4.10,24314.00,mtCO2e,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,WW,,FY17,,,MSFT ESG 2018 Report,4,,Scope 1 - PFC,0.00,,mtCO2e,Em.4.11,0.00,mtCO2e,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,WW,,FY17,,,MSFT ESG 2018 Report,4,11,Scope 1 - SF6,0.00,,mtCO2e,Em.4.12,0.00,mtCO2e,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,WW,,FY17,,,MSFT ESG 2018 Report,4,,Scope 1 - CO2,73113.00,,mtCO2e,Em.4.7,73113.00,mtCO2e,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,Asia,,FY17,,,MSFT ESG 2018 Report,4,,CH4 Emissions - Asia,3.00,,mtCO2e,Em.4.8,3.00,mtCO2e,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,EMEA,,FY17,,,MSFT ESG 2018 Report,4,,"CH4 Emissions - Europe, Middle East, Africa",9.00,,mtCO2e,Em.4.8,9.00,mtCO2e,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,LATAM,,FY17,,,MSFT ESG 2018 Report,4,,CH4 Emissions - Latin America,3.00,,mtCO2e,Em.4.8,3.00,mtCO2e,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,US,,FY17,,,MSFT ESG 2018 Report,4,,CH4 Emissions - US,12.00,,mtCO2e,Em.4.8,12.00,mtCO2e,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,WW,,FY17,,,MSFT ESG 2018 Report,4,,Scope 1 - CH4,27.00,,mtCO2e,Em.4.8,27.00,mtCO2e,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,WW,,FY17,,,MSFT ESG 2018 Report,4,,Scope 1 - N2O,186.00,,mtCO2e,Em.4.9,186.00,mtCO2e,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY17,,,MSFT ESG 2018 Report,1,,Scope 2 - Location-Based,2691879.00,,mtCO2e,Em.7.1,2691879.00,mtCO2e,TC-SI,,,C6.3,C6.3.1,Tiemann
+MICROSOFT CORP,US5949181045,J5820,Asia,,FY17,,,MSFT ESG 2018 Report,4,,Scope 2 - Location-Based - Asia,439033.00,,mtCO2e,Em.7.1,439033.00,mtCO2e,TC-SI,,,C6.3,C6.3.1,Tiemann
+MICROSOFT CORP,US5949181045,J5820,EMEA,,FY17,,,MSFT ESG 2018 Report,4,,"Scope 2 - Location-Based - Europe, Middle East, Africa",399061.00,,mtCO2e,Em.7.1,399061.00,mtCO2e,TC-SI,,,C6.3,C6.3.1,Tiemann
+MICROSOFT CORP,US5949181045,J5820,LATAM,,FY17,,,MSFT ESG 2018 Report,4,,Scope 2 - Location-Based - Latin America,21012.00,,mtCO2e,Em.7.1,21012.00,mtCO2e,TC-SI,,,C6.3,C6.3.1,Tiemann
+MICROSOFT CORP,US5949181045,J5820,NORAM,,FY17,,,MSFT ESG 2018 Report,4,,Scope 2 - Location-Based - North America,1832773.00,,mtCO2e,Em.7.1,1832773.00,mtCO2e,TC-SI,,,C6.3,C6.3.1,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY17,,,MSFT ESG 2018 Report,1,1,Scope 2 - Market-Based1,139108.00,,mtCO2e,Em.7.2,139108.00,mtCO2e,TC-SI,,,C6.3,C6.3.2,Tiemann
+MICROSOFT CORP,US5949181045,J5820,Asia,,FY17,,,MSFT ESG 2018 Report,4,,"Scope 2, Market-based - ASIA",121930.00,,mtCO2e,Em.7.2,121930.00,mtCO2e,TC-SI,,,C6.3,C6.3.2,Tiemann
+MICROSOFT CORP,US5949181045,J5820,EMEA,,FY17,,,MSFT ESG 2018 Report,4,,"Scope 2, Market-based - EMEA",14460.00,,mtCO2e,Em.7.2,14460.00,mtCO2e,TC-SI,,,C6.3,C6.3.2,Tiemann
+MICROSOFT CORP,US5949181045,J5820,LATAM,,FY17,,,MSFT ESG 2018 Report,4,,"Scope 2, Market-based - LATAM",2096.00,,mtCO2e,Em.7.2,2096.00,mtCO2e,TC-SI,,,C6.3,C6.3.2,Tiemann
+MICROSOFT CORP,US5949181045,J5820,NORAM,,FY17,,,MSFT ESG 2018 Report,4,,"Scope 2, Market-based - NORAM",623.00,,mtCO2e,Em.7.2,623.00,mtCO2e,TC-SI,,,C6.3,C6.3.2,Tiemann
+MICROSOFT CORP,US5949181045,J5820,Asia,,FY17,,,MSFT ESG 2018 Report,6,12,Non-Renewable Energy Purchased & Consumed - Asia,29107.00,Complement,MWh,HOLD OFF.???.0,29107.00,MWh,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY17,,,MSFT ESG 2018 Report,6,12,Non-Renewable Energy Purchased & Consumed - Chilled Water,30121.00,Complement,MWh,HOLD OFF.???.0,30121.00,MWh,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY17,,,MSFT ESG 2018 Report,6,12,Non-Renewable Energy Purchased & Consumed - Coal,0.00,Complement,MWh,HOLD OFF.???.0,0.00,MWh,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY17,,,MSFT ESG 2018 Report,6,12,Non-Renewable Energy Purchased & Consumed - Crude Oil/Diesel,139027.00,Complement,MWh,HOLD OFF.???.0,139027.00,MWh,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,EMEA,,FY17,,,MSFT ESG 2018 Report,6,12,"Non-Renewable Energy Purchased & Consumed - Europe, Middle East, Africa",182086.00,Complement,MWh,HOLD OFF.???.0,182086.00,MWh,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY17,,,MSFT ESG 2018 Report,6,12,Non-Renewable Energy Purchased & Consumed - Gasoline,34679.00,Complement,MWh,HOLD OFF.???.0,34679.00,MWh,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY17,,,MSFT ESG 2018 Report,6,12,Non-Renewable Energy Purchased & Consumed - Hot Water/Steam,19549.00,Complement,MWh,HOLD OFF.???.0,19549.00,MWh,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,LATAM,,FY17,,,MSFT ESG 2018 Report,6,12,Non-Renewable Energy Purchased & Consumed - Latin America,13202.00,Complement,MWh,HOLD OFF.???.0,13202.00,MWh,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY17,,,MSFT ESG 2018 Report,6,12,Non-Renewable Energy Purchased & Consumed - LPG/Propane/Jet Fuel,43402.00,Complement,MWh,HOLD OFF.???.0,43402.00,MWh,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY17,,,MSFT ESG 2018 Report,6,12,Non-Renewable Energy Purchased & Consumed - Natural Gas,107687.00,Complement,MWh,HOLD OFF.???.0,107687.00,MWh,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,NORAM,,FY17,,,MSFT ESG 2018 Report,6,12,Non-Renewable Energy Purchased & Consumed - NorAm,150069.00,Complement,MWh,HOLD OFF.???.0,150069.00,MWh,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY17,,,MSFT ESG 2018 Report,6,12,Scope 3 - Category 3 (Transmission and Distribution Losses),510000.00,,MWh,HOLD OFF.???.0,510000.00,MWh,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,WW,,FY17,,,MSFT ESG 2018 Report,6,12,Total Non-Renewable Energy Purchased & Consumed,374465.00,Complement,MWh,HOLD OFF.???.0,374465.00,MWh,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY17,,,MSFT ESG 2018 Report,2,10,Recycled Hazardous Waste (included in the categories above),1376.00,,metric tons,OE.???.0,1376.00,Mg,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY17,,,MSFT ESG 2018 Report,2,10,Incinerated,342.00,,metric tons,OE.1.1,342.00,Mg,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY17,,,MSFT ESG 2018 Report,2,10,Hazardous Waste (included in the categories above),1405.00,,metric tons,OE.1.2,1405.00,Mg,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY17,,,MSFT ESG 2018 Report,2,10,Recycled,11236.00,,metric tons,OE.4.1,11236.00,Mg,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY17,,,MSFT ESG 2018 Report,2,10,Composted,5886.00,,metric tons,OE.4.2,5886.00,Mg,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY17,,,MSFT ESG 2018 Report,2,10,Landfilled,1602.00,,metric tons,OE.N/A.0,1602.00,Mg,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,WW,,FY17,,,MSFT ESG 2018 Report,7,13,Total Water Withdrawals,5129715.00,,m3,WR.1.0,5129.72,dam3,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,Asia,,FY17,,,MSFT ESG 2018 Report,7,13,Water Withdrawals - Asia,908540.00,,m3,WR.1.0,908.54,dam3,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,EMEA,,FY17,,,MSFT ESG 2018 Report,7,13,"Water Withdrawals - Europe, Middle East, Africa",710744.00,,m3,WR.1.0,710.74,dam3,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY17,,,MSFT ESG 2018 Report,7,13,Water Withdrawals - Ground Water,16517.00,,m3,WR.1.0,16.52,dam3,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,LATAM,,FY17,,,MSFT ESG 2018 Report,7,13,Water Withdrawals - Latin America,93291.00,,m3,WR.1.0,93.29,dam3,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY17,,,MSFT ESG 2018 Report,7,13,Water Withdrawals - Municipal Supply,4977049.00,,m3,WR.1.0,4977.05,dam3,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,NORAM,,FY17,,,MSFT ESG 2018 Report,7,13,Water Withdrawals - North America,3417140.00,,m3,WR.1.0,3417.14,dam3,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY17,,,MSFT ESG 2018 Report,7,13,Water Withdrawals - Process Water,109653.00,,m3,WR.1.0,109.65,dam3,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY17,,,MSFT ESG 2018 Report,7,13,Water Withdrawals - Rain water,26496.00,,m3,WR.1.0,26.50,dam3,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY17,,,MSFT ESG 2018 Report,7,13,Water Withdrawals - Salt/Brackish water,0.00,,m3,WR.1.0,0.00,dam3,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY17,,,MSFT ESG 2018 Report,7,13,Water Withdrawals - Surface Water,0.00,,m3,WR.1.0,0.00,dam3,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY17,,,MSFT ESG 2018 Report,2,9,Water Consumption,1929342.00,,m3,WR.1.1,1929.34,dam3,TC-SI,TC-SI-130a.2b,"Thousand cubic meters (m_), Percentage (%)",,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,WW,,FY17,,,MSFT ESG 2018 Report,7,13,Total Water Discharges - Municipal Treatment,3200373.00,,m3,WR.14.0,3200.37,dam3,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY17,,,MSFT ESG 2018 Report,2,9,Water Discharge,3200373.00,,m3,WR.14.0,3200.37,dam3,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,Asia,,FY17,,,MSFT ESG 2018 Report,7,13,Water Discharges - Asia,509460.00,,m3,WR.14.0,509.46,dam3,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,EMEA,,FY17,,,MSFT ESG 2018 Report,7,13,"Water Discharges - Europe, Middle East, Africa",521107.00,,m3,WR.14.0,521.11,dam3,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,LATAM,,FY17,,,MSFT ESG 2018 Report,7,13,Water Discharges - Latin America,66714.00,,m3,WR.14.0,66.71,dam3,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,NORAM,,FY17,,,MSFT ESG 2018 Report,7,13,Water Discharges - North America,2103092.00,,m3,WR.14.0,2103.09,dam3,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,WW,,FY17,,,MSFT ESG 2018 Report,7,13,Total Water Consumption,1929342.00,,m3,WR.2.0,1929.34,dam3,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,Asia,,FY17,,,MSFT ESG 2018 Report,7,13,Water Consumption - ASIA,399080.00,,m3,WR.2.0,399.08,dam3,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,EMEA,,FY17,,,MSFT ESG 2018 Report,7,13,Water Consumption - EMEA,189636.00,,m3,WR.2.0,189.64,dam3,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY17,,,MSFT ESG 2018 Report,7,13,Water Consumption - Ground Water,2927.00,,m3,WR.2.0,2.93,dam3,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,LATAM,,FY17,,,MSFT ESG 2018 Report,7,13,Water Consumption - LATAM,26577.00,,m3,WR.2.0,26.58,dam3,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY17,,,MSFT ESG 2018 Report,7,13,Water Consumption - Municipal supply,1813899.00,,m3,WR.2.0,1813.90,dam3,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,NORAM,,FY17,,,MSFT ESG 2018 Report,7,13,Water Consumption - NorAm,1314048.00,,m3,WR.2.0,1314.05,dam3,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY17,,,MSFT ESG 2018 Report,7,13,Water Consumption - Process Water,109653.00,,m3,WR.2.0,109.65,dam3,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY17,,,MSFT ESG 2018 Report,7,13,Water Consumption - Rain Water,2864.00,,m3,WR.2.0,2.86,dam3,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY17,,,MSFT ESG 2018 Report,7,13,Water Consumption - Salt/Brackish water,0.00,,m3,WR.2.0,0.00,dam3,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY17,,,MSFT ESG 2018 Report,7,13,Water Consumption - Surface Water,0.00,,m3,WR.2.0,0.00,dam3,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY17,,,MSFT ESG 2018 Report,2,9,Water Withdrawals,5129715.00,,m3,WR.2.1,5129.72,dam3,TC-SI,TC-SI-130a.2a,"Thousand cubic meters (m_), Percentage (%)",,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,WW,,FY18,,,MSFT ESG 2018 Report,5,,Total Electricity Consumed,7564271.00,,MWh,EF.1.1,7564271.00,MWh,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY18,,,MSFT ESG 2018 Report,2,,Total Energy Use,7955318.00,,MWh,EF.1.1,7955318.00,MWh,TC-SI,TC-SI-130a.1a,"Gigajoules (GJ), Percentage (%)",,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY18,,,MSFT ESG 2018 Report,2,6,Other Fuels5,391047.00,,MWh,EF.1.10,391047.00,MWh,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY18,,,MSFT ESG 2018 Report,2,,Renewable Energy Credits,5767570.00,,MWh,EF.1.11,5767570.00,MWh,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY18,,,MSFT ESG 2018 Report,2,,Power Purchase Agreements,1796301.00,,MWh,EF.1.12,1796301.00,MWh,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY18,,,MSFT ESG 2018 Report,2,,On-Site Renewable Energy,400.00,,MWh,EF.1.13,400.00,MWh,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,Asia,,FY18,,,MSFT ESG 2018 Report,5,,Non-Renewable Electricity Purchased & Consumed - Asia,0.00,Complement,MWh,EF.1.14,0.00,MWh,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,EMEA,,FY18,,,MSFT ESG 2018 Report,5,,"Non-Renewable Electricity Purchased & Consumed - Europe, Middle East, Africa",0.00,Complement,MWh,EF.1.14,0.00,MWh,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,LATAM,,FY18,,,MSFT ESG 2018 Report,5,,Non-Renewable Electricity Purchased & Consumed - Latin America,0.00,Complement,MWh,EF.1.14,0.00,MWh,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,NORAM,,FY18,,,MSFT ESG 2018 Report,5,,Non-Renewable Electricity Purchased & Consumed - North America,0.00,Complement,MWh,EF.1.14,0.00,MWh,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY18,,,MSFT ESG 2018 Report,5,Coal,Non-Renewable Electricity by Source - Coal,0.00,Complement,MWh,EF.1.15,0.00,MWh,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY18,,,MSFT ESG 2018 Report,5,Petroleum,Non-Renewable Electricity by Source - Petroleum,0.00,Complement,MWh,EF.1.16,0.00,MWh,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY18,,,MSFT ESG 2018 Report,5,Natural Gas,Non-Renewable Electricity by Source - Natural Gas,0.00,Complement,MWh,EF.1.17,0.00,MWh,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY18,,,MSFT ESG 2018 Report,5,Nuclear,Non-Renewable Electricity by Source - Nuclear,0.00,Complement,MWh,EF.1.18,0.00,MWh,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,Asia,,FY18,,,MSFT ESG 2018 Report,6,,Renewable Energy Purchased & Consumed - Asia,804024.00,,MWh,EF.1.19,804024.00,MWh,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,EMEA,,FY18,,,MSFT ESG 2018 Report,6,,"Renewable Energy Purchased & Consumed - Europe, Middle East, Africa",1265584.00,,MWh,EF.1.19,1265584.00,MWh,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,LATAM,,FY18,,,MSFT ESG 2018 Report,6,,Renewable Energy Purchased & Consumed - Latin America,107089.00,,MWh,EF.1.19,107089.00,MWh,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,NORAM,,FY18,,,MSFT ESG 2018 Report,6,,Renewable Energy Purchased & Consumed - North America,5387574.00,,MWh,EF.1.19,5387574.00,MWh,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY18,,,MSFT ESG 2018 Report,6,Wind,Renewable Energy Purchased & Consumed - Wind,7126236.00,,MWh,EF.1.20,7126236.00,MWh,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY18,,,MSFT ESG 2018 Report,6,Landfill Gas,Renewable Energy Purchased & Consumed - Landfill Gas,0.00,,MWh,EF.1.21,0.00,MWh,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY18,,,MSFT ESG 2018 Report,6,Biomass,Renewable Energy Purchased & Consumed - Biomass,47129.00,,MWh,EF.1.22,47129.00,MWh,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY18,,,MSFT ESG 2018 Report,6,Hydro,Renewable Energy Purchased & Consumed - Hydro,186434.00,,MWh,EF.1.23,186434.00,MWh,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY18,,,MSFT ESG 2018 Report,6,Geothermal,Renewable Energy Purchased & Consumed - Geothermal,72000.00,,MWh,EF.1.24,72000.00,MWh,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY18,,,MSFT ESG 2018 Report,6,Solar,Renewable Energy Purchased & Consumed - Solar,132472.00,,MWh,EF.1.25,132472.00,MWh,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY18,,,MSFT ESG 2018 Report,2,,Electricity,7564271.00,,MWh,EF.1.4,7564271.00,MWh,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,Asia,,FY18,,,MSFT ESG 2018 Report,5,,Electricity Consumed - Asia,804024.00,,MWh,EF.1.4,804024.00,MWh,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,EMEA,,FY18,,,MSFT ESG 2018 Report,5,,"Electricity Consumed - Europe, Middle East, Africa",1265584.00,,MWh,EF.1.4,1265584.00,MWh,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,LATAM,,FY18,,,MSFT ESG 2018 Report,5,,Electricity Consumed - Latin America,107089.00,,MWh,EF.1.4,107089.00,MWh,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,NORAM,,FY18,,,MSFT ESG 2018 Report,5,,Electricity Consumed - North America,5387574.00,,MWh,EF.1.4,5387574.00,MWh,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY18,,,MSFT ESG 2018 Report,2,6,Renewable Energy Usage6,7564271.00,,MWh,EF.1.8,7564271.00,MWh,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY18,,,MSFT ESG 2018 Report,1,1,Scope 1,90723.00,,mtCO2e,Em.1.1,90723.00,mtCO2e,TC-SI,,,C6.1,C6.1.1,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY18,,,MSFT ESG 2018 Report,1,3,Scope 3 - Use of Sold Products3,4784000.00,,mtCO2e,Em.11.11,4784000.00,mtCO2e,TC-SI,,,C6.5,C6.5.11,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY18,,,MSFT ESG 2018 Report,1,,Scope 3 - End of Life of Sold Products,95000.00,,mtCO2e,Em.11.12,95000.00,mtCO2e,TC-SI,,,C6.5,C6.5.12,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY18,,,MSFT ESG 2018 Report,1,,Scope 3 - Downstream Leased Assets,1690.00,,mtCO2e,Em.11.13,1690.00,mtCO2e,TC-SI,,,C6.5,C6.5.13,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY18,,,MSFT ESG 2018 Report,1,2,Scope 3 - Purchased Goods & Services / Capital Goods2,11000000.00,,mtCO2e,Em.11.18,11000000.00,mtCO2e,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY18,,,MSFT ESG 2018 Report,1,,Scope 3 - Fuel- and Energy-Related Activities,550000.00,,mtCO2e,Em.11.3,550000.00,mtCO2e,TC-SI,,,C6.5,C6.5.3,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY18,,,MSFT ESG 2018 Report,1,2,Scope 3 - Upstream Transportation2,100000.00,,mtCO2e,Em.11.4,100000.00,mtCO2e,TC-SI,,,C6.5,C6.5.4,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY18,,,MSFT ESG 2018 Report,1,2,Scope 3 - Waste2,700.00,,mtCO2e,Em.11.5,700.00,mtCO2e,TC-SI,,,C6.5,C6.5.5,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY18,,,MSFT ESG 2018 Report,1,1,Scope 3 - Business Travel1,378230.00,,mtCO2e,Em.11.6,378230.00,mtCO2e,TC-SI,,,C6.5,C6.5.6,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY18,,,MSFT ESG 2018 Report,1,2,Scope 3 - Employee Commuting2,330000.00,,mtCO2e,Em.11.7,330000.00,mtCO2e,TC-SI,,,C6.5,C6.5.7,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY18,,,MSFT ESG 2018 Report,1,2,Scope 3 - Downstream Transportation2,100000.00,,mtCO2e,Em.11.9,100000.00,mtCO2e,TC-SI,,,C6.5,C6.5.9,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY18,,,MSFT ESG 2018 Report,1,4,"Total - Scope 1, Scope 2, and Scope 34",17614000.00,,mtCO2e,Em.12.1,17614000.00,mtCO2e,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,WW,,FY18,,,MSFT ESG 2018 Report,5,,CO Emissions,38.00,,metric tons,Em.17.1,38.00,Mg,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,WW,,FY18,,,MSFT ESG 2018 Report,5,,NOX Emissions,29.00,,metric tons,Em.17.10,29.00,Mg,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,Asia,,FY18,,,MSFT ESG 2018 Report,5,,NOX Emissions - Asia,1.00,,metric tons,Em.17.10,1.00,Mg,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,EMEA,,FY18,,,MSFT ESG 2018 Report,5,,"NOX Emissions - Europe, Middle East, Africa",3.00,,metric tons,Em.17.10,3.00,Mg,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,LATAM,,FY18,,,MSFT ESG 2018 Report,5,,NOX Emissions - Latin America,1.00,,metric tons,Em.17.10,1.00,Mg,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,NORAM,,FY18,,,MSFT ESG 2018 Report,5,,NOX Emissions - North America,24.00,,metric tons,Em.17.10,24.00,Mg,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,WW,,FY18,,,MSFT ESG 2018 Report,5,,PM Emissions,2.00,,metric tons,Em.17.11,2.00,Mg,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,WW,,FY18,,,MSFT ESG 2018 Report,5,,SOX Emissions,2.00,,metric tons,Em.17.13,2.00,Mg,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,Asia,,FY18,,,MSFT ESG 2018 Report,5,,SOX Emissions - Asia,1.00,,metric tons,Em.17.13,1.00,Mg,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,EMEA,,FY18,,,MSFT ESG 2018 Report,5,,"SOX Emissions - Europe, Middle East, Africa",0.00,,metric tons,Em.17.13,0.00,Mg,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,LATAM,,FY18,,,MSFT ESG 2018 Report,5,,SOX Emissions - Latin America,0.00,,metric tons,Em.17.13,0.00,Mg,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,NORAM,,FY18,,,MSFT ESG 2018 Report,5,,SOX Emissions - North America,1.00,,metric tons,Em.17.13,1.00,Mg,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,WW,,FY18,,,MSFT ESG 2018 Report,5,,VOC Emissions,11.00,,metric tons,Em.17.14,11.00,Mg,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,Asia,,FY18,,,MSFT ESG 2018 Report,5,,VOC Emissions - Asia,0.00,,metric tons,Em.17.14,0.00,Mg,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,EMEA,,FY18,,,MSFT ESG 2018 Report,5,,"VOC Emissions - Europe, Middle East, Africa",0.00,,metric tons,Em.17.14,0.00,Mg,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,LATAM,,FY18,,,MSFT ESG 2018 Report,5,,VOC Emissions - Latin America,0.00,,metric tons,Em.17.14,0.00,Mg,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,NORAM,,FY18,,,MSFT ESG 2018 Report,5,,VOC Emissions - North America,10.00,,metric tons,Em.17.14,10.00,Mg,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,WW,,FY18,,,MSFT ESG 2018 Report,5,,Ozone Depleting Substances,1116.00,,metric tons,Em.17.2,1116.00,Mg,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,Asia,,FY18,,,MSFT ESG 2018 Report,4,,Scope 1 - Asia,4885.00,,mtCO2e,Em.3.1,4885.00,mtCO2e,TC-SI,,,C7.2,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,EMEA,,FY18,,,MSFT ESG 2018 Report,4,,"Scope 1 - Europe, Middle East, Africa",41842.00,,mtCO2e,Em.3.1,41842.00,mtCO2e,TC-SI,,,C7.2,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,LATAM,,FY18,,,MSFT ESG 2018 Report,4,,Scope 1 - Latin America,3553.00,,mtCO2e,Em.3.1,3553.00,mtCO2e,TC-SI,,,C7.2,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,NORAM,,FY18,,,MSFT ESG 2018 Report,4,,Scope 1 - North America,40443.00,,mtCO2e,Em.3.1,40443.00,mtCO2e,TC-SI,,,C7.2,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,WW,,FY18,,,MSFT ESG 2018 Report,4,,Scope 1 - HFCs,17315.00,,mtCO2e,Em.4.10,17315.00,mtCO2e,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,WW,,FY18,,,MSFT ESG 2018 Report,4,,Scope 1 - PFC,0.00,,mtCO2e,Em.4.11,0.00,mtCO2e,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,WW,,FY18,,,MSFT ESG 2018 Report,4,11,Scope 1 - SF6,32.00,,mtCO2e,Em.4.12,32.00,mtCO2e,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,WW,,FY18,,,MSFT ESG 2018 Report,4,,Scope 1 - CO2,73151.00,,mtCO2e,Em.4.7,73151.00,mtCO2e,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,Asia,,FY18,,,MSFT ESG 2018 Report,4,,CH4 Emissions - Asia,2.00,,mtCO2e,Em.4.8,2.00,mtCO2e,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,EMEA,,FY18,,,MSFT ESG 2018 Report,4,,"CH4 Emissions - Europe, Middle East, Africa",9.00,,mtCO2e,Em.4.8,9.00,mtCO2e,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,LATAM,,FY18,,,MSFT ESG 2018 Report,4,,CH4 Emissions - Latin America,3.00,,mtCO2e,Em.4.8,3.00,mtCO2e,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,US,,FY18,,,MSFT ESG 2018 Report,4,,CH4 Emissions - US,12.00,,mtCO2e,Em.4.8,12.00,mtCO2e,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,WW,,FY18,,,MSFT ESG 2018 Report,4,,Scope 1 - CH4,26.00,,mtCO2e,Em.4.8,26.00,mtCO2e,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,WW,,FY18,,,MSFT ESG 2018 Report,4,,Scope 1 - N2O,199.00,,mtCO2e,Em.4.9,199.00,mtCO2e,TC-SI,,,,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY18,,,MSFT ESG 2018 Report,1,,Scope 2 - Location-Based,3000523.00,,mtCO2e,Em.7.1,3000523.00,mtCO2e,TC-SI,,,C6.3,C6.3.1,Tiemann
+MICROSOFT CORP,US5949181045,J5820,Asia,,FY18,,,MSFT ESG 2018 Report,4,,Scope 2 - Location-Based - Asia,528277.00,,mtCO2e,Em.7.1,528277.00,mtCO2e,TC-SI,,,C6.3,C6.3.1,Tiemann
+MICROSOFT CORP,US5949181045,J5820,EMEA,,FY18,,,MSFT ESG 2018 Report,4,,"Scope 2 - Location-Based - Europe, Middle East, Africa",518921.00,,mtCO2e,Em.7.1,518921.00,mtCO2e,TC-SI,,,C6.3,C6.3.1,Tiemann
+MICROSOFT CORP,US5949181045,J5820,LATAM,,FY18,,,MSFT ESG 2018 Report,4,,Scope 2 - Location-Based - Latin America,23517.00,,mtCO2e,Em.7.1,23517.00,mtCO2e,TC-SI,,,C6.3,C6.3.1,Tiemann
+MICROSOFT CORP,US5949181045,J5820,NORAM,,FY18,,,MSFT ESG 2018 Report,4,,Scope 2 - Location-Based - North America,1929807.00,,mtCO2e,Em.7.1,1929807.00,mtCO2e,TC-SI,,,C6.3,C6.3.1,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY18,,,MSFT ESG 2018 Report,1,1,Scope 2 - Market-Based1,183329.00,,mtCO2e,Em.7.2,183329.00,mtCO2e,TC-SI,,,C6.3,C6.3.2,Tiemann
+MICROSOFT CORP,US5949181045,J5820,Asia,,FY18,,,MSFT ESG 2018 Report,4,,"Scope 2, Market-based - ASIA",174533.00,,mtCO2e,Em.7.2,174533.00,mtCO2e,TC-SI,,,C6.3,C6.3.2,Tiemann
+MICROSOFT CORP,US5949181045,J5820,EMEA,,FY18,,,MSFT ESG 2018 Report,4,,"Scope 2, Market-based - EMEA",7301.00,,mtCO2e,Em.7.2,7301.00,mtCO2e,TC-SI,,,C6.3,C6.3.2,Tiemann
+MICROSOFT CORP,US5949181045,J5820,LATAM,,FY18,,,MSFT ESG 2018 Report,4,,"Scope 2, Market-based - LATAM",751.00,,mtCO2e,Em.7.2,751.00,mtCO2e,TC-SI,,,C6.3,C6.3.2,Tiemann
+MICROSOFT CORP,US5949181045,J5820,NORAM,,FY18,,,MSFT ESG 2018 Report,4,,"Scope 2, Market-based - NORAM",744.00,,mtCO2e,Em.7.2,744.00,mtCO2e,TC-SI,,,C6.3,C6.3.2,Tiemann
+MICROSOFT CORP,US5949181045,J5820,Asia,,FY18,,,MSFT ESG 2018 Report,6,12,Non-Renewable Energy Purchased & Consumed - Asia,14079.00,Complement,MWh,HOLD OFF.???.0,14079.00,MWh,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY18,,,MSFT ESG 2018 Report,6,12,Non-Renewable Energy Purchased & Consumed - Chilled Water,52775.00,Complement,MWh,HOLD OFF.???.0,52775.00,MWh,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY18,,,MSFT ESG 2018 Report,6,12,Non-Renewable Energy Purchased & Consumed - Coal,0.00,Complement,MWh,HOLD OFF.???.0,0.00,MWh,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY18,,,MSFT ESG 2018 Report,6,12,Non-Renewable Energy Purchased & Consumed - Crude Oil/Diesel,131149.00,Complement,MWh,HOLD OFF.???.0,131149.00,MWh,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,EMEA,,FY18,,,MSFT ESG 2018 Report,6,12,"Non-Renewable Energy Purchased & Consumed - Europe, Middle East, Africa",180811.00,Complement,MWh,HOLD OFF.???.0,180811.00,MWh,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY18,,,MSFT ESG 2018 Report,6,12,Non-Renewable Energy Purchased & Consumed - Gasoline,33669.00,Complement,MWh,HOLD OFF.???.0,33669.00,MWh,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY18,,,MSFT ESG 2018 Report,6,12,Non-Renewable Energy Purchased & Consumed - Hot Water/Steam,12213.00,Complement,MWh,HOLD OFF.???.0,12213.00,MWh,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,LATAM,,FY18,,,MSFT ESG 2018 Report,6,12,Non-Renewable Energy Purchased & Consumed - Latin America,12579.00,Complement,MWh,HOLD OFF.???.0,12579.00,MWh,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY18,,,MSFT ESG 2018 Report,6,12,Non-Renewable Energy Purchased & Consumed - LPG/Propane/Jet Fuel,50378.00,Complement,MWh,HOLD OFF.???.0,50378.00,MWh,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY18,,,MSFT ESG 2018 Report,6,12,Non-Renewable Energy Purchased & Consumed - Natural Gas,110863.00,Complement,MWh,HOLD OFF.???.0,110863.00,MWh,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,NORAM,,FY18,,,MSFT ESG 2018 Report,6,12,Non-Renewable Energy Purchased & Consumed - NorAm,183577.00,Complement,MWh,HOLD OFF.???.0,183577.00,MWh,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY18,,,MSFT ESG 2018 Report,6,12,Scope 3 - Category 3 (Transmission and Distribution Losses),620000.00,,MWh,HOLD OFF.???.0,620000.00,MWh,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,WW,,FY18,,,MSFT ESG 2018 Report,6,12,Total Non-Renewable Energy Purchased & Consumed,391047.00,Complement,MWh,HOLD OFF.???.0,391047.00,MWh,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY18,,,MSFT ESG 2018 Report,2,10,Recycled Hazardous Waste (included in the categories above),1376.00,,metric tons,OE.???.0,1376.00,Mg,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY18,,,MSFT ESG 2018 Report,2,10,Incinerated,342.00,,metric tons,OE.1.1,342.00,Mg,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY18,,,MSFT ESG 2018 Report,2,10,Hazardous Waste (included in the categories above),1405.00,,metric tons,OE.1.2,1405.00,Mg,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY18,,,MSFT ESG 2018 Report,2,10,Recycled,11236.00,,metric tons,OE.4.1,11236.00,Mg,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY18,,,MSFT ESG 2018 Report,2,10,Composted,5886.00,,metric tons,OE.4.2,5886.00,Mg,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY18,,,MSFT ESG 2018 Report,2,10,Landfilled,1602.00,,metric tons,OE.N/A.0,1602.00,Mg,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,WW,,FY18,,,MSFT ESG 2018 Report,7,13,Total Water Withdrawals,7202446.00,,m3,WR.1.0,7202.45,dam3,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,Asia,,FY18,,,MSFT ESG 2018 Report,7,13,Water Withdrawals - Asia,1180130.00,,m3,WR.1.0,1180.13,dam3,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,EMEA,,FY18,,,MSFT ESG 2018 Report,7,13,"Water Withdrawals - Europe, Middle East, Africa",850909.00,,m3,WR.1.0,850.91,dam3,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY18,,,MSFT ESG 2018 Report,7,13,Water Withdrawals - Ground Water,29140.00,,m3,WR.1.0,29.14,dam3,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,LATAM,,FY18,,,MSFT ESG 2018 Report,7,13,Water Withdrawals - Latin America,114575.00,,m3,WR.1.0,114.58,dam3,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY18,,,MSFT ESG 2018 Report,7,13,Water Withdrawals - Municipal Supply,6839293.00,,m3,WR.1.0,6839.29,dam3,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,NORAM,,FY18,,,MSFT ESG 2018 Report,7,13,Water Withdrawals - North America,5056832.00,,m3,WR.1.0,5056.83,dam3,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY18,,,MSFT ESG 2018 Report,7,13,Water Withdrawals - Process Water,294589.00,,m3,WR.1.0,294.59,dam3,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY18,,,MSFT ESG 2018 Report,7,13,Water Withdrawals - Rain water,39424.00,,m3,WR.1.0,39.42,dam3,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY18,,,MSFT ESG 2018 Report,7,13,Water Withdrawals - Salt/Brackish water,0.00,,m3,WR.1.0,0.00,dam3,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY18,,,MSFT ESG 2018 Report,7,13,Water Withdrawals - Surface Water,0.00,,m3,WR.1.0,0.00,dam3,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY18,,,MSFT ESG 2018 Report,2,9,Water Consumption,3614312.00,,m3,WR.1.1,3614.31,dam3,TC-SI,TC-SI-130a.2b,"Thousand cubic meters (m_), Percentage (%)",,,Tiemann
+MICROSOFT CORP,US5949181045,J5820,WW,,FY18,,,MSFT ESG 2018 Report,7,13,Total Water Discharges - Municipal Treatment,3588134.00,,m3,WR.14.0,3588.13,dam3,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY18,,,MSFT ESG 2018 Report,2,9,Water Discharge,3588134.00,,m3,WR.14.0,3588.13,dam3,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,Asia,,FY18,,,MSFT ESG 2018 Report,7,13,Water Discharges - Asia,585283.00,,m3,WR.14.0,585.28,dam3,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,EMEA,,FY18,,,MSFT ESG 2018 Report,7,13,"Water Discharges - Europe, Middle East, Africa",467731.00,,m3,WR.14.0,467.73,dam3,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,LATAM,,FY18,,,MSFT ESG 2018 Report,7,13,Water Discharges - Latin America,48201.00,,m3,WR.14.0,48.20,dam3,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,NORAM,,FY18,,,MSFT ESG 2018 Report,7,13,Water Discharges - North America,2486918.00,,m3,WR.14.0,2486.92,dam3,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,WW,,FY18,,,MSFT ESG 2018 Report,7,13,Total Water Consumption,3614312.00,,m3,WR.2.0,3614.31,dam3,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,Asia,,FY18,,,MSFT ESG 2018 Report,7,13,Water Consumption - ASIA,594846.00,,m3,WR.2.0,594.85,dam3,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,EMEA,,FY18,,,MSFT ESG 2018 Report,7,13,Water Consumption - EMEA,383178.00,,m3,WR.2.0,383.18,dam3,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY18,,,MSFT ESG 2018 Report,7,13,Water Consumption - Ground Water,4020.00,,m3,WR.2.0,4.02,dam3,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,LATAM,,FY18,,,MSFT ESG 2018 Report,7,13,Water Consumption - LATAM,66374.00,,m3,WR.2.0,66.37,dam3,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY18,,,MSFT ESG 2018 Report,7,13,Water Consumption - Municipal supply,3439010.00,,m3,WR.2.0,3439.01,dam3,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,NORAM,,FY18,,,MSFT ESG 2018 Report,7,13,Water Consumption - NorAm,2569914.00,,m3,WR.2.0,2569.91,dam3,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY18,,,MSFT ESG 2018 Report,7,13,Water Consumption - Process Water,163893.00,,m3,WR.2.0,163.89,dam3,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY18,,,MSFT ESG 2018 Report,7,13,Water Consumption - Rain Water,7389.00,,m3,WR.2.0,7.39,dam3,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY18,,,MSFT ESG 2018 Report,7,13,Water Consumption - Salt/Brackish water,0.00,,m3,WR.2.0,0.00,dam3,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY18,,,MSFT ESG 2018 Report,7,13,Water Consumption - Surface Water,0.00,,m3,WR.2.0,0.00,dam3,TC-SI,,,#N/A,#N/A,Tiemann
+MICROSOFT CORP,US5949181045,J5820,,,FY18,,,MSFT ESG 2018 Report,2,9,Water Withdrawals,7202446.00,,m3,WR.2.1,7202.45,dam3,TC-SI,TC-SI-130a.2a,"Thousand cubic meters (m_), Percentage (%)",,,Tiemann
+PPL CORP,US69351T1060,D3510,US,,FY19,,,PPL SASB Map 2019,,,Number of customers served in markets subject to renewable portfolio standards (RPS),1400000.00,,customers,EF.6.1,1400000.00,customers,IF-EU,IF-EU-110a.4a,"Number, Percentage (%)",,,Baltzell
+PPL CORP,US69351T1060,D3510,US,,FY19,,,,,,Percentage fulfillment of renewable portfolio standards (RPS) target by market,1.00,,percentage,EF.6.2,1.00,percentage,IF-EU,IF-EU-110a.4b,"Number, Percentage (%)",,,Baltzell
+PPL CORP,US69351T1060,D3510,US,,FY19,,,CSR,69,[used average of three subsidiaries],(1) System Average Interruption Duration Index (SAIDI),538450.00,,minutes,EF.7.2,538450.00,minutes,IF-EU,IF-EU-550a.2-1,#N/A,,,Baltzell
+PPL CORP,US69351T1060,D3510,US,,FY19,,,CSR,69,[used average of three subsidiaries],(2) System Average Interruption Frequency Index (SAIFI),0.00,,number of interruptions,EF.7.3,0.00,number of interruptions,IF-EU,IF-EU-550a.2-2,#N/A,,,Baltzell
+PPL CORP,US69351T1060,D3510,US,,FY19,,,CSR,69,[used average of three subsidiaries],"(3) Customer Average Interruption Duration Index (CAIDI), inclusive of major event days
+",N/A,,minutes,EF.7.4,N/A,minutes,IF-EU,IF-EU-550a.2-3,#N/A,,,Baltzell
+PPL CORP,US69351T1060,D3510,US,,FY19,,,,,,Percentage of electric utility revenues from rate structures that are decoupled,[not available],,,EF.8.1,,,IF-EU,IF-EU-420a.1a,Percentage (%),,,Baltzell
+PPL CORP,US69351T1060,D3510,US,,FY19,,,,,,Percentage of electric utility revenues from rate structures that contain a lost revenue adjustment mechanism (LRAM),[not available],,,EF.8.2,,,IF-EU,IF-EU-420a.1b,Percentage (%),,,Baltzell
+PPL CORP,US69351T1060,D3510,US,,FY19,,,,,,Average retail electric rate for residential customers,163.45,,USD/kWh,EF.9.1,163.45,USD/kWh,IF-EU,IF-EU-240a.1a,Rate,,,Baltzell
+PPL CORP,US69351T1060,D3510,US,,FY19,,,,,,Average retail electric rate for commercial customers,0.98,,USD/kWh,EF.9.2,0.98,USD/kWh,IF-EU,IF-EU-240a.1b,Rate,,,Baltzell
+PPL CORP,US69351T1060,D3510,US,,FY19,,,,,,Average retail electric rate for industrial customers,0.40,,USD/kWh,EF.9.3,0.40,USD/kWh,IF-EU,IF-EU-240a.1c,Rate,,,Baltzell
+PPL CORP,US69351T1060,D3510,US,,FY19,,,,,,Typical monthly electric bill for residential customers for 500 kWh of electricity delivered per month,[not available],,,EF.9.4,,,IF-EU,IF-EU-240a.2a,Reporting currency,,,Baltzell
+PPL CORP,US69351T1060,D3510,US,,FY19,,,,,,"Typical monthly electric bill for residential customers for 1,000 kWh of electricity delivered per month",134.74,,USD/MWh,EF.9.5,134.74,USD/MWh,IF-EU,IF-EU-240a.2b,Reporting currency,,,Baltzell
+PPL CORP,US69351T1060,D3510,US,,FY19,,,,,,Number of residential customer electric disconnections for non payment,188909.00,,number of customers,EF.9.6,188909.00,customers,IF-EU,IF-EU-240a.3a,"Number, Percentage (%)",,,Baltzell
+PPL CORP,US69351T1060,D3510,US,,FY19,,,,,,Percentage of residential customer electric disconnections for non payment that were reconnected within 30 days,[not available],,,EF.9.7,,,IF-EU,IF-EU-240a.3b,"Number, Percentage (%)",,,Baltzell
+PPL CORP,US69351T1060,D3510,US,,FY19,,,PPL SASB Map 2019,,,Gross global Scope 1 emissions,26851641.00,,mtCO2e,Em.1.1,26851641.00,mtCO2e,IF-EU,IF-EU-110a.1a,"Mg (t) CO_-e, Percentage (%)",C6.1,C6.1.1,Baltzell
+PPL CORP,US69351T1060,D3510,US,,FY19,,,,,,"Discussion of long-term and short-term strategy or plan to manage Scope 1 emissions, emissions reduction targets, and an analysis of performance against those targets",#N/A,,,Em.14.7,,,IF-EU,IF-EU-110a.3a,n/a,,,Baltzell
+PPL CORP,US69351T1060,D3510,US,,FY19,,,PPL SASB Map 2019,,,NOx,14633.00,,metric tonnes,Em.17.10,14633.00,Mg,IF-EU,IF-EU-120a.1a,"Mg (t), Percentage (%)",,,Baltzell
+PPL CORP,US69351T1060,D3510,US,,FY19,,,PPL SASB Map 2019,,,particulate matter (PM10),1653.00,,metric tonnes,Em.17.11,1653.00,Mg,IF-EU,IF-EU-120a.1c,"Mg (t), Percentage (%)",,,Baltzell
+PPL CORP,US69351T1060,D3510,US,,FY19,,,PPL SASB Map 2019,,,SOx,13487.00,,metric tonnes,Em.17.13,13487.00,Mg,IF-EU,IF-EU-120a.1b,"Mg (t), Percentage (%)",,,Baltzell
+PPL CORP,US69351T1060,D3510,US,,FY19,,,,,,lead (Pb) percentage of each in or near areas of dense population,[not found],,,Em.17.14,,,IF-EU,IF-EU-120a.1i,"Mg (t), Percentage (%)",,,Baltzell
+PPL CORP,US69351T1060,D3510,US,,FY19,,,,,,mercury (Hg) percentage of each in or near areas of dense population,[not found],,,Em.17.15,,,IF-EU,IF-EU-120a.1j,"Mg (t), Percentage (%)",,,Baltzell
+PPL CORP,US69351T1060,D3510,US,,FY19,,,,,,NOx percentage of each in or near areas of dense population,[not found],,,Em.17.16,,,IF-EU,IF-EU-120a.1f,"Mg (t), Percentage (%)",,,Baltzell
+PPL CORP,US69351T1060,D3510,US,,FY19,,,,,,particulate matter (PM10) percentage of each in or near areas of dense population,[not found],,,Em.17.17,,,IF-EU,IF-EU-120a.1h,"Mg (t), Percentage (%)",,,Baltzell
+PPL CORP,US69351T1060,D3510,US,,FY19,,,,,,SOx percentage of each in or near areas of dense population,[not found],,,Em.17.18,,,IF-EU,IF-EU-120a.1g,"Mg (t), Percentage (%)",,,Baltzell
+PPL CORP,US69351T1060,D3510,US,,FY19,,,,,,lead (Pb),[not found],,,Em.17.6,,,IF-EU,IF-EU-120a.1d,"Mg (t), Percentage (%)",,,Baltzell
+PPL CORP,US69351T1060,D3510,US,,FY19,,,PPL SASB Map 2019,,,mercury (Hg),55.00,,kg,Em.17.8,55.00,kg,IF-EU,IF-EU-120a.1e,"Mg (t), Percentage (%)",,,Baltzell
+PPL CORP,US69351T1060,D3510,US,,FY19,,,,,,Percentage of gross global Scope 1 emissions covered under emissions-limiting regulations,#N/A,,,Em.2.1,,,IF-EU,IF-EU-110a.1b,"Mg (t) CO_-e, Percentage (%)",,,Baltzell
+PPL CORP,US69351T1060,D3510,US,,FY19,,,,,,Percentage of gross global Scope 1 emissions covered under emissions-reporting regulations,#N/A,,,Em.2.2,,,IF-EU,IF-EU-110a.1c,"Mg (t) CO_-e, Percentage (%)",,,Baltzell
+PPL CORP,US69351T1060,D3510,US,,FY19,,,PPL SASB Map 2019,,,Greenhouse gas (GHG) emissions associated with power deliveries,4916945.00,,mtCO2e,Em.5.5,4916945.00,mtCO2e,IF-EU,IF-EU-110a.2a,Mg (t) CO_-e,,,Baltzell
+PPL CORP,US69351T1060,D3510,US,,FY19,,,,,,Total water consumed,0.00,,Billions of Liters/Net MWh,WR.1.1,1.64,dam3/MWh,IF-EU,IF-EU-140a.1b,"Thousand cubic meters (m_), Percentage (%)",,,Baltzell
+PPL CORP,US69351T1060,D3510,US,,FY19,,,,,,Percentage of water consumed in regions with High or Extremely High Baseline Water Stress,0.00,,percentage,WR.1.3,0.00,percentage,IF-EU,IF-EU-140a.1d,"Thousand cubic meters (m_), Percentage (%)",,,Baltzell
+PPL CORP,US69351T1060,D3510,US,,FY19,,,,,,Total water withdrawn,0.00,,Billions of Liters/Net MWh,WR.2.1,13.66,dam3/MWh,IF-EU,IF-EU-140a.1a,"Thousand cubic meters (m_), Percentage (%)",,,Baltzell
+PPL CORP,US69351T1060,D3510,US,,FY19,,,,,,Percentage of water withdrawn in regions with High or Extremely High Baseline Water Stress,0.00,,percentage,WR.2.3,0.00,percentage,IF-EU,IF-EU-140a.1c,"Thousand cubic meters (m_), Percentage (%)",,,Baltzell
+Royal Dutch Shell plc,GB00B03MLX29,B0610,Global,,FY16,,,Shell Sustainability Report 2019,88,,Direct GHG emissions (Scope 1) (million tonnes CO2 equivalent) [A],70.00,,million mtCO2e,Em.1.1,70000000.00,mtCO2e,EM-EP,EM-EP-110a.1a,"Mg CO_-e (t), Percentage (%)",C6.1,C6.1.1,Baltzell
+Royal Dutch Shell plc,GB00B03MLX29,B0610,Global,,FY16,,,Shell Sustainability Report 2019,88,,Use of our refinery and natural gas products (Scope 3 Category 11) (million tonnes CO2 equivalent) [Q],600.00,,million metric tons CO2,Em.11.11,600000000.00,mtCO2e,EM-EP,,,C6.5,C6.5.11,Baltzell
+Royal Dutch Shell plc,GB00B03MLX29,B0610,Global,,FY16,,,Shell Sustainability Report 2019,88,,Net Carbon Footprint (gCO2e/MJ),79.00,,gCO2e/MJ,Em.13.1,21.96,mtCO2e/MWh generated,EM-EP,,,C6.10,C6.10.1,Baltzell
+Royal Dutch Shell plc,GB00B03MLX29,B0610,Global,,FY16,,,Shell Sustainability Report 2019,88,,Upstream and Integrated Gas GHG intensity,0.17,,tonnes of CO2e/ tonne of hydrocarbon production available for sale,Em.13.29,0.17,tonnes of CO2e/ tonne of hydrocarbon production available for sale,EM-EP,,,,,Baltzell
+Royal Dutch Shell plc,GB00B03MLX29,B0610,Global,,FY16,,,Shell Sustainability Report 2019,88,,Refinery GHG intensity,1.18,,tonnes of CO2e/UEDC,Em.13.30,1.18,tonnes of CO2e/UEDC,EM-EP,,,,,Baltzell
+Royal Dutch Shell plc,GB00B03MLX29,B0610,Global,,FY16,,,Shell Sustainability Report 2019,88,,Chemical GHG intensity,0.99,,tonnes of CO2e/tonne of high-value petrochemicals produced,Em.13.31,0.99,tonnes of CO2e/tonne of high-value petrochemicals produced,EM-EP,,,,,Baltzell
+Royal Dutch Shell plc,GB00B03MLX29,B0610,Global,,FY16,,,Shell Sustainability Report 2019,88,,Nitrogen oxides (NOx) (thousand metric tons NO2),113.00,,thousand metric tons NO2,Em.17.10,113000.00,Mg,EM-EP,EM-EP-120a.1a,Mg (t),,,Baltzell
+Royal Dutch Shell plc,GB00B03MLX29,B0610,Global,,FY16,,,Shell Sustainability Report 2019,88,,Sulphur oxides (SOx) (thousand metric tons SO2) [P],83.00,,thousand metric tons,Em.17.13,83000.00,Mg,EM-EP,EM-EP-120a.1b,Mg (t),,,Baltzell
+Royal Dutch Shell plc,GB00B03MLX29,B0610,Global,,FY16,,,Shell Sustainability Report 2019,88,,Volatile organic compounds (VOCs) (thousand metric tons) [P],153.00,,thousand metric tons,Em.17.14,153000.00,Mg,EM-EP,EM-EP-120a.1c,Mg (t),,,Baltzell
+Royal Dutch Shell plc,GB00B03MLX29,B0610,Global-X,,FY16,,,Shell Sustainability Report 2019,89,,CFCs/halons/trichloroethane (tonnes),0.00,,tonnes,Em.17.2,0.00,Mg,EM-EP,,,,,Baltzell
+Royal Dutch Shell plc,GB00B03MLX29,B0610,Global,,FY16,,,Shell Sustainability Report 2019,89,,Hydrochlorofluorocarbons (HCFCs) (tonnes),8.00,,tonnes,Em.17.2,8.00,Mg,EM-EP,,,,,Baltzell
+Royal Dutch Shell plc,GB00B03MLX29,B0610,Global,,FY16,,,Shell Sustainability Report 2019,88,,Hydrofluorocarbons (HFCs) (tonnes) [P],21.00,,tonnes,Em.4.10,21.00,Mg,EM-EP,,,,,Baltzell
+Royal Dutch Shell plc,GB00B03MLX29,B0610,Global,,FY16,,,Shell Sustainability Report 2019,88,,Carbon dioxide (CO2) (million tonnes),67.00,,million tonnes,Em.4.7,67000000.00,mtCO2e,EM-EP,,,,,Baltzell
+Royal Dutch Shell plc,GB00B03MLX29,B0610,Global,,FY16,,,Shell Sustainability Report 2019,88,,Methane (CH4) (thousand metric tons) [P],138.00,,Gg,Em.4.8,138000.00,Mg,EM-EP,,,,,Baltzell
+Royal Dutch Shell plc,GB00B03MLX29,B0610,Global,,FY16,,,Shell Sustainability Report 2019,88,,Nitrous oxide (N2O) (thousand metric tons),1.00,,thousand tonnes,Em.4.9,1000.00,Mg,EM-EP,,,,,Baltzell
+Royal Dutch Shell plc,GB00B03MLX29,B0610,Global,,FY16,,,Shell Sustainability Report 2019,88,,Scope 1 – Upstream (million tonnes CO2 equivalent),18.70,,million  mtCO2e,Em.5.1,18700000.00,mtCO2e,EM-EP,,,,,Baltzell
+Royal Dutch Shell plc,GB00B03MLX29,B0610,Global,,FY16,,,Shell Sustainability Report 2019,88,,Scope 1 – Integrated Gas (million tonnes CO2 equivalent),13.70,,million  mtCO2e,Em.5.2,13700000.00,mtCO2e,EM-EP,,,,,Baltzell
+Royal Dutch Shell plc,GB00B03MLX29,B0610,Global,,FY16,,,Shell Sustainability Report 2019,88,,Scope 1 – Downstream (million tonnes CO2 equivalent),37.60,,million  mtCO2e,Em.5.3,37600000.00,mtCO2e,EM-EP,,,,,Baltzell
+Royal Dutch Shell plc,GB00B03MLX29,B0610,Global,,FY16,,,Shell Sustainability Report 2019,88,,GHG emissions associated with exported energy (subset of direct GHGs),3.00,,million  mtCO2e,Em.5.4,3000000.00,mtCO2e,EM-EP,,,,,Baltzell
+Royal Dutch Shell plc,GB00B03MLX29,B0610,Global,,FY16,,,Shell Sustainability Report 2019,88,,Energy indirect GHG emissions (Scope 2) (million tonnes CO2 equivalent) [B],11.00,,million mtCO2e,Em.7.0,11000000.00,mtCO2e,EM-EP,,,C6.3,,Baltzell
+Royal Dutch Shell plc,GB00B03MLX29,B0610,Global,,FY16,,,Shell Sustainability Report 2019,88,,Scope 2 – Upstream [B] (million tonnes CO2 equivalent),1.40,,million  mtCO2e,Em.9.1,1400000.00,mtCO2e,EM-EP,,,,,Baltzell
+Royal Dutch Shell plc,GB00B03MLX29,B0610,Global,,FY16,,,Shell Sustainability Report 2019,88,,Scope 2 – Integrated Gas [B] (million tonnes CO2 equivalent),2.00,,million  mtCO2e,Em.9.2,2000000.00,mtCO2e,EM-EP,,,,,Baltzell
+Royal Dutch Shell plc,GB00B03MLX29,B0610,Global,,FY16,,,Shell Sustainability Report 2019,88,,Scope 2 – Downstream [B] (million tonnes CO2 equivalent),7.30,,million  mtCO2e,Em.9.3,7300000.00,mtCO2e,EM-EP,,,,,Baltzell
+Royal Dutch Shell plc,GB00B03MLX29,B0610,Global,,FY17,,,Shell Sustainability Report 2019,88,,Direct GHG emissions (Scope 1) (million tonnes CO2 equivalent) [A],73.00,,million mtCO2e,Em.1.1,73000000.00,mtCO2e,EM-EP,EM-EP-110a.1a,"Mg CO_-e (t), Percentage (%)",C6.1,C6.1.1,Baltzell
+Royal Dutch Shell plc,GB00B03MLX29,B0610,Global,,FY17,,,Shell Sustainability Report 2019,88,,Use of our refinery and natural gas products (Scope 3 Category 11) (million tonnes CO2 equivalent) [Q],579.00,,million metric tons CO2,Em.11.11,579000000.00,mtCO2e,EM-EP,,,C6.5,C6.5.11,Baltzell
+Royal Dutch Shell plc,GB00B03MLX29,B0610,Global,,FY17,,,Shell Sustainability Report 2019,88,,Net Carbon Footprint (gCO2e/MJ),79.00,,gCO2e/MJ,Em.13.1,21.96,mtCO2e/MWh generated,EM-EP,,,C6.10,C6.10.1,Baltzell
+Royal Dutch Shell plc,GB00B03MLX29,B0610,Global,,FY17,,,Shell Sustainability Report 2019,88,,Upstream and Integrated Gas GHG intensity,0.17,,tonnes of CO2e/ tonne of hydrocarbon production available for sale,Em.13.29,0.17,tonnes of CO2e/ tonne of hydrocarbon production available for sale,EM-EP,,,,,Baltzell
+Royal Dutch Shell plc,GB00B03MLX29,B0610,Global,,FY17,,,Shell Sustainability Report 2019,88,,Refinery GHG intensity,1.14,,tonnes of CO2e/UEDC,Em.13.30,1.14,tonnes of CO2e/UEDC,EM-EP,,,,,Baltzell
+Royal Dutch Shell plc,GB00B03MLX29,B0610,Global,,FY17,,,Shell Sustainability Report 2019,88,,Chemical GHG intensity,0.95,,tonnes of CO2e/tonne of high-value petrochemicals produced,Em.13.31,0.95,tonnes of CO2e/tonne of high-value petrochemicals produced,EM-EP,,,,,Baltzell
+Royal Dutch Shell plc,GB00B03MLX29,B0610,Global,,FY17,,,Shell Sustainability Report 2019,88,,Nitrogen oxides (NOx) (thousand metric tons NO2),107.00,,thousand metric tons NO2,Em.17.10,107000.00,Mg,EM-EP,EM-EP-120a.1a,Mg (t),,,Baltzell
+Royal Dutch Shell plc,GB00B03MLX29,B0610,Global,,FY17,,,Shell Sustainability Report 2019,88,,Sulphur oxides (SOx) (thousand metric tons SO2) [P],81.00,,thousand metric tons,Em.17.13,81000.00,Mg,EM-EP,EM-EP-120a.1b,Mg (t),,,Baltzell
+Royal Dutch Shell plc,GB00B03MLX29,B0610,Global,,FY17,,,Shell Sustainability Report 2019,88,,Volatile organic compounds (VOCs) (thousand metric tons) [P],95.00,,thousand metric tons,Em.17.14,95000.00,Mg,EM-EP,EM-EP-120a.1c,Mg (t),,,Baltzell
+Royal Dutch Shell plc,GB00B03MLX29,B0610,Global-X,,FY17,,,Shell Sustainability Report 2019,89,,CFCs/halons/trichloroethane (tonnes),0.00,,tonnes,Em.17.2,0.00,Mg,EM-EP,,,,,Baltzell
+Royal Dutch Shell plc,GB00B03MLX29,B0610,Global,,FY17,,,Shell Sustainability Report 2019,89,,Hydrochlorofluorocarbons (HCFCs) (tonnes),7.00,,tonnes,Em.17.2,7.00,Mg,EM-EP,,,,,Baltzell
+Royal Dutch Shell plc,GB00B03MLX29,B0610,Global,,FY17,,,Shell Sustainability Report 2019,88,,Hydrofluorocarbons (HFCs) (tonnes) [P],22.00,,tonnes,Em.4.10,22.00,Mg,EM-EP,,,,,Baltzell
+Royal Dutch Shell plc,GB00B03MLX29,B0610,Global,,FY17,,,Shell Sustainability Report 2019,88,,Carbon dioxide (CO2) (million tonnes),70.00,,million tonnes,Em.4.7,70000000.00,mtCO2e,EM-EP,,,,,Baltzell
+Royal Dutch Shell plc,GB00B03MLX29,B0610,Global,,FY17,,,Shell Sustainability Report 2019,88,,Methane (CH4) (thousand metric tons) [P],123.00,,Gg,Em.4.8,123000.00,Mg,EM-EP,,,,,Baltzell
+Royal Dutch Shell plc,GB00B03MLX29,B0610,Global,,FY17,,,Shell Sustainability Report 2019,88,,Nitrous oxide (N2O) (thousand metric tons),1.00,,thousand tonnes,Em.4.9,1000.00,Mg,EM-EP,,,,,Baltzell
+Royal Dutch Shell plc,GB00B03MLX29,B0610,Global,,FY17,,,Shell Sustainability Report 2019,88,,Scope 1 – Upstream (million tonnes CO2 equivalent),19.60,,million  mtCO2e,Em.5.1,19600000.00,mtCO2e,EM-EP,,,,,Baltzell
+Royal Dutch Shell plc,GB00B03MLX29,B0610,Global,,FY17,,,Shell Sustainability Report 2019,88,,Scope 1 – Integrated Gas (million tonnes CO2 equivalent),12.00,,million  mtCO2e,Em.5.2,12000000.00,mtCO2e,EM-EP,,,,,Baltzell
+Royal Dutch Shell plc,GB00B03MLX29,B0610,Global,,FY17,,,Shell Sustainability Report 2019,88,,Scope 1 – Downstream (million tonnes CO2 equivalent),41.10,,million  mtCO2e,Em.5.3,41100000.00,mtCO2e,EM-EP,,,,,Baltzell
+Royal Dutch Shell plc,GB00B03MLX29,B0610,Global,,FY17,,,Shell Sustainability Report 2019,88,,GHG emissions associated with exported energy (subset of direct GHGs),3.00,,million  mtCO2e,Em.5.4,3000000.00,mtCO2e,EM-EP,,,,,Baltzell
+Royal Dutch Shell plc,GB00B03MLX29,B0610,Global,,FY17,,,Shell Sustainability Report 2019,88,,Energy indirect GHG emissions (Scope 2) (million tonnes CO2 equivalent) [B],12.00,,million mtCO2e,Em.7.0,12000000.00,mtCO2e,EM-EP,,,C6.3,,Baltzell
+Royal Dutch Shell plc,GB00B03MLX29,B0610,Global,,FY17,,,Shell Sustainability Report 2019,88,,Scope 2 – Upstream [B] (million tonnes CO2 equivalent),1.40,,million  mtCO2e,Em.9.1,1400000.00,mtCO2e,EM-EP,,,,,Baltzell
+Royal Dutch Shell plc,GB00B03MLX29,B0610,Global,,FY17,,,Shell Sustainability Report 2019,88,,Scope 2 – Integrated Gas [B] (million tonnes CO2 equivalent),2.40,,million  mtCO2e,Em.9.2,2400000.00,mtCO2e,EM-EP,,,,,Baltzell
+Royal Dutch Shell plc,GB00B03MLX29,B0610,Global,,FY17,,,Shell Sustainability Report 2019,88,,Scope 2 – Downstream [B] (million tonnes CO2 equivalent),7.50,,million  mtCO2e,Em.9.3,7500000.00,mtCO2e,EM-EP,,,,,Baltzell
+Royal Dutch Shell plc,GB00B03MLX29,B0610,Global,,FY18,,,Shell Sustainability Report 2019,88,,Direct GHG emissions (Scope 1) (million tonnes CO2 equivalent) [A],71.00,,million mtCO2e,Em.1.1,71000000.00,mtCO2e,EM-EP,EM-EP-110a.1a,"Mg CO_-e (t), Percentage (%)",C6.1,C6.1.1,Baltzell
+Royal Dutch Shell plc,GB00B03MLX29,B0610,Global,,FY18,,,Shell Sustainability Report 2019,88,,Use of our refinery and natural gas products (Scope 3 Category 11) (million tonnes CO2 equivalent) [Q],599.00,,million metric tons CO2,Em.11.11,599000000.00,mtCO2e,EM-EP,,,C6.5,C6.5.11,Baltzell
+Royal Dutch Shell plc,GB00B03MLX29,B0610,Global,,FY18,,,Shell Sustainability Report 2019,88,,Net Carbon Footprint (gCO2e/MJ),79.00,,gCO2e/MJ,Em.13.1,21.96,mtCO2e/MWh generated,EM-EP,,,C6.10,C6.10.1,Baltzell
+Royal Dutch Shell plc,GB00B03MLX29,B0610,Global,,FY18,,,Shell Sustainability Report 2019,88,,Upstream and Integrated Gas GHG intensity,0.16,,tonnes of CO2e/ tonne of hydrocarbon production available for sale,Em.13.29,0.16,tonnes of CO2e/ tonne of hydrocarbon production available for sale,EM-EP,,,,,Baltzell
+Royal Dutch Shell plc,GB00B03MLX29,B0610,Global,,FY18,,,Shell Sustainability Report 2019,88,,Refinery GHG intensity,1.05,,tonnes of CO2e/UEDC,Em.13.30,1.05,tonnes of CO2e/UEDC,EM-EP,,,,,Baltzell
+Royal Dutch Shell plc,GB00B03MLX29,B0610,Global,,FY18,,,Shell Sustainability Report 2019,88,,Chemical GHG intensity,0.96,,tonnes of CO2e/tonne of high-value petrochemicals produced,Em.13.31,0.96,tonnes of CO2e/tonne of high-value petrochemicals produced,EM-EP,,,,,Baltzell
+Royal Dutch Shell plc,GB00B03MLX29,B0610,Global,,FY18,,,Shell Sustainability Report 2019,88,,Nitrogen oxides (NOx) (thousand metric tons NO2),111.00,,thousand metric tons NO2,Em.17.10,111000.00,Mg,EM-EP,EM-EP-120a.1a,Mg (t),,,Baltzell
+Royal Dutch Shell plc,GB00B03MLX29,B0610,Global,,FY18,,,Shell Sustainability Report 2019,88,,Sulphur oxides (SOx) (thousand metric tons SO2) [P],74.00,,thousand metric tons,Em.17.13,74000.00,Mg,EM-EP,EM-EP-120a.1b,Mg (t),,,Baltzell
+Royal Dutch Shell plc,GB00B03MLX29,B0610,Global,,FY18,,,Shell Sustainability Report 2019,88,,Volatile organic compounds (VOCs) (thousand metric tons) [P],59.00,,thousand metric tons,Em.17.14,59000.00,Mg,EM-EP,EM-EP-120a.1c,Mg (t),,,Baltzell
+Royal Dutch Shell plc,GB00B03MLX29,B0610,Global-X,,FY18,,,Shell Sustainability Report 2019,89,,CFCs/halons/trichloroethane (tonnes),0.00,,tonnes,Em.17.2,0.00,Mg,EM-EP,,,,,Baltzell
+Royal Dutch Shell plc,GB00B03MLX29,B0610,Global,,FY18,,,Shell Sustainability Report 2019,89,,Hydrochlorofluorocarbons (HCFCs) (tonnes),9.00,,tonnes,Em.17.2,9.00,Mg,EM-EP,,,,,Baltzell
+Royal Dutch Shell plc,GB00B03MLX29,B0610,Global,,FY18,,,Shell Sustainability Report 2019,88,,Hydrofluorocarbons (HFCs) (tonnes) [P],31.00,,tonnes,Em.4.10,31.00,Mg,EM-EP,,,,,Baltzell
+Royal Dutch Shell plc,GB00B03MLX29,B0610,Global,,FY18,,,Shell Sustainability Report 2019,88,,Carbon dioxide (CO2) (million tonnes),68.00,,million tonnes,Em.4.7,68000000.00,mtCO2e,EM-EP,,,,,Baltzell
+Royal Dutch Shell plc,GB00B03MLX29,B0610,Global,,FY18,,,Shell Sustainability Report 2019,88,,Methane (CH4) (thousand metric tons) [P],92.00,,Gg,Em.4.8,92000.00,Mg,EM-EP,,,,,Baltzell
+Royal Dutch Shell plc,GB00B03MLX29,B0610,Global,,FY18,,,Shell Sustainability Report 2019,88,,Nitrous oxide (N2O) (thousand metric tons),1.00,,thousand tonnes,Em.4.9,1000.00,Mg,EM-EP,,,,,Baltzell
+Royal Dutch Shell plc,GB00B03MLX29,B0610,Global,,FY18,,,Shell Sustainability Report 2019,88,,Scope 1 – Upstream (million tonnes CO2 equivalent),14.80,,million  mtCO2e,Em.5.1,14800000.00,mtCO2e,EM-EP,,,,,Baltzell
+Royal Dutch Shell plc,GB00B03MLX29,B0610,Global,,FY18,,,Shell Sustainability Report 2019,88,,Scope 1 – Integrated Gas (million tonnes CO2 equivalent),13.00,,million  mtCO2e,Em.5.2,13000000.00,mtCO2e,EM-EP,,,,,Baltzell
+Royal Dutch Shell plc,GB00B03MLX29,B0610,Global,,FY18,,,Shell Sustainability Report 2019,88,,Scope 1 – Downstream (million tonnes CO2 equivalent),42.20,,million  mtCO2e,Em.5.3,42200000.00,mtCO2e,EM-EP,,,,,Baltzell
+Royal Dutch Shell plc,GB00B03MLX29,B0610,Global,,FY18,,,Shell Sustainability Report 2019,88,,GHG emissions associated with exported energy (subset of direct GHGs),3.00,,million  mtCO2e,Em.5.4,3000000.00,mtCO2e,EM-EP,,,,,Baltzell
+Royal Dutch Shell plc,GB00B03MLX29,B0610,Global,,FY18,,,Shell Sustainability Report 2019,88,,Energy indirect GHG emissions (Scope 2) (million tonnes CO2 equivalent) [B],11.00,,million mtCO2e,Em.7.0,11000000.00,mtCO2e,EM-EP,,,C6.3,,Baltzell
+Royal Dutch Shell plc,GB00B03MLX29,B0610,Global,,FY18,,,Shell Sustainability Report 2019,88,,Scope 2 – Upstream [B] (million tonnes CO2 equivalent),1.40,,million  mtCO2e,Em.9.1,1400000.00,mtCO2e,EM-EP,,,,,Baltzell
+Royal Dutch Shell plc,GB00B03MLX29,B0610,Global,,FY18,,,Shell Sustainability Report 2019,88,,Scope 2 – Integrated Gas [B] (million tonnes CO2 equivalent),2.40,,million  mtCO2e,Em.9.2,2400000.00,mtCO2e,EM-EP,,,,,Baltzell
+Royal Dutch Shell plc,GB00B03MLX29,B0610,Global,,FY18,,,Shell Sustainability Report 2019,88,,Scope 2 – Downstream [B] (million tonnes CO2 equivalent),6.80,,million  mtCO2e,Em.9.3,6800000.00,mtCO2e,EM-EP,,,,,Baltzell
+Royal Dutch Shell plc,GB00B03MLX29,B0610,Global,,FY19,,,Shell Sustainability Report 2019,88,,Direct GHG emissions (Scope 1) (million tonnes CO2 equivalent) [A],70.00,,million mtCO2e,Em.1.1,70000000.00,mtCO2e,EM-EP,EM-EP-110a.1a,"Mg CO_-e (t), Percentage (%)",C6.1,C6.1.1,Baltzell
+Royal Dutch Shell plc,GB00B03MLX29,B0610,Global,,FY19,,,Shell Sustainability Report 2019,88,,Use of our refinery and natural gas products (Scope 3 Category 11) (million tonnes CO2 equivalent) [Q],576.00,,million metric tons CO2,Em.11.11,576000000.00,mtCO2e,EM-EP,,,C6.5,C6.5.11,Baltzell
+Royal Dutch Shell plc,GB00B03MLX29,B0610,Global,,FY19,,,Shell Sustainability Report 2019,88,,Net Carbon Footprint (gCO2e/MJ),78.00,,gCO2e/MJ,Em.13.1,21.68,mtCO2e/MWh generated,EM-EP,,,C6.10,C6.10.1,Baltzell
+Royal Dutch Shell plc,GB00B03MLX29,B0610,Global,,FY19,,,Shell Sustainability Report 2019,88,,Upstream and Integrated Gas GHG intensity,0.17,,tonnes of CO2e/ tonne of hydrocarbon production available for sale,Em.13.29,0.17,tonnes of CO2e/ tonne of hydrocarbon production available for sale,EM-EP,,,,,Baltzell
+Royal Dutch Shell plc,GB00B03MLX29,B0610,Global,,FY19,,,Shell Sustainability Report 2019,88,Solomon’s Utilised Equivalent Distillation Capacity (UEDC),Refinery GHG intensity,1.06,,tonnes of CO2e/UEDC,Em.13.30,1.06,tonnes of CO2e/UEDC,EM-EP,,,,,Baltzell
+Royal Dutch Shell plc,GB00B03MLX29,B0610,Global,,FY19,,,Shell Sustainability Report 2019,88,,Chemical GHG intensity,1.04,,tonnes of CO2e/tonne of high-value petrochemicals produced,Em.13.31,1.04,tonnes of CO2e/tonne of high-value petrochemicals produced,EM-EP,,,,,Baltzell
+Royal Dutch Shell plc,GB00B03MLX29,B0610,Global,,FY19,,,Shell Sustainability Report 2019,88,,Nitrogen oxides (NOx) (thousand metric tons NO2),108.00,,thousand metric tons NO2,Em.17.10,108000.00,Mg,EM-EP,EM-EP-120a.1a,Mg (t),,,Baltzell
+Royal Dutch Shell plc,GB00B03MLX29,B0610,Global,,FY19,,,Shell Sustainability Report 2019,88,,Sulphur oxides (SOx) (thousand metric tons SO2) [P],65.00,,thousand metric tons,Em.17.13,65000.00,Mg,EM-EP,EM-EP-120a.1b,Mg (t),,,Baltzell
+Royal Dutch Shell plc,GB00B03MLX29,B0610,Global,,FY19,,,Shell Sustainability Report 2019,88,,Volatile organic compounds (VOCs) (thousand metric tons) [P],55.00,,thousand metric tons,Em.17.14,55000.00,Mg,EM-EP,EM-EP-120a.1c,Mg (t),,,Baltzell
+Royal Dutch Shell plc,GB00B03MLX29,B0610,Global-X,,FY19,,,Shell Sustainability Report 2019,89,,CFCs/halons/trichloroethane (tonnes),0.00,,tonnes,Em.17.2,0.00,Mg,EM-EP,,,,,Baltzell
+Royal Dutch Shell plc,GB00B03MLX29,B0610,Global,,FY19,,,Shell Sustainability Report 2019,89,,Hydrochlorofluorocarbons (HCFCs) (tonnes),8.00,,tonnes,Em.17.2,8.00,Mg,EM-EP,,,,,Baltzell
+Royal Dutch Shell plc,GB00B03MLX29,B0610,Global,,FY19,,,Shell Sustainability Report 2019,88,,Hydrofluorocarbons (HFCs) (tonnes) [P],29.00,,tonnes,Em.4.10,29.00,Mg,EM-EP,,,,,Baltzell
+Royal Dutch Shell plc,GB00B03MLX29,B0610,Global,,FY19,,,Shell Sustainability Report 2019,88,,Carbon dioxide (CO2) (million tonnes),67.00,,million tonnes,Em.4.7,67000000.00,mtCO2e,EM-EP,,,,,Baltzell
+Royal Dutch Shell plc,GB00B03MLX29,B0610,Global,,FY19,,,Shell Sustainability Report 2019,88,,Methane (CH4) (thousand metric tons) [P],91.00,,Gg,Em.4.8,91000.00,Mg,EM-EP,,,,,Baltzell
+Royal Dutch Shell plc,GB00B03MLX29,B0610,Global,,FY19,,,Shell Sustainability Report 2019,88,,Nitrous oxide (N2O) (thousand metric tons),1.00,,thousand tonnes,Em.4.9,1000.00,Mg,EM-EP,,,,,Baltzell
+Royal Dutch Shell plc,GB00B03MLX29,B0610,Global,,FY19,,,Shell Sustainability Report 2019,88,,Scope 1 – Upstream (million tonnes CO2 equivalent),12.90,,million  mtCO2e,Em.5.1,12900000.00,mtCO2e,EM-EP,,,,,Baltzell
+Royal Dutch Shell plc,GB00B03MLX29,B0610,Global,,FY19,,,Shell Sustainability Report 2019,88,,Scope 1 – Integrated Gas (million tonnes CO2 equivalent),16.30,,million  mtCO2e,Em.5.2,16300000.00,mtCO2e,EM-EP,,,,,Baltzell
+Royal Dutch Shell plc,GB00B03MLX29,B0610,Global,,FY19,,,Shell Sustainability Report 2019,88,,Scope 1 – Downstream (million tonnes CO2 equivalent),40.30,,million  mtCO2e,Em.5.3,40300000.00,mtCO2e,EM-EP,,,,,Baltzell
+Royal Dutch Shell plc,GB00B03MLX29,B0610,Global,,FY19,,,Shell Sustainability Report 2019,88,,GHG emissions associated with exported energy (subset of direct GHGs),3.00,,million  mtCO2e,Em.5.4,3000000.00,mtCO2e,EM-EP,,,,,Baltzell
+Royal Dutch Shell plc,GB00B03MLX29,B0610,Global,,FY19,,,Shell Sustainability Report 2019,88,,Energy indirect GHG emissions (Scope 2) (million tonnes CO2 equivalent) [B],10.00,,million mtCO2e,Em.7.0,10000000.00,mtCO2e,EM-EP,,,C6.3,,Baltzell
+Royal Dutch Shell plc,GB00B03MLX29,B0610,Global,,FY19,,,Shell Sustainability Report 2019,88,,Scope 2 – Upstream [B] (million tonnes CO2 equivalent),1.10,,million  mtCO2e,Em.9.1,1100000.00,mtCO2e,EM-EP,,,,,Baltzell
+Royal Dutch Shell plc,GB00B03MLX29,B0610,Global,,FY19,,,Shell Sustainability Report 2019,88,,Scope 2 – Integrated Gas [B] (million tonnes CO2 equivalent),1.60,,million  mtCO2e,Em.9.2,1600000.00,mtCO2e,EM-EP,,,,,Baltzell
+Royal Dutch Shell plc,GB00B03MLX29,B0610,Global,,FY19,,,Shell Sustainability Report 2019,88,,Scope 2 – Downstream [B] (million tonnes CO2 equivalent),7.30,,million  mtCO2e,Em.9.3,7300000.00,mtCO2e,EM-EP,,,,,Baltzell
+SOUTHERN CO/THE,US8425871071,D3510,US,,FY19,,,The-Southern-Company-2018-CDP-Climate-Change-response.pdf,,,Gross global Scope 1 emissions,97534302.00,,mtCO2e,Em.1.1,97534302.00,mtCO2e,IF-EU,IF-EU-110a.1a,"Mg (t) CO_-e, Percentage (%)",C6.1,C6.1.1,Baltzell
+SOUTHERN CO/THE,US8425871071,D3510,US,,FY19,,,EEI-ESG-Sustainability-Reporting-Template.pdf,,,Air emissions from particulate matter (PM ),15.00,,thousand MT,Em.17.11,15000.00,Mg,IF-EU,IF-EU-120a.1c,"Mg (t), Percentage (%)",,,Baltzell
+SOUTHERN CO/THE,US8425871071,D3510,US,,FY19,,,EEI-ESG-Sustainability-Reporting-Template.pdf,,,Air emissions from SO,32.00,,thousand MT,Em.17.13,32000.00,Mg,IF-EU,IF-EU-120a.1b,"Mg (t), Percentage (%)",,,Baltzell
+SOUTHERN CO/THE,US8425871071,D3510,US,,FY19,,,EEI-ESG-Sustainability-Reporting-Template.pdf,,,Air emissions from mercury (Hg),137.00,,kg,Em.17.8,137.00,kg,IF-EU,IF-EU-120a.1e,"Mg (t), Percentage (%)",,,Baltzell
+SOUTHERN CO/THE,US8425871071,D3510,US,,FY19,,,EEI-ESG-Sustainability-Reporting-Template.pdf,,,Total water consumed,0.00,,Millions of Gallons/Net MWh,WR.1.1,,,IF-EU,IF-EU-140a.1b,"Thousand cubic meters (m_), Percentage (%)",,,Baltzell
+SOUTHERN CO/THE,US8425871071,D3510,US,,FY19,,,EEI-ESG-Sustainability-Reporting-Template.pdf,,,Total water withdrawn,0.01,,Millions of Gallons/Net MWh,WR.2.1,,,IF-EU,IF-EU-140a.1a,"Thousand cubic meters (m_), Percentage (%)",,,Baltzell
+TOKYO ELECTRIC POWER COMPANY,JP3585800000,D3510,JP,,FY17,,,TEPCO/sasb2020-e.pdf,3,,Number of customers served in markets subject to renewable portfolio standards (RPS),Not Applicable,,,EF.6.1,,,IF-EU,IF-EU-110a.4a,"Number, Percentage (%)",,,Baltzell
+TOKYO ELECTRIC POWER COMPANY,JP3585800000,D3510,JP,,FY17,,,TEPCO/sasb2020-e.pdf,3,,Percentage fulfillment of renewable portfolio standards (RPS) target by market,Not Applicable,,,EF.6.2,,,IF-EU,IF-EU-110a.4b,"Number, Percentage (%)",,,Baltzell
+TOKYO ELECTRIC POWER COMPANY,JP3585800000,D3510,JP,,FY17,,,TEPCO/sasb2020-e.pdf,3,,"The entity shall discuss its operations in markets with RPS regulations or where regulations are emerging, including whether it is meeting its regulatory obligations, whether regulations require future increases or changes to the entity’s renewable energy portfolio, and strategies to maintain compliance with emerging regulations.",Not Applicable,,,EF.6.3,,,IF-EU,IF-EU-110a.4c,"Number, Percentage (%)",,,Baltzell
+TOKYO ELECTRIC POWER COMPANY,JP3585800000,D3510,JP,,FY17,,,TEPCO/sasb2020-e.pdf,3,,Number of incidents of non-compliance with physical and/or cybersecurity standards or regulations,[not disclosed],,,EF.7.1,,,IF-EU,IF-EU-550a.1a,Number,,,Baltzell
+TOKYO ELECTRIC POWER COMPANY,JP3585800000,D3510,JP,,FY17,,,TEPCO/sasb2020-e.pdf,3,,System Average Interruption Duration Index (SAIDI),6.00,,minutes,EF.7.2,6.00,minutes,IF-EU,IF-EU-550a.2a,"Minutes, Number",,,Baltzell
+TOKYO ELECTRIC POWER COMPANY,JP3585800000,D3510,JP,,FY17,,,TEPCO/sasb2020-e.pdf,3,,System Average Interruption Frequency Index (SAIFI),0.09,,times,EF.7.3,0.09,times,IF-EU,IF-EU-550a.2b,"Minutes, Number",,,Baltzell
+TOKYO ELECTRIC POWER COMPANY,JP3585800000,D3510,JP,,FY17,,,TEPCO/sasb2020-e.pdf,3,,"Customer Average Interruption Duration Index (CAIDI), inclusive of major event days",66.66,,minutes/times,EF.7.4,66.66,minutes/times,IF-EU,IF-EU-550a.2c,"Minutes, Number",,,Baltzell
+TOKYO ELECTRIC POWER COMPANY,JP3585800000,D3510,JP,,FY17,,,TEPCO/sasb2020-e.pdf,3,,The entity shall discuss notable service disruptions such as those that affected a significant number of customers or disruptions of extended duration,[not disclosed],,number,EF.7.5,,,IF-EU,IF-EU-550a.2d,"Minutes, Number",,,Baltzell
+TOKYO ELECTRIC POWER COMPANY,JP3585800000,D3510,JP,,FY17,,,TEPCO/sasb2020-e.pdf,3,,Percentage of electric utility revenues from rate structures that are decoupled,Not Applicable,,,EF.8.1,,,IF-EU,IF-EU-420a.1a,Percentage (%),,,Baltzell
+TOKYO ELECTRIC POWER COMPANY,JP3585800000,D3510,JP,,FY17,,,TEPCO/sasb2020-e.pdf,3,,Percentage of electric utility revenues from rate structures that contain a lost revenue adjustment mechanism (LRAM),Not Applicable,,,EF.8.2,,,IF-EU,IF-EU-420a.1b,Percentage (%),,,Baltzell
+TOKYO ELECTRIC POWER COMPANY,JP3585800000,D3510,JP,,FY17,,,TEPCO/sasb2020-e.pdf,3,,Percentage of electric load served by smart grid technology,[not disclosed],,,EF.8.3,,,IF-EU,IF-EU-420a.2a,Percentage (%) by megawatt hours (MWh),,,Baltzell
+TOKYO ELECTRIC POWER COMPANY,JP3585800000,D3510,JP,,FY17,,,TEPCO/sasb2020-e.pdf,3,,The entity shall discuss the opportunities and challenges associated with the development and operations of a smart grid,"Offering Electricity
+Saving Solutions to
+Approx. 750 Companies
+Approx. 39,000 Households
+Offering Online Services to
+9,294,043 Members",,text,EF.8.4,,,IF-EU,IF-EU-420a.2b,Percentage (%) by megawatt hours (MWh),,,Baltzell
+TOKYO ELECTRIC POWER COMPANY,JP3585800000,D3510,JP,,FY17,,,TEPCO/sasb2020-e.pdf,3,,Customer electricity savings from efficiency measures by market,[not disclosed],,,EF.8.5,,,IF-EU,IF-EU-420a.3a,Megawatt hours (MWh),,,Baltzell
+TOKYO ELECTRIC POWER COMPANY,JP3585800000,D3510,JP,,FY17,,,TEPCO/sasb2020-e.pdf,3,,The entity shall discuss customer efficiency regulations relevant to each market in which it operates,[not disclosed],,,EF.8.6,,,IF-EU,IF-EU-420a.3b,Megawatt hours (MWh),,,Baltzell
+TOKYO ELECTRIC POWER COMPANY,JP3585800000,D3510,JP,,FY17,,,TEPCO/sasb2020-e.pdf,3,,Average retail electric rate for residential customers,25.30,,JPY,EF.9.1,25.30,JPY,IF-EU,IF-EU-240a.1a,Rate,,,Baltzell
+TOKYO ELECTRIC POWER COMPANY,JP3585800000,D3510,JP,,FY17,,,TEPCO/sasb2020-e.pdf,3,,Average retail electric rate for commercial customers,19.83,,JPY,EF.9.2,19.83,JPY,IF-EU,IF-EU-240a.1b,Rate,,,Baltzell
+TOKYO ELECTRIC POWER COMPANY,JP3585800000,D3510,JP,,FY17,,,TEPCO/sasb2020-e.pdf,3,,Average retail electric rate for industrial customers,19.83,,JPY,EF.9.3,19.83,JPY,IF-EU,IF-EU-240a.1c,Rate,,,Baltzell
+TOKYO ELECTRIC POWER COMPANY,JP3585800000,D3510,JP,,FY17,,,TEPCO/sasb2020-e.pdf,3,,Typical monthly electric bill for residential customers for 500 kWh of electricity delivered per month,12367.00,,JPY,EF.9.4,12367.00,JPY,IF-EU,IF-EU-240a.2a,Reporting currency,,,Baltzell
+TOKYO ELECTRIC POWER COMPANY,JP3585800000,D3510,JP,,FY17,,,TEPCO/sasb2020-e.pdf,3,,"Typical monthly electric bill for residential customers for 1,000 kWh of electricity delivered per month",26738.00,,JPY,EF.9.5,26738.00,JPY,IF-EU,IF-EU-240a.2b,Reporting currency,,,Baltzell
+TOKYO ELECTRIC POWER COMPANY,JP3585800000,D3510,JP,,FY17,,,TEPCO/sasb2020-e.pdf,3,,Number of residential customer electric disconnections for non payment,21928.00,,number,EF.9.6,21928.00,number,IF-EU,IF-EU-240a.3a,"Number, Percentage (%)",,,Baltzell
+TOKYO ELECTRIC POWER COMPANY,JP3585800000,D3510,JP,,FY17,,,TEPCO/sasb2020-e.pdf,3,,Percentage of residential customer electric disconnections for non payment that were reconnected within 30 days,[not disclosed],,,EF.9.7,,,IF-EU,IF-EU-240a.3b,"Number, Percentage (%)",,,Baltzell
+TOKYO ELECTRIC POWER COMPANY,JP3585800000,D3510,JP,,FY17,,,TEPCO/sasb2020-e.pdf,3,,"Discussion of impact of external factors on customer affordability of electricity, including the economic conditions of the service territory","According to Electricity Business Act,""A General Electricity Utility shall not refuse to supply electricity to meet general demand in its service
+area (excluding, however, demand at the Point of Business Commencement and Specified-Scale Demand) without justifiable grounds.""
+Thus, we do not recognize there are any areas without electricity in all the service areas of the TEPCO group.
+We also recognize that external factors which impact electricity rates are fluctuations in the price of thermal power fuels and levies from
+the Feed-in-tariff law for renewable energies.(price based regulations: requires electricity companies to purchase renewable energy at a
+certain price",,text,EF.9.8,,,IF-EU,IF-EU-240a.4a,n/a,,,Baltzell
+TOKYO ELECTRIC POWER COMPANY,JP3585800000,D3510,JP,,FY17,,,TEPCO/sasb2020-e.pdf,3,,Gross global Scope 1 emissions,84300000.00,,t-CO2,Em.1.1,84300000.00,mtCO2e,IF-EU,IF-EU-110a.1a,"Mg (t) CO_-e, Percentage (%)",C6.1,C6.1.1,Baltzell
+TOKYO ELECTRIC POWER COMPANY,JP3585800000,D3510,JP,,FY17,,,TEPCO/sasb2020-e.pdf,3,,"Discussion of long-term and short-term strategy or plan to manage Scope 1 emissions, emissions reduction targets, and an analysis of performance against those targets","Since the TEPCO Group transferred its fuel and thermal power operations to JERA in April 2019, scope 1 emissions are extremely low,
+at 200,000 t-CO2. On the other hand, electric power retailers are required to calculate and report greenhouse gas emissions at the retail
+stage, which are major part of Scope 3 emissions, in accordance with the ""Act on Promotion of Global Warming Countermeasures"". For
+this reason, the TEPCO Group has set a target of reducing CO2 emissions from retail electricity sales by 50% by fiscal 2030 (compared to
+fiscal 2013). CO2 emissions were 139.2 million tons in fiscal 2013, and were reduced to 92.6 million tons in fiscal 2019 due to the spread
+of renewable energy and the procurement of electricity from high-efficiency thermal power plants. In the future, we will work to expand
+renewable energy further and to restart nuclear power in order to contribute to achieving the target.",,text,Em.14.7,,,IF-EU,IF-EU-110a.3a,n/a,,,Baltzell
+TOKYO ELECTRIC POWER COMPANY,JP3585800000,D3510,JP,,FY17,,,TEPCO/sasb2020-e.pdf,3,,Air emissions from NO (excluding N O),18000.00,,tonnes,Em.17.10,18000.00,Mg,IF-EU,IF-EU-120a.1a,"Mg (t), Percentage (%)",,,Baltzell
+TOKYO ELECTRIC POWER COMPANY,JP3585800000,D3510,JP,,FY17,,,TEPCO/sasb2020-e.pdf,3,,Air emissions from particulate matter (PM ),N/A,,,Em.17.11,,,IF-EU,IF-EU-120a.1c,"Mg (t), Percentage (%)",,,Baltzell
+TOKYO ELECTRIC POWER COMPANY,JP3585800000,D3510,JP,,FY17,,,TEPCO/sasb2020-e.pdf,3,,Air emissions from SO,7000.00,,,Em.17.13,7000.00,Mg,IF-EU,IF-EU-120a.1b,"Mg (t), Percentage (%)",,,Baltzell
+TOKYO ELECTRIC POWER COMPANY,JP3585800000,D3510,JP,,FY17,,,TEPCO/sasb2020-e.pdf,3,,Air emissions from lead (Pb),N/A,,,Em.17.6,,,IF-EU,IF-EU-120a.1d,"Mg (t), Percentage (%)",,,Baltzell
+TOKYO ELECTRIC POWER COMPANY,JP3585800000,D3510,JP,,FY17,,,TEPCO/sasb2020-e.pdf,3,,Air emissions from mercury (Hg),N/A,,,Em.17.8,,,IF-EU,IF-EU-120a.1e,"Mg (t), Percentage (%)",,,Baltzell
+TOKYO ELECTRIC POWER COMPANY,JP3585800000,D3510,JP,,FY17,,,TEPCO/sasb2020-e.pdf,3,,Percentage of gross global Scope 1 emissions covered under emissions-limiting regulations,[not disclosed],,,Em.2.1,,,IF-EU,IF-EU-110a.1b,"Mg (t) CO_-e, Percentage (%)",,,Baltzell
+TOKYO ELECTRIC POWER COMPANY,JP3585800000,D3510,JP,,FY17,,,TEPCO/sasb2020-e.pdf,3,,Percentage of gross global Scope 1 emissions covered under emissions-reporting regulations,[not disclosed],,,Em.2.2,,,IF-EU,IF-EU-110a.1c,"Mg (t) CO_-e, Percentage (%)",,,Baltzell
+TOKYO ELECTRIC POWER COMPANY,JP3585800000,D3510,JP,,FY17,,,TEPCO/sasb2020-e.pdf,3,,Greenhouse gas (GHG) emissions associated with power deliveries,115000000.00,,t-CO2,Em.5.5,115000000.00,mtCO2e,IF-EU,IF-EU-110a.2a,Mg (t) CO_-e,,,Baltzell
+TOKYO ELECTRIC POWER COMPANY,JP3585800000,D3510,JP,,FY17,,,TEPCO/sasb2020-e.pdf,3,,Total water consumed,9634.00,,"1,000m3",WR.1.1,9.63,dam3,IF-EU,IF-EU-140a.1b,"Thousand cubic meters (m_), Percentage (%)",,,Baltzell
+TOKYO ELECTRIC POWER COMPANY,JP3585800000,D3510,JP,,FY17,,,TEPCO/sasb2020-e.pdf,3,,Percentage of water consumed in regions with High or Extremely High Baseline Water Stress,[not disclosed],,,WR.1.3,,,IF-EU,IF-EU-140a.1d,"Thousand cubic meters (m_), Percentage (%)",,,Baltzell
+TOKYO ELECTRIC POWER COMPANY,JP3585800000,D3510,JP,,FY17,,,TEPCO/sasb2020-e.pdf,3,,Total water withdrawn,63761486.00,,"1,000m3",WR.2.1,63761.49,dam3,IF-EU,IF-EU-140a.1a,"Thousand cubic meters (m_), Percentage (%)",,,Baltzell
+TOKYO ELECTRIC POWER COMPANY,JP3585800000,D3510,JP,,FY17,,,TEPCO/sasb2020-e.pdf,3,,Percentage of water withdrawn in regions with High or Extremely High Baseline Water Stress,[not disclosed],,,WR.2.3,,,IF-EU,IF-EU-140a.1c,"Thousand cubic meters (m_), Percentage (%)",,,Baltzell
+TOKYO ELECTRIC POWER COMPANY,JP3585800000,D3510,JP,,FY17,,,TEPCO/sasb2020-e.pdf,3,,"Number of incidents of non-compliance associated with water quantity and/or quality permits, standards, and regulations",0.00,,number,WR.3.1,0.00,number,IF-EU,IF-EU-140a.2a,Number,,,Baltzell
+TOKYO ELECTRIC POWER COMPANY,JP3585800000,D3510,JP,,FY17,,,TEPCO/sasb2020-e.pdf,3,,Description of water management risks and discussion of strategies and practices to mitigate those risks,"The TEPCO Group operates hydroelectric power plants in more than 200 locations in Honshu, Japan, and the amount of power
+generation accounts for about 98% of the total. The use of water resources is essential for a clean hydroelectric power generation
+business that does not emit CO2 during power generation, and the following risk management is carried out.
+At dams and downstream of embankments at hydroelectric power plants, the water necessary to maintain the environment of the
+river is discharged, and the amount of water withdrawn from the river for power generation complies with the amount of water intake
+permitted by law. In addition, when river flooding due to heavy rain is expected, water will be discharged in advance from the dam
+based on the flood control agreement with the national government, and it plays an important role in reducing heavy rain damage in
+regional disaster prevention.
+The results of verifying water stress in the area where our facility is located by using “WRI Aqueduct Water Risk Atlas” tool to identify water
+risk are as follows.
+According to the ""Baseline Water Stress"", water stress is ""Medium-high"" at the maximum in the business area of the TEPCO Group. So
+there are no facilities such as hydroelectric power plants in water-stressed areas, and it is assumed that the frequency of water-related
+risks such as drought is low. In ""Future Water Stress"", there is a suggestion that water stress may be higher. With reference to this result,
+we will carry out risk assessment based on the actual water usage conditions at specific rivers and basins, as well as at power plants
+locations, and will continue to strive for risk management.
+In the future, we will consider long-term strategies regarding the impact of physical risks on our facilities such as floods due to climate
+change.",,text,WR.3.2,,,IF-EU,IF-EU-140a.3a,n/a,,,Baltzell
+TOKYO ELECTRIC POWER COMPANY,JP3585800000,D3510,JP,,FY18,,,TEPCO/sasb2020-e.pdf,3,,Number of customers served in markets subject to renewable portfolio standards (RPS),Not Applicable,,,EF.6.1,,,IF-EU,IF-EU-110a.4a,"Number, Percentage (%)",,,Baltzell
+TOKYO ELECTRIC POWER COMPANY,JP3585800000,D3510,JP,,FY18,,,TEPCO/sasb2020-e.pdf,3,,Percentage fulfillment of renewable portfolio standards (RPS) target by market,Not Applicable,,,EF.6.2,,,IF-EU,IF-EU-110a.4b,"Number, Percentage (%)",,,Baltzell
+TOKYO ELECTRIC POWER COMPANY,JP3585800000,D3510,JP,,FY18,,,TEPCO/sasb2020-e.pdf,3,,"The entity shall discuss its operations in markets with RPS regulations or where regulations are emerging, including whether it is meeting its regulatory obligations, whether regulations require future increases or changes to the entity’s renewable energy portfolio, and strategies to maintain compliance with emerging regulations.",Not Applicable,,,EF.6.3,,,IF-EU,IF-EU-110a.4c,"Number, Percentage (%)",,,Baltzell
+TOKYO ELECTRIC POWER COMPANY,JP3585800000,D3510,JP,,FY18,,,TEPCO/sasb2020-e.pdf,3,,Number of incidents of non-compliance with physical and/or cybersecurity standards or regulations,[not disclosed],,,EF.7.1,,,IF-EU,IF-EU-550a.1a,Number,,,Baltzell
+TOKYO ELECTRIC POWER COMPANY,JP3585800000,D3510,JP,,FY18,,,TEPCO/sasb2020-e.pdf,3,,System Average Interruption Duration Index (SAIDI),19.00,,minutes,EF.7.2,19.00,minutes,IF-EU,IF-EU-550a.2a,"Minutes, Number",,,Baltzell
+TOKYO ELECTRIC POWER COMPANY,JP3585800000,D3510,JP,,FY18,,,TEPCO/sasb2020-e.pdf,3,,System Average Interruption Frequency Index (SAIFI),0.13,,times,EF.7.3,0.13,times,IF-EU,IF-EU-550a.2b,"Minutes, Number",,,Baltzell
+TOKYO ELECTRIC POWER COMPANY,JP3585800000,D3510,JP,,FY18,,,TEPCO/sasb2020-e.pdf,3,,"Customer Average Interruption Duration Index (CAIDI), inclusive of major event days",146.15,,minutes/times,EF.7.4,146.15,minutes/times,IF-EU,IF-EU-550a.2c,"Minutes, Number",,,Baltzell
+TOKYO ELECTRIC POWER COMPANY,JP3585800000,D3510,JP,,FY18,,,TEPCO/sasb2020-e.pdf,3,,The entity shall discuss notable service disruptions such as those that affected a significant number of customers or disruptions of extended duration,[not disclosed],,number,EF.7.5,,,IF-EU,IF-EU-550a.2d,"Minutes, Number",,,Baltzell
+TOKYO ELECTRIC POWER COMPANY,JP3585800000,D3510,JP,,FY18,,,TEPCO/sasb2020-e.pdf,3,,Percentage of electric utility revenues from rate structures that are decoupled,Not Applicable,,,EF.8.1,,,IF-EU,IF-EU-420a.1a,Percentage (%),,,Baltzell
+TOKYO ELECTRIC POWER COMPANY,JP3585800000,D3510,JP,,FY18,,,TEPCO/sasb2020-e.pdf,3,,Percentage of electric utility revenues from rate structures that contain a lost revenue adjustment mechanism (LRAM),Not Applicable,,,EF.8.2,,,IF-EU,IF-EU-420a.1b,Percentage (%),,,Baltzell
+TOKYO ELECTRIC POWER COMPANY,JP3585800000,D3510,JP,,FY18,,,TEPCO/sasb2020-e.pdf,3,,Percentage of electric load served by smart grid technology,[not disclosed],,,EF.8.3,,,IF-EU,IF-EU-420a.2a,Percentage (%) by megawatt hours (MWh),,,Baltzell
+TOKYO ELECTRIC POWER COMPANY,JP3585800000,D3510,JP,,FY18,,,TEPCO/sasb2020-e.pdf,3,,The entity shall discuss the opportunities and challenges associated with the development and operations of a smart grid,"Offering Electricity
+Saving Solutions to
+Approx. 750 Companies
+Approx. 39,000 Households
+Offering Online Services to
+9,294,043 Members",,text,EF.8.4,,,IF-EU,IF-EU-420a.2b,Percentage (%) by megawatt hours (MWh),,,Baltzell
+TOKYO ELECTRIC POWER COMPANY,JP3585800000,D3510,JP,,FY18,,,TEPCO/sasb2020-e.pdf,3,,Customer electricity savings from efficiency measures by market,[not disclosed],,,EF.8.5,,,IF-EU,IF-EU-420a.3a,Megawatt hours (MWh),,,Baltzell
+TOKYO ELECTRIC POWER COMPANY,JP3585800000,D3510,JP,,FY18,,,TEPCO/sasb2020-e.pdf,3,,The entity shall discuss customer efficiency regulations relevant to each market in which it operates,[not disclosed],,,EF.8.6,,,IF-EU,IF-EU-420a.3b,Megawatt hours (MWh),,,Baltzell
+TOKYO ELECTRIC POWER COMPANY,JP3585800000,D3510,JP,,FY18,,,TEPCO/sasb2020-e.pdf,3,,Average retail electric rate for residential customers,24.47,,JPY,EF.9.1,24.47,JPY,IF-EU,IF-EU-240a.1a,Rate,,,Baltzell
+TOKYO ELECTRIC POWER COMPANY,JP3585800000,D3510,JP,,FY18,,,TEPCO/sasb2020-e.pdf,3,,Average retail electric rate for commercial customers,23.05,,JPY,EF.9.2,23.05,JPY,IF-EU,IF-EU-240a.1b,Rate,,,Baltzell
+TOKYO ELECTRIC POWER COMPANY,JP3585800000,D3510,JP,,FY18,,,TEPCO/sasb2020-e.pdf,3,,Average retail electric rate for industrial customers,23.05,,JPY,EF.9.3,23.05,JPY,IF-EU,IF-EU-240a.1c,Rate,,,Baltzell
+TOKYO ELECTRIC POWER COMPANY,JP3585800000,D3510,JP,,FY18,,,TEPCO/sasb2020-e.pdf,3,,Typical monthly electric bill for residential customers for 500 kWh of electricity delivered per month,13188.00,,JPY,EF.9.4,13188.00,JPY,IF-EU,IF-EU-240a.2a,Reporting currency,,,Baltzell
+TOKYO ELECTRIC POWER COMPANY,JP3585800000,D3510,JP,,FY18,,,TEPCO/sasb2020-e.pdf,3,,"Typical monthly electric bill for residential customers for 1,000 kWh of electricity delivered per month",28453.00,,JPY,EF.9.5,28453.00,JPY,IF-EU,IF-EU-240a.2b,Reporting currency,,,Baltzell
+TOKYO ELECTRIC POWER COMPANY,JP3585800000,D3510,JP,,FY18,,,TEPCO/sasb2020-e.pdf,3,,Number of residential customer electric disconnections for non payment,50435.00,,number,EF.9.6,50435.00,number,IF-EU,IF-EU-240a.3a,"Number, Percentage (%)",,,Baltzell
+TOKYO ELECTRIC POWER COMPANY,JP3585800000,D3510,JP,,FY18,,,TEPCO/sasb2020-e.pdf,3,,Percentage of residential customer electric disconnections for non payment that were reconnected within 30 days,[not disclosed],,,EF.9.7,,,IF-EU,IF-EU-240a.3b,"Number, Percentage (%)",,,Baltzell
+TOKYO ELECTRIC POWER COMPANY,JP3585800000,D3510,JP,,FY18,,,TEPCO/sasb2020-e.pdf,3,,"Discussion of impact of external factors on customer affordability of electricity, including the economic conditions of the service territory","According to Electricity Business Act,""A General Electricity Utility shall not refuse to supply electricity to meet general demand in its service
+area (excluding, however, demand at the Point of Business Commencement and Specified-Scale Demand) without justifiable grounds.""
+Thus, we do not recognize there are any areas without electricity in all the service areas of the TEPCO group.
+We also recognize that external factors which impact electricity rates are fluctuations in the price of thermal power fuels and levies from
+the Feed-in-tariff law for renewable energies.(price based regulations: requires electricity companies to purchase renewable energy at a
+certain price",,text,EF.9.8,,,IF-EU,IF-EU-240a.4a,n/a,,,Baltzell
+TOKYO ELECTRIC POWER COMPANY,JP3585800000,D3510,JP,,FY18,,,TEPCO/sasb2020-e.pdf,3,,Gross global Scope 1 emissions,81600000.00,,t-CO2,Em.1.1,81600000.00,mtCO2e,IF-EU,IF-EU-110a.1a,"Mg (t) CO_-e, Percentage (%)",C6.1,C6.1.1,Baltzell
+TOKYO ELECTRIC POWER COMPANY,JP3585800000,D3510,JP,,FY18,,,TEPCO/sasb2020-e.pdf,3,,"Discussion of long-term and short-term strategy or plan to manage Scope 1 emissions, emissions reduction targets, and an analysis of performance against those targets","Since the TEPCO Group transferred its fuel and thermal power operations to JERA in April 2019, scope 1 emissions are extremely low,
+at 200,000 t-CO2. On the other hand, electric power retailers are required to calculate and report greenhouse gas emissions at the retail
+stage, which are major part of Scope 3 emissions, in accordance with the ""Act on Promotion of Global Warming Countermeasures"". For
+this reason, the TEPCO Group has set a target of reducing CO2 emissions from retail electricity sales by 50% by fiscal 2030 (compared to
+fiscal 2013). CO2 emissions were 139.2 million tons in fiscal 2013, and were reduced to 92.6 million tons in fiscal 2019 due to the spread
+of renewable energy and the procurement of electricity from high-efficiency thermal power plants. In the future, we will work to expand
+renewable energy further and to restart nuclear power in order to contribute to achieving the target.",,text,Em.14.7,,,IF-EU,IF-EU-110a.3a,n/a,,,Baltzell
+TOKYO ELECTRIC POWER COMPANY,JP3585800000,D3510,JP,,FY18,,,TEPCO/sasb2020-e.pdf,3,,Air emissions from NO (excluding N O),18000.00,,tonnes,Em.17.10,18000.00,Mg,IF-EU,IF-EU-120a.1a,"Mg (t), Percentage (%)",,,Baltzell
+TOKYO ELECTRIC POWER COMPANY,JP3585800000,D3510,JP,,FY18,,,TEPCO/sasb2020-e.pdf,3,,Air emissions from particulate matter (PM ),N/A,,,Em.17.11,,,IF-EU,IF-EU-120a.1c,"Mg (t), Percentage (%)",,,Baltzell
+TOKYO ELECTRIC POWER COMPANY,JP3585800000,D3510,JP,,FY18,,,TEPCO/sasb2020-e.pdf,3,,Air emissions from SO,6000.00,,,Em.17.13,6000.00,Mg,IF-EU,IF-EU-120a.1b,"Mg (t), Percentage (%)",,,Baltzell
+TOKYO ELECTRIC POWER COMPANY,JP3585800000,D3510,JP,,FY18,,,TEPCO/sasb2020-e.pdf,3,,Air emissions from lead (Pb),N/A,,,Em.17.6,,,IF-EU,IF-EU-120a.1d,"Mg (t), Percentage (%)",,,Baltzell
+TOKYO ELECTRIC POWER COMPANY,JP3585800000,D3510,JP,,FY18,,,TEPCO/sasb2020-e.pdf,3,,Air emissions from mercury (Hg),N/A,,,Em.17.8,,,IF-EU,IF-EU-120a.1e,"Mg (t), Percentage (%)",,,Baltzell
+TOKYO ELECTRIC POWER COMPANY,JP3585800000,D3510,JP,,FY18,,,TEPCO/sasb2020-e.pdf,3,,Percentage of gross global Scope 1 emissions covered under emissions-limiting regulations,[not disclosed],,,Em.2.1,,,IF-EU,IF-EU-110a.1b,"Mg (t) CO_-e, Percentage (%)",,,Baltzell
+TOKYO ELECTRIC POWER COMPANY,JP3585800000,D3510,JP,,FY18,,,TEPCO/sasb2020-e.pdf,3,,Percentage of gross global Scope 1 emissions covered under emissions-reporting regulations,[not disclosed],,,Em.2.2,,,IF-EU,IF-EU-110a.1c,"Mg (t) CO_-e, Percentage (%)",,,Baltzell
+TOKYO ELECTRIC POWER COMPANY,JP3585800000,D3510,JP,,FY18,,,TEPCO/sasb2020-e.pdf,3,,Greenhouse gas (GHG) emissions associated with power deliveries,108000000.00,,t-CO2,Em.5.5,108000000.00,mtCO2e,IF-EU,IF-EU-110a.2a,Mg (t) CO_-e,,,Baltzell
+TOKYO ELECTRIC POWER COMPANY,JP3585800000,D3510,JP,,FY18,,,TEPCO/sasb2020-e.pdf,3,,Total water consumed,9939.00,,"1,000m3",WR.1.1,9.94,dam3,IF-EU,IF-EU-140a.1b,"Thousand cubic meters (m_), Percentage (%)",,,Baltzell
+TOKYO ELECTRIC POWER COMPANY,JP3585800000,D3510,JP,,FY18,,,TEPCO/sasb2020-e.pdf,3,,Percentage of water consumed in regions with High or Extremely High Baseline Water Stress,[not disclosed],,,WR.1.3,,,IF-EU,IF-EU-140a.1d,"Thousand cubic meters (m_), Percentage (%)",,,Baltzell
+TOKYO ELECTRIC POWER COMPANY,JP3585800000,D3510,JP,,FY18,,,TEPCO/sasb2020-e.pdf,3,,Total water withdrawn,56289497.00,,"1,000m3",WR.2.1,56289.50,dam3,IF-EU,IF-EU-140a.1a,"Thousand cubic meters (m_), Percentage (%)",,,Baltzell
+TOKYO ELECTRIC POWER COMPANY,JP3585800000,D3510,JP,,FY18,,,TEPCO/sasb2020-e.pdf,3,,Percentage of water withdrawn in regions with High or Extremely High Baseline Water Stress,[not disclosed],,,WR.2.3,,,IF-EU,IF-EU-140a.1c,"Thousand cubic meters (m_), Percentage (%)",,,Baltzell
+TOKYO ELECTRIC POWER COMPANY,JP3585800000,D3510,JP,,FY18,,,TEPCO/sasb2020-e.pdf,3,,"Number of incidents of non-compliance associated with water quantity and/or quality permits, standards, and regulations",0.00,,number,WR.3.1,0.00,number,IF-EU,IF-EU-140a.2a,Number,,,Baltzell
+TOKYO ELECTRIC POWER COMPANY,JP3585800000,D3510,JP,,FY18,,,TEPCO/sasb2020-e.pdf,3,,Description of water management risks and discussion of strategies and practices to mitigate those risks,"The TEPCO Group operates hydroelectric power plants in more than 200 locations in Honshu, Japan, and the amount of power
+generation accounts for about 98% of the total. The use of water resources is essential for a clean hydroelectric power generation
+business that does not emit CO2 during power generation, and the following risk management is carried out.
+At dams and downstream of embankments at hydroelectric power plants, the water necessary to maintain the environment of the
+river is discharged, and the amount of water withdrawn from the river for power generation complies with the amount of water intake
+permitted by law. In addition, when river flooding due to heavy rain is expected, water will be discharged in advance from the dam
+based on the flood control agreement with the national government, and it plays an important role in reducing heavy rain damage in
+regional disaster prevention.
+The results of verifying water stress in the area where our facility is located by using “WRI Aqueduct Water Risk Atlas” tool to identify water
+risk are as follows.
+According to the ""Baseline Water Stress"", water stress is ""Medium-high"" at the maximum in the business area of the TEPCO Group. So
+there are no facilities such as hydroelectric power plants in water-stressed areas, and it is assumed that the frequency of water-related
+risks such as drought is low. In ""Future Water Stress"", there is a suggestion that water stress may be higher. With reference to this result,
+we will carry out risk assessment based on the actual water usage conditions at specific rivers and basins, as well as at power plants
+locations, and will continue to strive for risk management.
+In the future, we will consider long-term strategies regarding the impact of physical risks on our facilities such as floods due to climate
+change.",,text,WR.3.2,,,IF-EU,IF-EU-140a.3a,n/a,,,Baltzell
+TOKYO ELECTRIC POWER COMPANY,JP3585800000,D3510,JP,,FY19,,,TEPCO/sasb2020-e.pdf,3,,Number of customers served in markets subject to renewable portfolio standards (RPS),Not Applicable,,,EF.6.1,,,IF-EU,IF-EU-110a.4a,"Number, Percentage (%)",,,Baltzell
+TOKYO ELECTRIC POWER COMPANY,JP3585800000,D3510,JP,,FY19,,,TEPCO/sasb2020-e.pdf,3,,Percentage fulfillment of renewable portfolio standards (RPS) target by market,Not Applicable,,,EF.6.2,,,IF-EU,IF-EU-110a.4b,"Number, Percentage (%)",,,Baltzell
+TOKYO ELECTRIC POWER COMPANY,JP3585800000,D3510,JP,,FY19,,,TEPCO/sasb2020-e.pdf,3,,"The entity shall discuss its operations in markets with RPS regulations or where regulations are emerging, including whether it is meeting its regulatory obligations, whether regulations require future increases or changes to the entity’s renewable energy portfolio, and strategies to maintain compliance with emerging regulations.",Not Applicable,,,EF.6.3,,,IF-EU,IF-EU-110a.4c,"Number, Percentage (%)",,,Baltzell
+TOKYO ELECTRIC POWER COMPANY,JP3585800000,D3510,JP,,FY19,,,TEPCO/sasb2020-e.pdf,3,,Number of incidents of non-compliance with physical and/or cybersecurity standards or regulations,[not disclosed],,,EF.7.1,,,IF-EU,IF-EU-550a.1a,Number,,,Baltzell
+TOKYO ELECTRIC POWER COMPANY,JP3585800000,D3510,JP,,FY19,,,TEPCO/sasb2020-e.pdf,3,,System Average Interruption Duration Index (SAIDI),200.00,,minutes,EF.7.2,200.00,minutes,IF-EU,IF-EU-550a.2a,"Minutes, Number",,,Baltzell
+TOKYO ELECTRIC POWER COMPANY,JP3585800000,D3510,JP,,FY19,,,TEPCO/sasb2020-e.pdf,3,,System Average Interruption Frequency Index (SAIFI),0.33,,times,EF.7.3,0.33,times,IF-EU,IF-EU-550a.2b,"Minutes, Number",,,Baltzell
+TOKYO ELECTRIC POWER COMPANY,JP3585800000,D3510,JP,,FY19,,,TEPCO/sasb2020-e.pdf,3,,"Customer Average Interruption Duration Index (CAIDI), inclusive of major event days",606.06,,minutes/times,EF.7.4,606.06,minutes/times,IF-EU,IF-EU-550a.2c,"Minutes, Number",,,Baltzell
+TOKYO ELECTRIC POWER COMPANY,JP3585800000,D3510,JP,,FY19,,,TEPCO/sasb2020-e.pdf,3,,The entity shall discuss notable service disruptions such as those that affected a significant number of customers or disruptions of extended duration,[not disclosed],,number,EF.7.5,,,IF-EU,IF-EU-550a.2d,"Minutes, Number",,,Baltzell
+TOKYO ELECTRIC POWER COMPANY,JP3585800000,D3510,JP,,FY19,,,TEPCO/sasb2020-e.pdf,3,,Percentage of electric utility revenues from rate structures that are decoupled,Not Applicable,,,EF.8.1,,,IF-EU,IF-EU-420a.1a,Percentage (%),,,Baltzell
+TOKYO ELECTRIC POWER COMPANY,JP3585800000,D3510,JP,,FY19,,,TEPCO/sasb2020-e.pdf,3,,Percentage of electric utility revenues from rate structures that contain a lost revenue adjustment mechanism (LRAM),Not Applicable,,,EF.8.2,,,IF-EU,IF-EU-420a.1b,Percentage (%),,,Baltzell
+TOKYO ELECTRIC POWER COMPANY,JP3585800000,D3510,JP,,FY19,,,TEPCO/sasb2020-e.pdf,3,,Percentage of electric load served by smart grid technology,[not disclosed],,,EF.8.3,,,IF-EU,IF-EU-420a.2a,Percentage (%) by megawatt hours (MWh),,,Baltzell
+TOKYO ELECTRIC POWER COMPANY,JP3585800000,D3510,JP,,FY19,,,TEPCO/sasb2020-e.pdf,3,,The entity shall discuss the opportunities and challenges associated with the development and operations of a smart grid,"Offering Electricity
+Saving Solutions to
+Approx. 750 Companies
+Approx. 39,000 Households
+Offering Online Services to
+9,294,043 Members",,text,EF.8.4,,,IF-EU,IF-EU-420a.2b,Percentage (%) by megawatt hours (MWh),,,Baltzell
+TOKYO ELECTRIC POWER COMPANY,JP3585800000,D3510,JP,,FY19,,,TEPCO/sasb2020-e.pdf,3,,Customer electricity savings from efficiency measures by market,[not disclosed],,,EF.8.5,,,IF-EU,IF-EU-420a.3a,Megawatt hours (MWh),,,Baltzell
+TOKYO ELECTRIC POWER COMPANY,JP3585800000,D3510,JP,,FY19,,,TEPCO/sasb2020-e.pdf,3,,The entity shall discuss customer efficiency regulations relevant to each market in which it operates,[not disclosed],,,EF.8.6,,,IF-EU,IF-EU-420a.3b,Megawatt hours (MWh),,,Baltzell
+TOKYO ELECTRIC POWER COMPANY,JP3585800000,D3510,JP,,FY19,,,TEPCO/sasb2020-e.pdf,3,,Average retail electric rate for residential customers,27.05,,JPY,EF.9.1,27.05,JPY,IF-EU,IF-EU-240a.1a,Rate,,,Baltzell
+TOKYO ELECTRIC POWER COMPANY,JP3585800000,D3510,JP,,FY19,,,TEPCO/sasb2020-e.pdf,3,,Average retail electric rate for commercial customers,20.57,,JPY,EF.9.2,20.57,JPY,IF-EU,IF-EU-240a.1b,Rate,,,Baltzell
+TOKYO ELECTRIC POWER COMPANY,JP3585800000,D3510,JP,,FY19,,,TEPCO/sasb2020-e.pdf,3,,Average retail electric rate for industrial customers,20.57,,JPY,EF.9.3,20.57,JPY,IF-EU,IF-EU-240a.1c,Rate,,,Baltzell
+TOKYO ELECTRIC POWER COMPANY,JP3585800000,D3510,JP,,FY19,,,TEPCO/sasb2020-e.pdf,3,,Typical monthly electric bill for residential customers for 500 kWh of electricity delivered per month,13180.00,,JPY,EF.9.4,13180.00,JPY,IF-EU,IF-EU-240a.2a,Reporting currency,,,Baltzell
+TOKYO ELECTRIC POWER COMPANY,JP3585800000,D3510,JP,,FY19,,,TEPCO/sasb2020-e.pdf,3,,"Typical monthly electric bill for residential customers for 1,000 kWh of electricity delivered per month",28494.00,,JPY,EF.9.5,28494.00,JPY,IF-EU,IF-EU-240a.2b,Reporting currency,,,Baltzell
+TOKYO ELECTRIC POWER COMPANY,JP3585800000,D3510,JP,,FY19,,,TEPCO/sasb2020-e.pdf,3,,Number of residential customer electric disconnections for non payment,75143.00,,number,EF.9.6,75143.00,number,IF-EU,IF-EU-240a.3a,"Number, Percentage (%)",,,Baltzell
+TOKYO ELECTRIC POWER COMPANY,JP3585800000,D3510,JP,,FY19,,,TEPCO/sasb2020-e.pdf,3,,Percentage of residential customer electric disconnections for non payment that were reconnected within 30 days,[not disclosed],,,EF.9.7,,,IF-EU,IF-EU-240a.3b,"Number, Percentage (%)",,,Baltzell
+TOKYO ELECTRIC POWER COMPANY,JP3585800000,D3510,JP,,FY19,,,TEPCO/sasb2020-e.pdf,3,,"Discussion of impact of external factors on customer affordability of electricity, including the economic conditions of the service territory","According to Electricity Business Act,""A General Electricity Utility shall not refuse to supply electricity to meet general demand in its service
+area (excluding, however, demand at the Point of Business Commencement and Specified-Scale Demand) without justifiable grounds.""
+Thus, we do not recognize there are any areas without electricity in all the service areas of the TEPCO group.
+We also recognize that external factors which impact electricity rates are fluctuations in the price of thermal power fuels and levies from
+the Feed-in-tariff law for renewable energies.(price based regulations: requires electricity companies to purchase renewable energy at a
+certain price",,text,EF.9.8,,,IF-EU,IF-EU-240a.4a,n/a,,,Baltzell
+TOKYO ELECTRIC POWER COMPANY,JP3585800000,D3510,JP,,FY19,,,TEPCO/sasb2020-e.pdf,3,,Gross global Scope 1 emissions,200000.00,,t-CO2,Em.1.1,200000.00,mtCO2e,IF-EU,IF-EU-110a.1a,"Mg (t) CO_-e, Percentage (%)",C6.1,C6.1.1,Baltzell
+TOKYO ELECTRIC POWER COMPANY,JP3585800000,D3510,JP,,FY19,,,TEPCO/sasb2020-e.pdf,3,,"Discussion of long-term and short-term strategy or plan to manage Scope 1 emissions, emissions reduction targets, and an analysis of performance against those targets","Since the TEPCO Group transferred its fuel and thermal power operations to JERA in April 2019, scope 1 emissions are extremely low,
+at 200,000 t-CO2. On the other hand, electric power retailers are required to calculate and report greenhouse gas emissions at the retail
+stage, which are major part of Scope 3 emissions, in accordance with the ""Act on Promotion of Global Warming Countermeasures"". For
+this reason, the TEPCO Group has set a target of reducing CO2 emissions from retail electricity sales by 50% by fiscal 2030 (compared to
+fiscal 2013). CO2 emissions were 139.2 million tons in fiscal 2013, and were reduced to 92.6 million tons in fiscal 2019 due to the spread
+of renewable energy and the procurement of electricity from high-efficiency thermal power plants. In the future, we will work to expand
+renewable energy further and to restart nuclear power in order to contribute to achieving the target.",,text,Em.14.7,,,IF-EU,IF-EU-110a.3a,n/a,,,Baltzell
+TOKYO ELECTRIC POWER COMPANY,JP3585800000,D3510,JP,,FY19,,,TEPCO/sasb2020-e.pdf,3,,Air emissions from NO (excluding N O),2000.00,,tonnes,Em.17.10,2000.00,Mg,IF-EU,IF-EU-120a.1a,"Mg (t), Percentage (%)",,,Baltzell
+TOKYO ELECTRIC POWER COMPANY,JP3585800000,D3510,JP,,FY19,,,TEPCO/sasb2020-e.pdf,3,,Air emissions from particulate matter (PM ),N/A,,,Em.17.11,,,IF-EU,IF-EU-120a.1c,"Mg (t), Percentage (%)",,,Baltzell
+TOKYO ELECTRIC POWER COMPANY,JP3585800000,D3510,JP,,FY19,,,TEPCO/sasb2020-e.pdf,3,,Air emissions from SO,1000.00,,,Em.17.13,1000.00,Mg,IF-EU,IF-EU-120a.1b,"Mg (t), Percentage (%)",,,Baltzell
+TOKYO ELECTRIC POWER COMPANY,JP3585800000,D3510,JP,,FY19,,,TEPCO/sasb2020-e.pdf,3,,Air emissions from lead (Pb),N/A,,,Em.17.6,,,IF-EU,IF-EU-120a.1d,"Mg (t), Percentage (%)",,,Baltzell
+TOKYO ELECTRIC POWER COMPANY,JP3585800000,D3510,JP,,FY19,,,TEPCO/sasb2020-e.pdf,3,,Air emissions from mercury (Hg),N/A,,,Em.17.8,,,IF-EU,IF-EU-120a.1e,"Mg (t), Percentage (%)",,,Baltzell
+TOKYO ELECTRIC POWER COMPANY,JP3585800000,D3510,JP,,FY19,,,TEPCO/sasb2020-e.pdf,3,,Percentage of gross global Scope 1 emissions covered under emissions-limiting regulations,[not disclosed],,,Em.2.1,,,IF-EU,IF-EU-110a.1b,"Mg (t) CO_-e, Percentage (%)",,,Baltzell
+TOKYO ELECTRIC POWER COMPANY,JP3585800000,D3510,JP,,FY19,,,TEPCO/sasb2020-e.pdf,3,,Percentage of gross global Scope 1 emissions covered under emissions-reporting regulations,[not disclosed],,,Em.2.2,,,IF-EU,IF-EU-110a.1c,"Mg (t) CO_-e, Percentage (%)",,,Baltzell
+TOKYO ELECTRIC POWER COMPANY,JP3585800000,D3510,JP,,FY19,,,TEPCO/sasb2020-e.pdf,3,,Greenhouse gas (GHG) emissions associated with power deliveries,102000000.00,,t-CO2,Em.5.5,102000000.00,mtCO2e,IF-EU,IF-EU-110a.2a,Mg (t) CO_-e,,,Baltzell
+TOKYO ELECTRIC POWER COMPANY,JP3585800000,D3510,JP,,FY19,,,TEPCO/sasb2020-e.pdf,3,,Total water consumed,6.00,,"1,000m3",WR.1.1,0.01,dam3,IF-EU,IF-EU-140a.1b,"Thousand cubic meters (m_), Percentage (%)",,,Baltzell
+TOKYO ELECTRIC POWER COMPANY,JP3585800000,D3510,JP,,FY19,,,TEPCO/sasb2020-e.pdf,3,,Percentage of water consumed in regions with High or Extremely High Baseline Water Stress,[not disclosed],,,WR.1.3,,,IF-EU,IF-EU-140a.1d,"Thousand cubic meters (m_), Percentage (%)",,,Baltzell
+TOKYO ELECTRIC POWER COMPANY,JP3585800000,D3510,JP,,FY19,,,TEPCO/sasb2020-e.pdf,3,,Total water withdrawn,50037979.00,,"1,000m3",WR.2.1,50037.98,dam3,IF-EU,IF-EU-140a.1a,"Thousand cubic meters (m_), Percentage (%)",,,Baltzell
+TOKYO ELECTRIC POWER COMPANY,JP3585800000,D3510,JP,,FY19,,,TEPCO/sasb2020-e.pdf,3,,Percentage of water withdrawn in regions with High or Extremely High Baseline Water Stress,[not disclosed],,,WR.2.3,,,IF-EU,IF-EU-140a.1c,"Thousand cubic meters (m_), Percentage (%)",,,Baltzell
+TOKYO ELECTRIC POWER COMPANY,JP3585800000,D3510,JP,,FY19,,,TEPCO/sasb2020-e.pdf,3,,"Number of incidents of non-compliance associated with water quantity and/or quality permits, standards, and regulations",0.00,,number,WR.3.1,0.00,number,IF-EU,IF-EU-140a.2a,Number,,,Baltzell
+TOKYO ELECTRIC POWER COMPANY,JP3585800000,D3510,JP,,FY19,,,TEPCO/sasb2020-e.pdf,3,,Description of water management risks and discussion of strategies and practices to mitigate those risks,"The TEPCO Group operates hydroelectric power plants in more than 200 locations in Honshu, Japan, and the amount of power
+generation accounts for about 98% of the total. The use of water resources is essential for a clean hydroelectric power generation
+business that does not emit CO2 during power generation, and the following risk management is carried out.
+At dams and downstream of embankments at hydroelectric power plants, the water necessary to maintain the environment of the
+river is discharged, and the amount of water withdrawn from the river for power generation complies with the amount of water intake
+permitted by law. In addition, when river flooding due to heavy rain is expected, water will be discharged in advance from the dam
+based on the flood control agreement with the national government, and it plays an important role in reducing heavy rain damage in
+regional disaster prevention.
+The results of verifying water stress in the area where our facility is located by using “WRI Aqueduct Water Risk Atlas” tool to identify water
+risk are as follows.
+According to the ""Baseline Water Stress"", water stress is ""Medium-high"" at the maximum in the business area of the TEPCO Group. So
+there are no facilities such as hydroelectric power plants in water-stressed areas, and it is assumed that the frequency of water-related
+risks such as drought is low. In ""Future Water Stress"", there is a suggestion that water stress may be higher. With reference to this result,
+we will carry out risk assessment based on the actual water usage conditions at specific rivers and basins, as well as at power plants
+locations, and will continue to strive for risk management.
+In the future, we will consider long-term strategies regarding the impact of physical risks on our facilities such as floods due to climate
+change.",,text,WR.3.2,,,IF-EU,IF-EU-140a.3a,n/a,,,Baltzell
+VALE SA,BRVALEACNOR0,B0710,BR,,FY17,,,Relatorio_Sustentabilidade_Vale_2019-en.pdf,103,,Gross global Scope 1 emissions,12.40,,million mtCO2e,Em.1.1,12400000.00,mtCO2e,EM-MM,EM-MM-110a.1a,"Mg (t) CO_-e, Percentage (%)",C6.1,C6.1.1,Baltzell
+VALE SA,BRVALEACNOR0,B0710,BR,,FY17,,,Relatorio_Sustentabilidade_Vale_2019-en.pdf,109,,Air emissions for the following pollutant: NO (excluding N O),86.80,,thousand tons,Em.17.10,86800.00,Mg,EM-MM,EM-MM-120a.1b,Mg (t),,,Baltzell
+VALE SA,BRVALEACNOR0,B0710,BR,,FY17,,,Relatorio_Sustentabilidade_Vale_2019-en.pdf,108,,Air emissions for the following pollutant: particulate matter (PM),10.40,,thousand tons,Em.17.11,10400.00,Mg,EM-MM,EM-MM-120a.1d,Mg (t),,,Baltzell
+VALE SA,BRVALEACNOR0,B0710,BR,,FY17,,,Relatorio_Sustentabilidade_Vale_2019-en.pdf,109,,Air emissions for the following pollutant: SO,291.80,,thousand tons,Em.17.13,291800.00,Mg,EM-MM,EM-MM-120a.1c,Mg (t),,,Baltzell
+VALE SA,BRVALEACNOR0,B0710,BR,,FY18,,,Relatorio_Sustentabilidade_Vale_2019-en.pdf,103,,Gross global Scope 1 emissions,13.00,,million mtCO2e,Em.1.1,13000000.00,mtCO2e,EM-MM,EM-MM-110a.1a,"Mg (t) CO_-e, Percentage (%)",C6.1,C6.1.1,Baltzell
+VALE SA,BRVALEACNOR0,B0710,BR,,FY18,,,Relatorio_Sustentabilidade_Vale_2019-en.pdf,109,,Air emissions for the following pollutant: NO (excluding N O),81.90,,thousand tons,Em.17.10,81900.00,Mg,EM-MM,EM-MM-120a.1b,Mg (t),,,Baltzell
+VALE SA,BRVALEACNOR0,B0710,BR,,FY18,,,Relatorio_Sustentabilidade_Vale_2019-en.pdf,108,,Air emissions for the following pollutant: particulate matter (PM),8.10,,thousand tons,Em.17.11,8100.00,Mg,EM-MM,EM-MM-120a.1d,Mg (t),,,Baltzell
+VALE SA,BRVALEACNOR0,B0710,BR,,FY18,,,Relatorio_Sustentabilidade_Vale_2019-en.pdf,109,,Air emissions for the following pollutant: SO,170.70,,thousand tons,Em.17.13,170700.00,Mg,EM-MM,EM-MM-120a.1c,Mg (t),,,Baltzell
+VALE SA,BRVALEACNOR0,B0710,BR,,FY19,,,Relatorio_Sustentabilidade_Vale_2019-en.pdf,105,,Total energy consumed,165.80,,thousand TJ,EF.1.1,46055592.40,MWh,EM-MM,EM-MM-130a.1a,"Gigajoules (GJ), Percentage (%)",,,Baltzell
+VALE SA,BRVALEACNOR0,B0710,BR,,FY19,,,Relatorio_Sustentabilidade_Vale_2019-en.pdf,103,,Gross global Scope 1 emissions,11.30,,million mtCO2e,Em.1.1,11300000.00,mtCO2e,EM-MM,EM-MM-110a.1a,"Mg (t) CO_-e, Percentage (%)",C6.1,C6.1.1,Baltzell
+VALE SA,BRVALEACNOR0,B0710,BR,,FY19,,,Relatorio_Sustentabilidade_Vale_2019-en.pdf,109,,Air emissions for the following pollutant: NO (excluding N O),35.00,,thousand tons,Em.17.10,35000.00,Mg,EM-MM,EM-MM-120a.1b,Mg (t),,,Baltzell
+VALE SA,BRVALEACNOR0,B0710,BR,,FY19,,,Relatorio_Sustentabilidade_Vale_2019-en.pdf,108,,Air emissions for the following pollutant: particulate matter (PM),3.70,,thousand tons,Em.17.11,3700.00,Mg,EM-MM,EM-MM-120a.1d,Mg (t),,,Baltzell
+VALE SA,BRVALEACNOR0,B0710,BR,,FY19,,,Relatorio_Sustentabilidade_Vale_2019-en.pdf,109,,Air emissions for the following pollutant: SO,86.30,,thousand tons,Em.17.13,86300.00,Mg,EM-MM,EM-MM-120a.1c,Mg (t),,,Baltzell
+VALE SA,BRVALEACNOR0,B0710,BR,,FY19,,,Relatorio_Sustentabilidade_Vale_2019-en.pdf,,"Climate change is one of humanity’s main risks today.
+Increasing demands from society, the market and other
+stakeholders, in addition to competitiveness issues, reinforce
+Vale’s commitment to contribute to a low-carbon economy.
+Vale recognizes that climate change represents one of society’s
+greatest challenges and is committed to contributing to
+solutions that limit temperature increases to 2°C, as defined
+in the Paris Agreement. In this regard, in 2019, the Board of
+Directors of Vale updated the organization’s carbon neutral
+mining strategy17.
+Vale aims to act actively to induce the neutrality of greenhouse
+gas emissions in the steel, metallurgical and shipping chains.
+In this context, the company’s main commitment is to become
+carbon neutral in its operations (scopes 1 and 2) by 2050.
+In 2018, the target was set to reduce the intensity of
+greenhouse gas emissions by 16%. In 2019, although absolute
+emissions were approximately 11% lower, the intensity of
+emissions grew 8%18 compared to the base year of 2017.
+In 2019, the company published a group of sustainability
+goals (link to the governance part - goals), including new
+commitments to reduce reduce greenhouse gas (GHG)
+emissions, bolder than goals established previously in 2018,
+aiming to become a carbon neutral mining company.
+• To reduce the absolute emission of scopes 1 and 2 in 2030,
+aligned with the Paris Agreement19;
+• To become carbon neutral (scope 1 and 2) by 2050;
+• To adopt a shadow price of USD 50 per ton of CO2
+equivalent, to be used in the economic feasibility studies
+of projects;
+To adopt a shadow price of USD 10 a ton of CO2
+ equivalent
+for carbon sequestration in forest restoration and
+reforestation projects;
+• To adopt a target for scope 3 emissions.","Discussion of long-term and short-term strategy or plan to manage Scope 1 emissions, emissions reduction targets, and an analysis of performance against those targets",,,,Em.6.6,,,EM-MM,EM-MM-110a.2a,n/a,,,Baltzell

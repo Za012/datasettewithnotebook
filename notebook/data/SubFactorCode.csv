@@ -1,0 +1,120 @@
+Sub-FactorCode,SubFactor
+EF.1.1,Total energy consumed
+EF.1.4,Total energy from electricity
+EF.1.8,Total energy from renewables
+EF.1.10,Total energy from other fuels
+EF.1.11,Renewable Energy Credits
+EF.1.12,Power Purchase Agreements
+EF.1.13,On-Site Renewable Energy
+EF.1.14,Non-Renewable Electricity by Region
+EF.1.15,Non-Renewable Electricity by Source - Coal
+EF.1.16,Non-Renewable Electricity by Source - Petroleum
+EF.1.17,Non-Renewable Electricity by Source - Natural Gas
+EF.1.18,Non-Renewable Electricity by Source - Nuclear
+EF.1.19,Renewable Energy Purchased & Consumed by region
+EF.1.20,Renewable Energy Purchased & Consumed - Wind
+EF.1.21,Renewable Energy Purchased & Consumed - Landfill Gas
+EF.1.22,Renewable Energy Purchased & Consumed - Biomass
+EF.1.23,Renewable Energy Purchased & Consumed - Hydro
+EF.1.24,Renewable Energy Purchased & Consumed - Geothermal
+EF.1.25,Renewable Energy Purchased & Consumed - Solar
+EF.2.1,% of energy from alternative sources
+EF.2.4,% of energy from grid
+EF.2.7,% of energy from renewables
+EF.6.1,Number of customers served in markets subject to renewable portfolio standards (RPS)
+EF.6.2,Percentage fulfillment of renewable portfolio standards (RPS) target by market
+EF.6.3,Strategy
+EF.7.1,Number of incidents of non-compliance with physical and/or cybersecurity standards or regulations
+EF.7.2,System Average Interruption Duration Index (SAIDI)
+EF.7.3,System Average Interruption Frequency Index (SAIFI)
+EF.7.4,"Customer Average Interruption Duration Index (CAIDI), inclusive of major event days"
+EF.7.5,The entity shall discuss notable service disruptions such as those that affected a significant number of customers or disruptions of extended duration
+EF.8.1,Percentage of electric utility revenues from rate structures that are decoupled
+EF.8.2,Percentage of electric utility revenues from rate structures that contain a lost revenue adjustment mechanism (LRAM)
+EF.8.3,Percentage of electric load served by smart grid technology
+EF.8.4,The entity shall discuss the opportunities and challenges associated with the development and operations of a smart grid
+EF.8.5,Customer electricity savings from efficiency measures by market
+EF.8.6,The entity shall discuss customer efficiency regulations relevant to each market in which it operates
+EF.9.1,Average retail electric rate for residential customers
+EF.9.2,Average retail electric rate for commercial customers
+EF.9.3,Average retail electric rate for industrial customers
+EF.9.4,Typical monthly electric bill for residential customers for 500 kWh of electricity delivered per month
+EF.9.5,"Typical monthly electric bill for residential customers for 1,000 kWh of electricity delivered per month"
+EF.9.6,Number of residential customer electric disconnections for non payment
+EF.9.7,Percentage of residential customer electric disconnections for non payment that were reconnected within 30 days
+EF.9.8,"Discussion of impact of external factors on customer affordability of electricity, including the economic conditions of the service territory"
+Em.1.1,
+Em.2.1,"Scope 1 Emissions, % regulated under emissions-limiting regulations"
+Em.2.2,"Scope 1 Emissions, % regulated under emissions-reporting regulations"
+Em.3.1,
+Em.4.7,Carbon dioxide (CO2) (million tonnes)
+Em.4.8,Methane (CH4) (Gg)
+Em.4.9,Nitrous oxide (N2O) (Gg)
+Em.4.10,Hydrofluorocarbons (HFCs) (tonnes)
+Em.4.11,Perfluorocarbons (PFCs) (tonnes)
+Em.4.12,Sulfur hexafluoride (SF6)
+Em.5.1,Upstream
+Em.5.2,Integrated Gas
+Em.5.3,Downstream
+Em.5.4,GHG emissions associated with exported energy (subset of direct GHGs)
+Em.5.5,Greenhouse gas (GHG) emissions associated with power deliveries
+Em.6.1,0
+Em.6.6,0
+Em.7.0,
+Em.7.1,Scope 2 - Location-Based
+Em.7.2,Scope 2 - Market-Based1
+Em.9.1,Upstream
+Em.9.2,Integrated Gas
+Em.9.3,Downstream
+Em.11.3,Fuel-and-energy-related activities (not included in Scope 1 or 2)
+Em.11.4,Upstream transportation and distribution
+Em.11.5,Waste generated in operations
+Em.11.6,Business travel
+Em.11.7,Employee commuting
+Em.11.9,Downstream transportation and distribution
+Em.11.11,Use of sold products
+Em.11.12,End of life treatment of sold products
+Em.11.13,Downstream leased assets
+Em.11.18,Purchased Goods & Services / Capital Goods
+Em.12.1,
+Em.13.1,unit total revenue
+Em.13.8,megawatt hour generated (MWh)
+Em.13.29,Upstream and Integrated Gas GHG intensity
+Em.13.30,Refinery GHG intensity
+Em.13.31,Chemical GHG intensity
+Em.14.7,Strategy
+Em.17.1,CO
+Em.17.2,Ozone depleting substances
+Em.17.6,lead (Pb)
+Em.17.8,mercury (Hg)
+Em.17.10,NO (excluding N O)
+Em.17.11,particulate matter (PM)
+Em.17.13,SO
+Em.17.14,volatile organic compounds (VOCs)
+Em.17.15,Percentage of mercury (Hg) emissions in or near areas of dense population
+Em.17.16,Percentage of NO (excluding N O) emissions in or near areas of dense population
+Em.17.17,Percentage of particulate matter (PM ) emissions in or near areas of dense population
+Em.17.18,Percentage of SO emissions in or near areas of dense population
+Em.17.19,Percentage of lead (Pb) emissions in or near areas of dense population
+HOLD OFF.???.0,#N/A
+OE.1.1,#N/A
+OE.1.2,#N/A
+OE.4.1,#N/A
+OE.4.2,#N/A
+OE.???.0,#N/A
+OE.N/A.0,#N/A
+Po.0.0,0
+TR.0.0,0
+WR.1.0,Percentage recycled of total fresh water withdrawn
+WR.1.1,Total water consumed
+WR.1.2,Total fresh water consumed
+WR.1.3,% consumed in regions with High or Extremely High Baseline Water Stress
+WR.2.0,#N/A
+WR.2.1,Total water withdrawn
+WR.2.2,Total fresh water withdrawn
+WR.2.3,% withdrawn in regions with High or Extremely High Baseline Water Stress
+WR.2.4,Percentage of fresh water withdrawn in regions with High or Extremely High Baseline Water Stress
+WR.2.5,Percentage of fresh water withdrawn in regions with High or Extremely High Baseline Water Stress
+WR.3.1,Non-compliance incidents
+WR.3.2,Strategy
+WR.14.0,#N/A

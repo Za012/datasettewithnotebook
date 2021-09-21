@@ -1,0 +1,78 @@
+{
+    "title": "CORP Dataset Browser Demonstration",
+    "description_html": "Browse hand-curated corporate datasets with Datasette.<br><p>The dataset <b>corp data</b> uses OS-Climate Factors to define the metrics of various ESG disclosures curated by the OS-Climate team.</p><p>The dataset <b>SASB dummy</b> is populated with dummy data for a wide range of SASB metrics across several industries, with a large chunk of fictitious utiltiies in the Infrastructor sector.  All data in this dataset is dummy data.</p><p>Use the <em>Facets</em> defined for each dataset to winnow the data down to something browsable, then save the results as a CSV or JSON file for further processing.",
+    "license": "MIT License",
+    "license_url": "https://github.com/catalyst-cooperative/pudl/blob/main/LICENSE.txt",
+    "source": "OS-Climate",
+    "source_url": "https://os-climate.org",
+    "custom_units": [
+        "USD = []",
+        "Mcf = 1e6 * feet**3 = _ = mcf",
+        "gramsU = 1 * gram",
+        "kgU = 1000 * gramsU",
+        "mwhth = MWh",
+        "mwdth = 24 * mwhth",
+        "MMBTU = 1e6 * BTU = _ = mmbtu",
+        "fraction = [] = frac",
+        "percent = 1e-2 frac = pct",
+        "ppm = 1e-6 fraction"
+    ],
+    "databases": {
+        "corp data": {
+            "queries": {
+            },
+            "tables": {
+                "test set refactored": {
+                    "description_html": "corp data test compound foreign keys",
+                    "license": "MIT License",
+                    "license_url": "https://github.com/catalyst-cooperative/pudl/blob/main/LICENSE.txt",
+                    "size": 10
+                },
+                "FactorAreaCode": {
+                    "label_column": "FactorArea",
+                    "hidden": true,
+                    "size": 10
+                },
+                "FactorCode": {
+                    "label_column": "Factor",
+                    "hidden": true,
+                    "size": 10
+                },
+                "SubFactorCode": {
+                    "label_column": "SubFactor",
+                    "hidden": true,
+                    "size": 10
+                },
+                "SASB dummy": {
+                    "facets": ["SectorCode", "IndustryCode"],
+                    "size": 10
+                },
+                "SASB-sector": {
+                    "label_column": "Sector",
+                    "hidden": true,
+                    "size": 10
+                },
+                "SASB-industry": {
+                    "label_column": "Industry",
+                    "hidden": true,
+                    "size": 10
+                },
+                "SASB-disclosure-topic": {
+                    "label_column": "DisclosureTopic",
+                    "hidden": true,
+                    "size": 10
+                },
+                "SASB-accounting-metric": {
+                    "label_column": "AccountingMetricorActivityMetric",
+                    "hidden": true,
+                    "size": 10
+                },
+                "SASB-sub-metric": {
+                    "label_column": "Sub-MetricORSub-ActivityMetric",
+                    "hidden": true,
+                    "size": 10
+                }
+            }
+        }
+    }
+}

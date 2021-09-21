@@ -1,0 +1,16 @@
+FROM datasetteproject/datasette
+
+# If you want to write
+# a block-commented Haiku
+# you'll need three pound signs
+
+RUN datasette install sqlite-utils
+RUN datasette install datasette-vega datasette-cluster-map datasette-dashboards datasette-export-notebook
+RUN datasette install datasette-column-inspect
+RUN datasette install datasette-configure-fts
+
+# EXPOSE 8001 8002
+
+# The filesystem as seen by datasette is ./notebook/database mounted as /work
+
+ENTRYPOINT [ "datasette" ]

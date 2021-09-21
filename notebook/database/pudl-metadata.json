@@ -1,0 +1,292 @@
+{
+    "title": "PUDL 0.4.0 Dataset",
+    "description": "Public Utilities Data from EIA, FERC, and US CENSUS databases",
+    "license": "MIT License",
+    "license_url": "https://github.com/catalyst-cooperative/pudl/blob/main/LICENSE.txt",
+    "source": "The Public Utility Data Liberation Project (PUDL)",
+    "source_url": "https://github.com/catalyst-cooperative/pudl",
+    "custom_units": [
+        "USD = []",
+        "Mcf = 1e6 * feet**3 = _ = mcf",
+        "gramsU = 1 * gram",
+        "kgU = 1000 * gramsU",
+        "mwhth = MWh",
+        "mwdth = 24 * mwhth",
+        "MMBTU = 1e6 * BTU = _ = mmbtu",
+        "fraction = [] = frac",
+        "percent = 1e-2 frac = pct",
+        "ppm = 1e-6 fraction"
+    ],
+    "databases": {
+        "pudl": {
+            "queries": {
+            },
+            "tables": {
+                "assn_gen_eia_unit_epa": {
+                    "description_html": "Custom <em>table</em> description",
+                    "license": "MIT License",
+                    "license_url": "https://github.com/catalyst-cooperative/pudl/blob/main/LICENSE.txt",
+                    "size": 10
+                },
+                "assn_plant_id_eia_epa": {
+                    "size": 10
+                },
+                "boiler_fuel_eia923": {
+                    "facets": ["fuel_type_code"],
+                    "units": {
+                        "sulfur_content_pct": "pct",
+                        "ash_content_pct": "pct"
+                    },
+                    "size": 10
+                },
+                "boiler_generator_assn_eia860": {
+                    "size": 10
+                },
+                "boilers_entity_eia": {
+                    "size": 10
+                },
+                "coalmine_eia923": {
+                    "size": 10
+                },
+                "energy_source_eia923": {
+                    "size": 10
+                },
+                "ferc_accounts": {
+                    "size": 10
+                },
+                "ferc_depreciation_lines": {
+                    "size": 10
+                },
+                "fuel_ferc1": {
+                    "units": {
+                        "fuel_cost_per_mmbtu": "USD/MMBTU"
+                    },
+                    "size": 10
+                },
+                "fuel_receipts_costs_eia923": {
+                    "units": {
+                        "fuel_cost_per_mmbtu": "USD/MMBTU"
+                    },
+                    "size": 10
+                },
+                "fuel_type_aer_eia923": {
+                    "size": 10
+                },
+                "fuel_type_eia923": {
+                    "size": 10
+                },
+                "generation_eia923": {
+                    "units": {
+                        "net_generation_mwh": "MWh"
+                    },
+                    "size": 10
+                },
+                "generation_fuel_eia923": {
+                    "units": {
+                        "fuel_consumed_mmbtu": "MMBTU",
+                        "net_generation_mwh": "MWh"
+                    },                   
+                    "size": 10
+                },
+                "generators_eia860": {
+                    "units": {
+                        "capacity_mw": "MW",
+                        "summer_capacity_mw": "MW",
+                        "winter_capacity_mw": "MW",
+                        "net_generation_mwh": "MWh",
+                        "planned_net_summer_capacity_uprate_mw": "MW",
+                        "planned_net_winter_capacity_uprate_mw": "MW",
+                        "planned_net_summer_capacity_derate_mw": "MW",
+                        "planned_net_winter_capacity_derate_mw": "MW",
+                        "planned_new_capacity_mw": "MW",
+                        "minimum_load_mw": "MW",
+                        "summer_estimated_capability_mw": "MW",
+                        "winter_estimated_capability_mw": "MW"
+                    },                   
+                    "size": 10
+                },
+                "generators_entity_eia": {
+                    "size": 10
+                },
+                "ownership_eia860": {
+                    "size": 10
+                },
+                "plant_in_service_ferc1": {
+                    "size": 10
+                },
+                "plant_unit_epa": {
+                    "size": 10
+                },
+                "plants_eia": {
+                    "size": 10
+                },
+                "plants_eia860": {
+                    "size": 10
+                },
+                "plants_entity_eia": {
+                    "size": 10
+                },
+                "plants_ferc1": {
+                    "size": 10
+                },
+                "plants_hydro_ferc1": {
+                    "units": {
+                        "capacity_mw": "MW",
+                        "peak_demand_mw": "MW",
+                        "net_capacity_favorable_conditions_mw": "MW",
+                        "net_capacity_adverse_conditions_mw": "MW",
+                        "net_generation_mwh": "MWh",
+                        "capex_land": "USD",
+                        "capex_structures": "USD",
+                        "capex_facilities": "USD",
+                        "capex_equipment": "USD",
+                        "capex_roads": "USD",
+                        "asset_retirement_cost": "USD",
+                        "capex_total": "USD",
+                        "capex_per_mw": "USD/MW",
+                        "opex_operations": "USD",
+                        "opex_water_for_power": "USD",
+                        "opex_hydraulic": "USD",
+                        "opex_electric": "USD",
+                        "opex_generation_misc": "USD",
+                        "opex_rents": "USD",
+                        "opex_engineering": "USD",
+                        "opex_structures": "USD",
+                        "opex_dams": "USD",
+                        "opex_plant": "USD",
+                        "opex_misc_plant": "USD",
+                        "opex_total": "USD",
+                        "opex_per_mwh": "USD/MWh"
+                    },               
+                    "size": 10
+                },
+                "plants_pudl": {
+                    "size": 10
+                },
+                "plants_pumped_storage_ferc1": {
+                    "units": {
+                        "capacity_mw": "MW",
+                        "peak_demand_mw": "MW",
+                        "plant_capability_mw": "MW",
+                        "net_generation_mwh": "MWh",
+                        "energy_used_for_pumping_mwh": "MWh",
+                        "net_load_mwh": "MWh",
+                        "capex_land": "USD",
+                        "capex_structures": "USD",
+                        "capex_facilities": "USD",
+                        "capex_wheels_turbines_generators": "USD",
+                        "capex_equipment_electric": "USD",
+                        "capex_equipment_misc": "USD",
+                        "capex_roads": "USD",
+                        "asset_retirement_cost": "USD",
+                        "capex_total": "USD",
+                        "capex_per_mw": "USD/MW",
+                        "opex_operations": "USD",
+                        "opex_water_for_power": "USD",
+                        "opex_pumped_storage": "USD",
+                        "opex_electric": "USD",
+                        "opex_generation_misc": "USD",
+                        "opex_rents": "USD",
+                        "opex_engineering": "USD",
+                        "opex_structures": "USD",
+                        "opex_dams": "USD",
+                        "opex_plant": "USD",
+                        "opex_misc_plant": "USD",
+                        "opex_production_before_pumping": "USD",
+                        "opex_pumping": "USD",
+                        "opex_total": "USD",
+                        "opex_per_mwh": "USD/MWh"
+                    },               
+                    "size": 10
+                },
+                "plants_small_ferc1": {
+                    "units": {
+                        "capacity_mw": "MW",
+                        "peak_demand_mw": "MW",
+                        "net_generation_mwh": "MWh",
+                        "total_cost_of_plant": "USD",
+                        "capex_per_mw": "USD/MW",
+                        "opex_total": "USD",
+                        "opex_fuel": "USD",
+                        "opex_maintenance": "USD",
+                        "fuel_cost_per_mmbtu": "USD/MMBTU"
+                    },               
+                    "size": 10
+                },
+                "plants_steam_ferc1": {
+                    "units": {
+                        "capacity_mw": "MW",
+                        "peak_demand_mw": "MW",
+                        "plant_capability_mw": "MW",
+                        "water_limited_capacity_mw": "MW",
+                        "not_water_limited_capacity_mw": "MW",
+                        "net_generation_mwh": "MWh",
+                        "capex_land": "USD",
+                        "capex_structures": "USD",
+                        "capex_equipment": "USD",
+                        "capex_total": "USD",
+                        "capex_per_mw": "USD/MW",
+                        "opex_operations": "USD",
+                        "opex_fuel": "USD",
+                        "opex_coolants": "USD",
+                        "opex_steam": "USD",
+                        "opex_steam_other": "USD",
+                        "opex_transfer": "USD",
+                        "opex_electric": "USD",
+                        "opex_misc_power": "USD",
+                        "opex_rents": "USD",
+                        "opex_allowances": "USD",
+                        "opex_engineering": "USD",
+                        "opex_structures": "USD",
+                        "opex_boiler": "USD",
+                        "opex_plants": "USD",
+                        "opex_misc_steam": "USD",
+                        "opex_production_tota;": "USD",
+                        "opex_per_mwh": "USD/MWh",
+                        "asset_retirement_cost": "USD"
+                    },               
+                    "size": 10
+                },
+                "prime_movers_eia923": {
+                    "size": 10
+                },
+                "purchased_power_ferc1": {
+                    "units": {
+                        "billing_demand_mw": "MW",
+                        "non_coincident_peak_demand_mw": "MW",
+                        "coincident_peak_demand_mw": "MW",
+                        "purchased_mwh": "MWh",
+                        "received_mwh": "MWh",
+                        "delivered_mwh": "MWh",
+                        "demand_charges": "USD",
+                        "energy_charges": "USD",
+                        "other_charges": "USD",
+                        "total_settlement": "USD"
+                    },
+                    "size": 10
+                },
+                "transport_modes_eia923": {
+                    "size": 10
+                },
+                "utilities_eia": {
+                    "size": 10
+                },
+                "utilities_eia860": {
+                    "size": 10
+                },
+                "utilities_entity_eia": {
+                    "size": 10
+                },
+                "utilities_ferc1": {
+                    "size": 10
+                },
+                "utilities_pudl": {
+                    "size": 10
+                },
+                "utility_plant_assn": {
+                    "size": 10
+                }
+            }
+        }
+    }
+}
