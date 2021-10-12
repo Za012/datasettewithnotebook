@@ -1,24 +1,24 @@
 version: "3"
 services:
-    notebook:
-        image: notebook
-        volumes:
-            - ./notebook:/home/jovyan/work
-        ports:
-            - 8888:8888
+    # notebook:
+    #     image: notebook
+    #     volumes:
+    #         - ./notebook:/home/jovyan/work
+    #     ports:
+    #         - 8888:8888
 
     corp_data:
         image: datasette
         volumes:
-            - ./notebook/database:/work
+            - ./notebook/database:/mnt
         ports:
             - 8001:8001
-        command: serve "/work/corp data.db" --cors --setting base_url /corp-datasette/ -p 8001 -h 0.0.0.0 --setting sql_time_limit_ms 500 --setting default_facet_size 50 --setting facet_time_limit_ms 500 --metadata /work/corp-metadata.json
+        command: serve "/work/corp data.db" --cors --setting base_url /corp-datasette/ -p 8001 -h 0.0.0.0 --setting sql_time_limit_ms 500 --setting default_facet_size 50 --setting facet_time_limit_ms 500 --metadata /mnt/corp-metadata.json
 
     pudl:
         image: datasette
         volumes:
-            - ./notebook/database:/work
+            - ./notebook/database:/mnt
         ports:
             - 8002:8002
-        command: serve /work/pudl.sqlite --cors --setting base_url /pudl-datasette/ -p 8002 -h 0.0.0.0 --setting sql_time_limit_ms 1500 --setting default_facet_size 50 --setting facet_time_limit_ms 1500 --metadata /work/pudl-metadata.json
+        command: serve /work/pudl.sqlite --cors --setting base_url /pudl-datasette/ -p 8002 -h 0.0.0.0 --setting sql_time_limit_ms 1500 --setting default_facet_size 50 --setting facet_time_limit_ms 1500 --metadata /mnt/pudl-metadata.json
