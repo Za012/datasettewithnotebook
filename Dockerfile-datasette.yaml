@@ -13,4 +13,4 @@ EXPOSE 8001
 
 # The filesystem as seen by datasette is ./notebook/database mounted as /mnt
 
-ENTRYPOINT [ "datasette" ]
+CMD [ 'datasette', 'serve', '/mnt/corp data.db', '--cors', '--setting base_url /corp-datasette/', '-p 8001', '-h 0.0.0.0', '--setting sql_time_limit_ms 500', '--setting default_facet_size 60', '--setting facet_time_limit_ms 500', '--metadata /mnt/corp-metadata.json' ]
