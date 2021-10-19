@@ -22,53 +22,53 @@
             "queries": {
             },
             "tables": {
-                "test set refactored": {
+                "test_set_refactored": {
                     "description_html": "corp data test compound foreign keys",
                     "license": "MIT License",
                     "license_url": "https://github.com/catalyst-cooperative/pudl/blob/main/LICENSE.txt",
                     "size": 10
                 },
-                "FactorAreaCode": {
-                    "label_column": "FactorArea",
+                "factor_area_code": {
+                    "label_column": "factor_area",
                     "hidden": true,
                     "size": 10
                 },
-                "FactorCode": {
-                    "label_column": "Factor",
+                "factor_code": {
+                    "label_column": "factor",
                     "hidden": true,
                     "size": 10
                 },
-                "SubFactorCode": {
-                    "label_column": "SubFactor",
+                "sub_factor_code": {
+                    "label_column": "sub_factor",
                     "hidden": true,
                     "size": 10
                 },
-                "SASB dummy": {
-                    "facets": ["SectorCode", "IndustryCode"],
+                "sasb_dummy": {
+                    "facets": ["sector_code", "industry_code"],
                     "size": 10
                 },
-                "SASB-sector": {
-                    "label_column": "Sector",
+                "sasb_sector": {
+                    "label_column": "sector",
                     "hidden": true,
                     "size": 10
                 },
-                "SASB-industry": {
-                    "label_column": "Industry",
+                "sasb_industry": {
+                    "label_column": "industry",
                     "hidden": true,
                     "size": 10
                 },
-                "SASB-disclosure-topic": {
-                    "label_column": "DisclosureTopic",
+                "sasb_disclosure_topic": {
+                    "label_column": "disclosure_topic",
                     "hidden": true,
                     "size": 10
                 },
-                "SASB-accounting-metric": {
-                    "label_column": "AccountingMetricorActivityMetric",
+                "sasb_accounting_metric": {
+                    "label_column": "accounting_metric_or_activity_metric",
                     "hidden": true,
                     "size": 10
                 },
-                "SASB-sub-metric": {
-                    "label_column": "Sub-MetricORSub-ActivityMetric",
+                "sasb-sub-metric": {
+                    "label_column": "sub_metric_or_sub_activity_metric",
                     "hidden": true,
                     "size": 10
                 }
